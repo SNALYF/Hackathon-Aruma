@@ -1,0 +1,233 @@
+======================================================================
+  PROTO-LANGUAGE DOCUMENT 2
+======================================================================
+
+Reconstruction tiers:
+  [1] citation     — token matched a dictionary citation form
+  [2] morphological — token segmented via interlinear corpus
+  [3] fallback     — lang1 form used with *-prefix + á→à correction
+
+Token statistics: 20 citation (31%),
+                  0 morphological (0%),
+                  44 fallback (68%)
+
+----------------------------------------------------------------------
+  PROTO-LANGUAGE TEXT
+----------------------------------------------------------------------
+
+*Pózabóza, *zérimizélimi *hére *vúruvúru.
+*Milizàrage *avérimimi *hére *tàzimaspiràkarinige *ubógubógumu.
+*shúynughóronulu *shissíragee *zàlimarézage.
+*Tàzimaspiràgarinini, *bóguzumu *hére *xàzimizimi.
+*Pelizhissíragee *múru *hére *bógudórumagoo *fíza
+*Vúrunàmoragee *lúmuralurázamu *hére *némanagee *zálumadárama.
+*Vízhissíragee *shisréza *hére *shàmishissíragee *shissíradàrima.
+*Polunàmoraguu *néri *hére *polubórumugoo *zélirilàrage.
+*Zúralu *véramizéridàgege, *vúruvúrumu.
+*Màlunoludúzumanu, *bóguzumu *hére *bógumu.
+*Milineli-túzuma-ni, *bógu-su-mu *hére *bógu-mu
+*Pózabóza, *zérimizélimi *hére *vúruvúru.
+*Milizàrage *avérimimi *hére *tàzimaspiràkarinige *ubógubógumu.
+*Babúnushkoo *xàrumútúzumago *xàzumumórumuzu.
+*Xíne *véramizéridàgego *kárunulu *hére *xéliri.
+
+----------------------------------------------------------------------
+  LINE-BY-LINE COMPARISON
+----------------------------------------------------------------------
+
+Line 1:
+  Proto : *Pózabóza, *zérimizélimi *hére *vúruvúru.
+  Lang1 : Pózabóza, zérimizélimi hére vúruvúru.
+  lang2  : Póngàbóngàgà, ngérímíngélímí hérì bbúúrúbúúrú.
+  lang3  : Pózàbózãã, tàzérímĩ́zélímĩ́ hére tàbúúrúbúúrú.
+  lang4  : Pózàbózã, dzérímĩ́zélímĩ́ hérì bvúúrúvúúrú.
+  lang5  : Póngàbónga, dngérimingélimi hére bvúruvúru.
+  lang6  : Pózabózã, dzérimĩzélimĩ hére tabúrubúru.
+  lang7  : Póngòbóngògò, ngérímĩ́ngélímĩ́ hérì vvúúrúvúúrú.
+
+Line 2:
+  Proto : *Milizàrage *avérimimi *hére *tàzimaspiràkarinige *ubógubógumu.
+  Lang1 : Milizárage avérimimi hére tázimaspirákarinige ubógubógumu.
+  lang2  : Mílíngàràqgì àgérímímí hérì ngímàhpíràqàríníqgì úbógúbógúmú.
+  lang3  : Mĩ́lízàràge àvérímĩ́mĩ́ hére tàzímã̀spíràkàrínĩ́ge úbógúbógúmṹ.
+  lang4  : Mĩ́lízàràqgì àgérímĩ́mĩ́ hérì dzímã̀spíràkàrínĩ́qgì úbógúbógúmṹ.
+  lang5  : Milingàràqge àgérimimi hére dngimàhpiràqàriniqge ubógubógumu.
+  lang6  : Mĩlizarage avérimĩmĩ hére dzimãspiraqarinĩge ubógubógumũ.
+  lang7  : Mĩ́língèrègì èvérímĩ́mĩ́ hérì ngímẽ̀hpírèqèrínĩ́gì úbógúbógúmṹ.
+
+Line 3:
+  Proto : *shúynughóronulu *shissíragee *zàlimarézage.
+  Lang1 : Shúynughóronulu shissíragee zálimarézage.
+  lang2  : Shúúynúghórùnúlú shíshííràqgììd ngàlímàréngàqgì.
+  lang3  : Shúúynṹghóronṹlú shíssííràgeet tàzàlímã̀rézàge.
+  lang4  : Shúúynṹghórùnṹlú shíssííràqgììn dzàlímã̀rézàqgì.
+  lang5  : Shúynughóronulu shishíràqge dngàlimàréngàqge.
+  lang6  : Shúynũghóronũlu shissírage dzalimãrézage.
+  lang7  : Shúúynṹghórùnṹlú shíshíírègèèd ngèlímẽ̀réngègì.
+
+Line 4:
+  Proto : *Tàzimaspiràgarinini, *bóguzumu *hére *xàzimizimi.
+  Lang1 : Tázimaspirágarinini, bóguzumu hére xázimizimi.
+  lang2  : Tàngímàhpíràqgàríníní, þàbógúngúmú hérì xàngímíngímí.
+  lang3  : Tàzímã̀spíràgàrínĩ́nĩ́, þàbógúzúmṹ hére xàzímĩ́zímĩ́.
+  lang4  : Dzímã̀spíràqgàrínĩ́nĩ́, ðbógúzúmṹ hérì xàzímĩ́zímĩ́.
+  lang5  : Dngimàhpiràqgàrinini, ngbógungumu hére xàngimingimi.
+  lang6  : Dzimãspiragarinĩnĩ, þabóguzumũ hére xazimĩzimĩ.
+  lang7  : Ngímẽ̀hpírègèrínĩ́nĩ́, ngbógúngúmṹ hérì xèngímĩ́ngímĩ́.
+
+Line 5:
+  Proto : *Pelizhissíragee *múru *hére *bógudórumagoo *fíza
+  Lang1 : Pelizhissíragee múru hére bógudórumagoo fíza
+  lang2  : Pìlízhíshííràqgììd múúrú hérì þàbógúdórúmàgùùg kííngàqngà
+  lang3  : Pelízhíssííràgeet mṹṹrú hére þàbógúdrúmã̀gook fíízãã
+  lang4  : Pìlízhíssííràqgììn mṹṹrú hérì ðbógúdórúmã̀gùùng fíízàqgà
+  lang5  : Pelizhishíràqge múru hére ngbógudórumàgo kíngàqgà
+  lang6  : Pelizhissírage mṹru hére þabógudórumãgo kízã
+  lang7  : Pìlízhíshíírègèèd mṹṹrú hérì ngbógúdórúmõ̀gòòg kííngèngè
+
+Line 6:
+  Proto : *Vúrunàmoragee *lúmuralurázamu *hére *némanagee *zálumadárama.
+  Lang1 : Vúrunámoragee lúmuralurázamu hére némanagee zálumadárama.
+  lang2  : Bbúúrúnàmùràqgùùg lúúmúràlúràngàmú hérì némànàqgììd ngàlúmàdàràmàgà.
+  lang3  : Tàbúúrúnã̀mõràgook lúúmṹràlúràzàmṹ hére nẽ́mã̀nã̀geet tàzàlúmã̀dàràmãã.
+  lang4  : Bvúúrúnã̀mũ̀ràqgììn lúúmṹràlúràzàmṹ hérì nẽ́mã̀nã̀qgììn dzàlúmã̀dàràmã̃.
+  lang5  : Bvúrunàmoràqgo lúmuràluràngàmu hére némànàqge dngàlumàdàràma.
+  lang6  : Tabúrunãmõrago lúmũralurazamũ hére nẽ́mãnãge dzalumãdaramã.
+  lang7  : Vvúúrúnõ̀mũ̀rògèèd lúúmṹròlúròngòmṹ hérì nẽ́mẽ̀nẽ̀gèèd ngòlúmõ̀dòròmõ̀ngò.
+
+Line 7:
+  Proto : *Vízhissíragee *shisréza *hére *shàmishissíragee *shissíradàrima.
+  Lang1 : Vízhissíragee shisréza hére shámishissíragee shissíradárima.
+  lang2  : Ggíízhíshííràqgììd shíhréngàqngà hérì shàmíshíshííràqgììd shíshííràdàrímàqngà.
+  lang3  : Tàvíízhíssííràgeet shísrézãã hére shàmĩ́shíssííràgeet shíssííràdàrímãã.
+  lang4  : Tàgíízhíssííràqgùùn shísrézàqgà hérì shàmĩ́shíssííràqgììn shíssííràdàrímã̀qgà.
+  lang5  : Tàgízhishíràqge shihréngàqgà hére shàmishishíràqge shishíràdàrimàqgà.
+  lang6  : Bvízhissírage shisrézã hére shamĩshissírage shissíradarimã.
+  lang7  : Vvíízhízhíírègòòg shíhréngèngè hérì shèmĩ́shíshíírègèèd shíshíírèdèrímẽ̀ngè.
+
+Line 8:
+  Proto : *Polunàmoraguu *néri *hére *polubórumugoo *zélirilàrage.
+  Lang1 : Polunámoraguu néri hére polubórumugoo zélirilárage.
+  lang2  : Pùlúnàmùràgúú nérí hérì pùlúbórúmúgùùg ngélírílàràqgì.
+  lang3  : Polúnã̀mõràgúú nẽ́rí hére polúbórúmṹgook tàzélírílàràge.
+  lang4  : Pùlúnã̀mũ̀ràgúú nẽ́rí hérì pùlúbórúmṹgùùng dzélírílàràqgì.
+  lang5  : Polunàmoràgú néri hére polubórumugo dngélirilàràqge.
+  lang6  : Polunãmõragú nẽ́ri hére polubórumũgo dzélirilarage.
+  lang7  : Pùlúnõ̀mũ̀rògúú nẽ́rí hérì pùlúbórúmṹgòòg ngélírílèrègì.
+
+Line 9:
+  Proto : *Zúralu *véramizéridàgege, *vúruvúrumu.
+  Lang1 : Zúralu véramizéridágege, vúruvúrumu.
+  lang2  : Ngúúràlú ggéràmíngérídàqgìqgì, bbúúrúbúúrúmú.
+  lang3  : Tàzúúràlú tàvéràmĩ́zérídàgege, tàbúúrúbúúrúmṹ.
+  lang4  : Dzúúràlú tàgéràmĩ́zérídàqgìqgì, bvúúrúvúúrúmṹ.
+  lang5  : dngúràlu tàgéràmingéridàqgeqge, bvúruvúrumu.
+  lang6  : Dzúralu bvéramĩzéridagege, tabúrubúrumũ.
+  lang7  : Ngúúròlú vvérèmĩ́ngérídègìgì, vvúúrúvúúrúmṹ.
+
+Line 10:
+  Proto : *Màlunoludúzumanu, *bóguzumu *hére *bógumu.
+  Lang1 : Málunoludúzumanu, bóguzumu hére bógumu.
+  lang2  : Màlúnùlúdúúngúmànú, þàbógúngúmú hérì þàbógúmú.
+  lang3  : Mã̀lúnõlúdúúzúmã̀nṹ, þàbógúzúmṹ hére þàbógúmṹ.
+  lang4  : Mã̀lúnũ̀lúdúúzúmã̀nṹ, ðbógúzúmṹ hérì ðbógúmṹ.
+  lang5  : Màlunoludúngumànu, ngbógungumu hére ngbógumu.
+  lang6  : Mãlunõludúzumãnũ, þabóguzumũ hére þabógumũ.
+  lang7  : Mõ̀lúnũ̀lúdúúngúmõ̀nṹ, ngbógúngúmṹ hérì ngbógúmṹ.
+
+Line 11:
+  Proto : *Milineli-túzuma-ni, *bógu-su-mu *hére *bógu-mu
+  Lang1 : Milineli-túzuma-ni, bógu-su-mu hére bógu-mu
+  lang2  : Póngàbóngàgà, ngérímíngélímí hérì bbúúrúbúúrú.
+  lang3  : Pózàbózãã, tàzérímĩ́zélímĩ́ hére tàbúúrúbúúrú.
+  lang4  : Pózàbózã, dzérímĩ́zélímĩ́ hérì bvúúrúvúúrú.
+  lang5  : Póngàbónga, dngérimingélimi hére bvúruvúru.
+  lang6  : Pózabózã, dzérimĩzélimĩ hére tabúrubúru.
+  lang7  : Póngòbóngògò, ngérímĩ́ngélímĩ́ hérì vvúúrúvúúrú.
+
+Line 12:
+  Proto : *Pózabóza, *zérimizélimi *hére *vúruvúru.
+  Lang1 : Pózabóza, zérimizélimi hére vúruvúru.
+  lang2  : Mílíngàràqgì àgérímímí hérì ngímàhpíràqàríníqgì úbógúbógúmú.
+  lang3  : Mĩ́lízàràge àvérímĩ́mĩ́ hére tàzímã̀spíràkàrínĩ́ge úbógúbógúmṹ.
+  lang4  : Mĩ́lízàràqgì àgérímĩ́mĩ́ hérì dzímã̀spíràkàrínĩ́qgì úbógúbógúmṹ.
+  lang5  : Milingàràqge àgérimimi hére dngimàhpiràqàriniqge ubógubógumu.
+  lang6  : Mĩlizarage avérimĩmĩ hére dzimãspiraqarinĩge ubógubógumũ.
+  lang7  : Mĩ́língèrègì èvérímĩ́mĩ́ hérì ngímẽ̀hpírèqèrínĩ́gì úbógúbógúmṹ.
+
+Line 13:
+  Proto : *Milizàrage *avérimimi *hére *tàzimaspiràkarinige *ubógubógumu.
+  Lang1 : Milizárage avérimimi hére tázimaspirákarinige ubógubógumu.
+  lang2  : Þàbàbúúnúshkùùg xàrúmúútúúngúmàgù xàngúmúmórúmúngú.
+  lang3  : Þàbàbúúnṹshkook xàrúmṹṹtúúzúmã̀go xàzúmṹmṍrúmṹzú.
+  lang4  : Ðbàvúúnṹshkùùng xàrúmṹṹtúúzúmã̀gù xàzúmṹmṍrúmṹzú.
+  lang5  : Zbàvúnushko xàrumútúngumàgo xàngumumórumungu.
+  lang6  : Þababúnũshko xarumṹtúzumãgo xazumũmṍrumũzu.
+  lang7  : Ngbòvúúnṹshkòòg xòrúmṹṹtúúngúmõ̀gù xòngúmṹmṍrúmṹngú.
+
+Line 14:
+  Proto : *Babúnushkoo *xàrumútúzumago *xàzumumórumuzu.
+  Lang1 : Babúnushkoo  xárumútúzumago xázumumórumuzu.
+  lang2  : Xíínì ggéràmíngérídàqgìgù kàrúnúlú hérì xélírí.
+  lang3  : Xíínẽ tàvéràmĩ́zérídàgego kàrúnṹlú hére xélírí.
+  lang4  : Xíínĩ̀ tàgéràmĩ́zérídàqgìgù kàrúnṹlú hérì xélírí.
+  lang5  : Xíne tàgéràmingéridàqgego kàrunulu hére xéliri.
+  lang6  : Xínẽ bvéramĩzéridagego karunũlu hére xéliri.
+  lang7  : Xíínĩ̀ vvéròmĩ́ngérídògìgù kòrúnṹlú hérì xélírí.
+
+Line 15:
+  Proto : *Xíne *véramizéridàgego *kárunulu *hére *xéliri.
+  Lang1 : Xíne véramizéridágego kárunulu hére xéliri.
+
+----------------------------------------------------------------------
+  TOKEN ANNOTATIONS
+----------------------------------------------------------------------
+
+  Original                  Proto-form                   Tier            English
+  ------------------------ --------------------------- -------------- --------------------
+  Pózabóza,                 *Pózabóza                    fallback        
+  zérimizélimi              *zérimizélimi                fallback        
+  hére                      *hére                        citation        or
+  vúruvúru.                 *vúruvúru                    fallback        
+  Milizárage                *Milizàrage                  fallback        
+  avérimimi                 *avérimimi                   fallback        
+  tázimaspirákarinige       *tàzimaspiràkarinige         fallback        
+  ubógubógumu.              *ubógubógumu                 fallback        
+  Shúynughóronulu           *shúynughóronulu             citation        marshy
+  shissíragee               *shissíragee                 fallback        
+  zálimarézage.             *zàlimarézage                fallback        
+  Tázimaspirágarinini,      *Tàzimaspiràgarinini         fallback        
+  bóguzumu                  *bóguzumu                    fallback        
+  xázimizimi.               *xàzimizimi                  fallback        
+  Pelizhissíragee           *Pelizhissíragee             fallback        
+  múru                      *múru                        citation        eye
+  bógudórumagoo             *bógudórumagoo               fallback        
+  fíza                      *fíza                        citation        toe
+  Vúrunámoragee             *Vúrunàmoragee               fallback        
+  lúmuralurázamu            *lúmuralurázamu              citation        wool
+  némanagee                 *némanagee                   fallback        
+  zálumadárama.             *zálumadárama                citation        tongue
+  Vízhissíragee             *Vízhissíragee               fallback        
+  shisréza                  *shisréza                    fallback        
+  shámishissíragee          *shàmishissíragee            fallback        
+  shissíradárima.           *shissíradàrima              fallback        
+  Polunámoraguu             *Polunàmoraguu               fallback        
+  néri                      *néri                        citation        leg
+  polubórumugoo             *polubórumugoo               fallback        
+  zélirilárage.             *zélirilàrage                fallback        
+  Zúralu                    *Zúralu                      fallback        
+  véramizéridágege,         *véramizéridàgege            fallback        
+  vúruvúrumu.               *vúruvúrumu                  fallback        
+  Málunoludúzumanu,         *Màlunoludúzumanu            fallback        
+  bógumu.                   *bógumu                      fallback        
+  Milineli-túzuma-ni,       *Milineli-túzuma-ni          fallback        
+  bógu-su-mu                *bógu-su-mu                  fallback        
+  bógu-mu                   *bógu-mu                     fallback        
+  Babúnushkoo               *Babúnushkoo                 fallback        
+  xárumútúzumago            *xàrumútúzumago              fallback        
+  xázumumórumuzu.           *xàzumumórumuzu              fallback        
+  Xíne                      *Xíne                        fallback        
+  véramizéridágego          *véramizéridàgego            fallback        
+  kárunulu                  *kárunulu                    citation        heavy
+  xéliri.                   *xéliri                      citation        true
+
