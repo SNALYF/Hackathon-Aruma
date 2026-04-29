@@ -1,0 +1,45 @@
+english,pos,proto_form,language,predicted_form,actual_form,predicted_coverage,mismatched_grapheme,diagnosis
+eight,CARD,*ú,lang6,ú,nĩzã,0.0,ú,alignment_noise
+thirteen,JJ,*vési,lang2,vésí,hàlú,0.0,v,irregular
+thirteen,JJ,*vési,lang3,vési,hàlú,0.0,v,irregular
+thirteen,JJ,*vési,lang6,vési,halu,0.0,v,irregular
+to be surprised,VB,*vóruza,lang7,vóruza,íngèmĩ́mĩ́lí,0.0,v,irregular
+eight,CARD,*ú,lang6,ú,nĩzã,0.0,ú,alignment_noise
+history,NN,*sólunuzórumu,lang5,sólunuzórumu,hírinili,0.0833,s,irregular
+dry,JJ,*xóronuzámushlu,lang2,xóronúzàmúshlú,hélí,0.1429,x,irregular
+like,ADP,*tírimi,lang2,tírímí,fàlúmúnù,0.1667,t,irregular
+to be surprised,VB,*vóruza,lang2,vórúzà,í-hàmí-mí,0.1667,v,irregular
+to be surprised,VB,*vóruza,lang5,vóruzà,ingàminemi,0.1667,v,irregular
+life,NN,*múranu,lang2,múrànú,Sélímí,0.1667,ú,conditioned
+wind,NN,*zéliri,lang2,zélírí,bbúúrú,0.1667,z,irregular
+wind,NN,*zéliri,lang4,zéliri,Ðdúúrúmṹ,0.1667,z,irregular
+late,JJ,*nórulu,lang4,nórulu,kérídàrímĩ,0.1667,n,irregular
+to cultivate,VB,*cultivate,lang6,cultivate,ubúmãmũ,0.2222,c,irregular
+to critique,VB,*támodórumanu,lang2,tàmodórúmànú,í-témìmí,0.25,à,conditioned
+to bloom,VB,*fála,lang7,fála,kèlèmĩ,0.25,f,irregular
+four,CARD,*vóru,lang2,vórú,ggàríqgàdí,0.25,v,irregular
+four,CARD,*vóru,lang4,vóru,pííràqgà,0.25,v,irregular
+four,CARD,*vóru,lang5,vóru,píràqgà,0.25,v,irregular
+always,RB,*zérani,lang3,zérani,nṍràmãã,0.3333,z,irregular
+to be surprised,VB,*vóruza,lang3,vóruza,ízàmĩ́mĩ,0.3333,v,irregular
+to be surprised,VB,*vóruza,lang4,vóruza,ízàmĩ́mĩ,0.3333,v,irregular
+to be surprised,VB,*vóruza,lang6,vóruza,izamĩmĩ,0.3333,v,irregular
+water,NN,*túzuma,lang3,túzuma,mã̀ysnṹ,0.3333,t,irregular
+late,JJ,*nórulu,lang3,nórulu,ígérímĩ́lí,0.3333,n,irregular
+top secret,JJ,*mágupúrumanulu,lang5,màgupúrumànulu,kórumunu,0.3571,m,irregular
+dry,JJ,*xóronuzámushlu,lang6,xóronuzamushlu,kóvanũlu,0.3571,x,irregular
+all/each,DT,*zéreniri,lang5,zéreniri,Hére,0.375,z,irregular
+bright,"(ie, happy light)",*férimili,lang6,férimili,þaglízali,0.375,f,irregular
+late,JJ,*nérimili,lang7,nérimili,nṍrúlú,0.375,é,conditioned
+helpful,JJ,*gérimilu,lang3,gérimilu,hólúrúlú,0.375,g,irregular
+helpful,JJ,*gérimilu,lang5,gérimilu,hólurulu,0.375,g,irregular
+helpful,JJ,*gérimilu,lang6,gérimilu,hólurulu,0.375,g,irregular
+to welcome,VB,*árama,lang7,árama,íèrèmẽ̀mĩ,0.4,á,conditioned
+bat,NN,*vúrunámora,lang2,vúrúnàmorà,tórúmùbàlúrúgù,0.4,v,irregular
+muse,NN,*véramidágeri,lang6,véramidageri,kérimĩli,0.4167,v,irregular
+muse,NN,*véramidágeri,lang7,véramidágeri,íngérèdímĩ,0.4167,v,irregular
+weapon,NN,*tórumodógoru,lang6,tórumodógoru,ulórumũmũ,0.4167,t,irregular
+hungry,JJ,*zálumavázumu,lang5,zàlumàvàzumu,ungàlumu,0.4167,z,irregular
+weapon,NN,*tórumodógoru,lang6,tórumodógoru,ulórumũmũ,0.4167,t,irregular
+top secret,JJ,*mágupúrumanulu,lang6,magupúrumanulu,súmũrunũ,0.4286,m,irregular
+everything,NN,*mógospórumu,lang2,mógospórúmú,úngólúmúmú,0.4545,m,irregular

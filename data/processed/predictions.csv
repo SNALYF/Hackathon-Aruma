@@ -1,0 +1,1702 @@
+english,pos,proto_form,language,predicted_form,actual_form,raw_similarity,predicted_coverage,match_class
+student,NN,*dóruma,lang2,dórúmà,þàdórúmàdórúmàgù,0.5455,1.0,exact
+student,NN,*dóruma,lang3,dóruma,þàdrúmã̀drúmã̀go,0.5,0.8333,close
+student,NN,*dóruma,lang4,dóruma,ðdórúmã̀dórúmã,0.6316,1.0,exact
+student,NN,*dóruma,lang5,dórumà,Zdórumàdóruma,0.6316,1.0,exact
+student,NN,*dóruma,lang6,dóruma,þadórumãdórumãgo,0.5455,1.0,exact
+student,NN,*dóruma,lang7,dóruma,ngdórúmõ̀dórúmõ̀gòòg,0.4167,0.8333,close
+language,NN,*lóruma,lang3,lóruma,Lórúmã̀dãã,0.8,1.0,exact
+language,NN,*lóruma,lang4,lóruma,lórúmã,1.0,1.0,exact
+language,NN,*lóruma,lang5,lórumà,lóruma,1.0,1.0,exact
+language,NN,*lóruma,lang6,lóruma,lórumã,1.0,1.0,exact
+to create,VB,*góruamu,lang2,górúàmú,úgórúàmúgùmù,0.7368,1.0,exact
+to create,VB,*góruamu,lang3,góruamu,úgórúàmṹmṹ,0.8235,1.0,exact
+to create,VB,*góruamu,lang4,góruamu,àgórúwàmṹzúzúmṹ,0.6364,1.0,exact
+to create,VB,*góruamu,lang5,góruàmu,ugóruwàmugomo,0.7,1.0,exact
+to create,VB,*góruamu,lang6,góruamu,ugóruamũzuzumũ,0.6667,1.0,exact
+to create,VB,*góruamu,lang7,góruamu,úgórúòmṹmṹ,0.7059,0.8571,close
+now,RB,*hére,lang2,hére,hérímíní,0.5,0.75,close
+now,RB,*hére,lang3,hére,hére,1.0,1.0,exact
+now,RB,*hére,lang5,hére,hére,1.0,1.0,exact
+now,RB,*hére,lang7,hére,hérì,0.75,0.75,close
+to test,VB,*zúruma,lang5,zúrumà,dngúrumàgo,0.625,0.8333,close
+world,NN,*mógo,lang2,mógo,Mógùgù,0.6,0.75,close
+world,NN,*mógo,lang3,mógo,mṍgonṹ,0.8,1.0,exact
+world,NN,*mógo,lang4,mógo,Mṍgùspórúmṹ,0.5333,1.0,exact
+world,NN,*mógo,lang5,mógo,mógogo,0.8,1.0,exact
+world,NN,*mógo,lang6,mógo,mṍgonũ,0.8,1.0,exact
+world,NN,*mógo,lang7,mógo,mṍgùnṹ,0.6,0.75,close
+linguistics,NN,*líneni,lang2,línení,líínìnílí,0.6667,0.8333,close
+linguistics,NN,*líneni,lang3,líneni,líínẽnĩ́lí,0.8,1.0,exact
+to welcome,VB,*árama,lang2,àràmà,íàràmàmí,0.7692,1.0,exact
+to welcome,VB,*árama,lang3,àrama,íàràmã̀lí,0.7692,1.0,exact
+to welcome,VB,*árama,lang5,àràmà,iyàràmàmi,0.7143,1.0,exact
+to welcome,VB,*árama,lang6,arama,angaramãmĩ,0.6667,1.0,exact
+to welcome,VB,*árama,lang7,árama,íèrèmẽ̀mĩ,0.3077,0.4,miss
+this,DT,*kogo,lang2,kogo,Kùgù,0.5,0.5,partial
+this,DT,*kogo,lang3,kogo,Kogo,1.0,1.0,exact
+this,DT,*kogo,lang4,kogo,Kùgù,0.5,0.5,partial
+this,DT,*kogo,lang5,kogo,Kogo,1.0,1.0,exact
+this,DT,*kogo,lang6,kogo,kogo,1.0,1.0,exact
+this,DT,*kogo,lang7,kogo,Kùgù,0.5,0.5,partial
+documentation,NN,*dénili,lang2,dénílí,þàdénílí,0.8571,1.0,exact
+documentation,NN,*dénili,lang3,dénili,þàdénĩ́lí,0.8571,1.0,exact
+documentation,NN,*dénili,lang4,dénili,ðdénĩ́lí,0.9231,1.0,exact
+documentation,NN,*dénili,lang5,dénili,ngdénilili,0.75,1.0,exact
+documentation,NN,*dénili,lang7,dénili,ngdénĩ́lí,0.8571,1.0,exact
+to learn,VB,*sérimi,lang2,sérímí,íhérímídérímíqgìmì,0.4167,0.8333,close
+to learn,VB,*sérimi,lang3,sérimi,ízérímĩ́dérímĩ́gemẽ,0.4348,0.8333,close
+to learn,VB,*sérimi,lang4,sérimi,ízérímĩ́dérímĩ́mĩ,0.4762,0.8333,close
+to learn,VB,*sérimi,lang5,sérimi,ingérimidérimimili,0.4167,0.8333,close
+to learn,VB,*sérimi,lang6,sérimi,izérimĩdérimĩmĩ,0.4762,0.8333,close
+to learn,VB,*sérimi,lang7,sérimi,íngérímĩ́dérímĩ́mĩ́lí,0.4167,0.8333,close
+together,RB,*tírimi,lang2,tírímí,tíírímí,0.9231,1.0,exact
+together,RB,*tírimi,lang3,tírimi,tíírímĩ,0.9231,1.0,exact
+together,RB,*tírimi,lang4,tírimi,tíírímĩ,0.9231,1.0,exact
+together,RB,*tírimi,lang5,tírimi,tírimi,1.0,1.0,exact
+together,RB,*tírimi,lang6,tírimi,tírimĩ,1.0,1.0,exact
+together,RB,*tírimi,lang7,tírimi,tíírímĩ,0.9231,1.0,exact
+to speak,VB,*tálimi,lang2,tàlímí,ídàlímímí,0.6667,0.8333,close
+to speak,VB,*tálimi,lang3,tàlimi,Idàlímĩ́nẽ,0.6667,0.8333,close
+to speak,VB,*tálimi,lang4,tàlimi,ídàlímĩ́mĩ,0.6667,0.8333,close
+to speak,VB,*tálimi,lang5,tàlimi,idàlimimi,0.6667,0.8333,close
+to speak,VB,*tálimi,lang7,tálimi,ídèlímĩ́mĩ,0.5333,0.6667,partial
+long,RB,*lóruma,lang2,lórúmà,lórúmàgà,0.8571,1.0,exact
+long,RB,*lóruma,lang3,lóruma,lórúmãã,0.9231,1.0,exact
+long,RB,*lóruma,lang4,lóruma,Lórúmã,1.0,1.0,exact
+long,RB,*lóruma,lang5,lórumà,Lóruma,1.0,1.0,exact
+to reflect/to figure out,VB,*sérali,lang3,sérali,ízéràlímĩ,0.6667,0.8333,close
+to reflect/to figure out,VB,*sérali,lang4,sérali,ízéràlímĩ,0.6667,0.8333,close
+to reflect/to figure out,VB,*sérali,lang5,séràli,ingéràlimi,0.625,0.8333,close
+to reflect/to figure out,VB,*sérali,lang6,sérali,izéralimĩ,0.6667,0.8333,close
+to reflect/to figure out,VB,*sérali,lang7,sérali,nẽ́rílí,0.6667,0.6667,partial
+while,IN,*hére,lang2,hére,héré,1.0,1.0,exact
+while,IN,*hére,lang3,hére,héré,1.0,1.0,exact
+while,IN,*hére,lang4,hére,héré,1.0,1.0,exact
+while,IN,*hére,lang5,hére,Hére,1.0,1.0,exact
+while,IN,*hére,lang6,hére,Hére,1.0,1.0,exact
+while,IN,*hére,lang7,hére,Hérì,0.75,0.75,close
+to build,VB,*fírimi,lang2,fírímí,ígíírímímí,0.625,0.8333,close
+to build,VB,*fírimi,lang3,fírimi,ívíírímĩ́mĩ,0.625,0.8333,close
+to build,VB,*fírimi,lang4,fírimi,ígíírímĩ́mĩ,0.625,0.8333,close
+to build,VB,*fírimi,lang5,fírimi,igírimimi,0.6667,0.8333,close
+to build,VB,*fírimi,lang6,fírimi,ivírimĩmĩ,0.6667,0.8333,close
+to build,VB,*fírimi,lang7,fírimi,ívíírímĩ́mĩ́lí,0.5556,0.8333,close
+to ensure,VB,*sérimi,lang2,sérímí,íqgérímímí,0.625,0.8333,close
+to ensure,VB,*sérimi,lang3,sérimi,ízérímĩ́mĩ,0.6667,0.8333,close
+to ensure,VB,*sérimi,lang4,sérimi,ízérímĩ́mĩ,0.6667,0.8333,close
+to ensure,VB,*sérimi,lang5,sérimi,ingérimingingimi,0.4545,0.8333,close
+to ensure,VB,*sérimi,lang6,sérimi,izérimĩmĩ,0.6667,0.8333,close
+to ensure,VB,*sérimi,lang7,sérimi,íngérímĩ́dérímĩ́lí,0.4545,0.8333,close
+expressive,JJ,*xérali,lang2,xéràlí,xéràlí,1.0,1.0,exact
+expressive,JJ,*xérali,lang4,xérali,Xéràlí,1.0,1.0,exact
+expressive,JJ,*xérali,lang5,xéràli,xéràli,1.0,1.0,exact
+to hide,VB,*púruma,lang2,púrúmà,úbúúrúmàmí,0.625,0.8333,close
+to hide,VB,*púruma,lang3,púruma,úbúúrúmṹzúmm,0.4444,0.6667,partial
+to hide,VB,*púruma,lang4,púruma,ípúúrúmã,0.8571,1.0,exact
+to hide,VB,*púruma,lang5,púrumà,úurumàmu,0.7143,0.8333,close
+to hide,VB,*púruma,lang6,púruma,ubúrumũmũ,0.5333,0.6667,partial
+room,NN,*spíra,lang2,spírà,íàràmàmí,0.4615,0.6,partial
+room,NN,*spíra,lang3,spíra,íàràmã̀lí,0.4615,0.6,partial
+room,NN,*spíra,lang6,spíra,spíranĩ,0.8333,1.0,exact
+room,NN,*spíra,lang7,spíra,hpíírènĩ,0.4615,0.6,partial
+to grow,VB,*dárimi,lang2,dàrímí,ídàrímíngímí,0.6667,1.0,exact
+to grow,VB,*dárimi,lang3,dàrimi,ídàrímĩ́mĩ,0.8,1.0,exact
+to grow,VB,*dárimi,lang4,dàrimi,ídàrímĩ́zúmĩ,0.7059,1.0,exact
+to grow,VB,*dárimi,lang5,dàrimi,idàrimimi,0.8,1.0,exact
+to grow,VB,*dárimi,lang6,darimi,idarimĩmĩ,0.8,1.0,exact
+to grow,VB,*dárimi,lang7,dárimi,ídèrímĩ́gìmĩ,0.5882,0.8333,close
+also,CONJ,*tírimi,lang3,tírimi,tíírímĩ,0.9231,1.0,exact
+also,CONJ,*tírimi,lang5,tírimi,tírimi,1.0,1.0,exact
+if,CONJ,*héré,lang2,héré,Héré,1.0,1.0,exact
+if,CONJ,*héré,lang3,héré,Héré,1.0,1.0,exact
+if,CONJ,*héré,lang4,héré,Héré,1.0,1.0,exact
+if,CONJ,*héré,lang5,héré,Héré,1.0,1.0,exact
+if,CONJ,*héré,lang6,héré,héré,1.0,1.0,exact
+if,CONJ,*héré,lang7,héré,Héré,1.0,1.0,exact
+calculation,NN,*kérim,lang3,kérim,kérím,1.0,1.0,exact
+calculation,NN,*kérim,lang4,kérim,kérím,1.0,1.0,exact
+calculation,NN,*kérim,lang6,kérim,qérimĩnĩ,0.6154,0.8,close
+calculation,NN,*kérim,lang7,kérim,Kérímĩ̀shdérímõ̀gòòg,0.4348,1.0,exact
+to hit,VB,*tórumo,lang2,tórúmo,údórúmúmú,0.5333,0.6667,partial
+to hit,VB,*tórumo,lang3,tórumo,údrúmṹmmõ,0.5333,0.6667,partial
+to hit,VB,*tórumo,lang4,tórumo,údórúmũ̀dórúmã̀mṹ,0.4762,0.8333,close
+to hit,VB,*tórumo,lang5,tórumo,udórumodórumàmu,0.4762,0.8333,close
+to hit,VB,*tórumo,lang6,tórumo,udórumõdórumãmũ,0.4762,0.8333,close
+to hit,VB,*tórumo,lang7,tórumo,útórúmũ̀dórúmõ̀mṹ,0.5714,1.0,exact
+sentence,NN,*sómut,lang2,sómút,hómúthómút,0.5333,0.8,close
+to see,VB,*vérima,lang2,vérímà,ígérídérímímí,0.4211,0.6667,partial
+to see,VB,*vérima,lang3,vérima,ívérímã̀mĩ,0.8,1.0,exact
+to see,VB,*vérima,lang4,vérima,ígérímã̀zízímĩ,0.5263,0.8333,close
+to see,VB,*vérima,lang5,vérimà,àgérimàmi,0.6667,0.8333,close
+to see,VB,*vérima,lang6,vérima,ivérimãzibimẽ,0.6316,1.0,exact
+to see,VB,*vérima,lang7,vérima,ívérímẽ̀mĩ,0.6667,0.8333,close
+serious,JJ,*xórumo,lang3,xórumo,xórúmõ,1.0,1.0,exact
+serious,JJ,*xórumo,lang4,xórumo,Xórúmũ̀ghórúmũ,0.6316,1.0,exact
+serious,JJ,*xórumo,lang6,xórumo,xórumõ,1.0,1.0,exact
+serious,JJ,*xórumo,lang7,xórumo,xórúmũ,0.8333,0.8333,close
+stuff,NN,*spórum,lang2,spórúm,hpórúmú,0.7692,0.8333,close
+friend,NN,*géri,lang2,gérí,þàqgéríqgì,0.5714,1.0,exact
+friend,NN,*géri,lang3,géri,þàgérígérí,0.5714,1.0,exact
+friend,NN,*géri,lang5,géri,ngqgériqgéri,0.5,1.0,exact
+friend,NN,*géri,lang6,géri,þagérigéri,0.5714,1.0,exact
+friend,NN,*géri,lang7,géri,nggérígérí,0.5714,1.0,exact
+excited,JJ,*férila,lang3,férila,férílãã,0.9231,1.0,exact
+to share,VB,*dérimi,lang2,dérímí,ídérímímí,0.8,1.0,exact
+to share,VB,*dérimi,lang3,dérimi,ídérímĩ́gemẽ,0.7059,1.0,exact
+to share,VB,*dérimi,lang5,dérimi,idérimi,0.9231,1.0,exact
+day,NN,*sélimi,lang2,sélímí,hélímí,0.8333,0.8333,close
+day,NN,*sélimi,lang3,sélimi,sélímĩ́nĩ,0.8571,1.0,exact
+day,NN,*sélimi,lang4,sélimi,sélímĩ,1.0,1.0,exact
+day,NN,*sélimi,lang5,sélimi,hélimini,0.7143,0.8333,close
+day,NN,*sélimi,lang6,sélimi,sélimĩ,1.0,1.0,exact
+day,NN,*sélimi,lang7,sélimi,hélímĩ́nṹ,0.7143,0.8333,close
+daily,JJ,*sélimili,lang5,sélimili,hélimili,0.875,0.875,close
+class,NN,*déni,lang2,déní,þàdénídénílí,0.5,1.0,exact
+class,NN,*déni,lang3,déni,þàdénĩ́dénĩ,0.5714,1.0,exact
+class,NN,*déni,lang4,déni,ðdénĩ́dénĩ́lí,0.5333,1.0,exact
+class,NN,*déni,lang5,déni,ngdéni,0.8,1.0,exact
+class,NN,*déni,lang6,déni,dzérenĩ,0.7273,1.0,exact
+class,NN,*déni,lang7,déni,ngdénĩ,0.8,1.0,exact
+frame,NN,*súzu,lang6,súzu,súzu,1.0,1.0,exact
+to endure,VB,*nérimi,lang2,nérímí,ínérímímí,0.8,1.0,exact
+to endure,VB,*nérimi,lang3,nérimi,ínẽ́rímĩ́mĩ,0.8,1.0,exact
+to endure,VB,*nérimi,lang4,nérimi,ínẽ́rímĩ́mĩ,0.8,1.0,exact
+to finish,VB,*dérimi,lang2,dérímí,ídérímímí,0.8,1.0,exact
+to finish,VB,*dérimi,lang3,dérimi,ídérímĩ́mĩ,0.8,1.0,exact
+to finish,VB,*dérimi,lang4,dérimi,ídérímĩ́dérímĩ́mĩ,0.5714,1.0,exact
+to finish,VB,*dérimi,lang6,dérimi,idérimĩdérimĩmẽ,0.5714,1.0,exact
+to finish,VB,*dérimi,lang7,dérimi,ídérímĩ,0.9231,1.0,exact
+many,DT,*zéreni,lang2,zérení,ngérìní,0.6154,0.6667,partial
+many,DT,*zéreni,lang3,zéreni,tàzérenĩ,0.8571,1.0,exact
+many,DT,*zéreni,lang4,zéreni,dzérìnĩ,0.7692,0.8333,close
+many,DT,*zéreni,lang5,zéreni,dngéreni,0.7143,0.8333,close
+many,DT,*zéreni,lang6,zéreni,dzérenĩ,0.9231,1.0,exact
+many,DT,*zéreni,lang7,zéreni,ngérìnĩ,0.6154,0.6667,partial
+coffee,NN,*kávuru,lang2,kàvúrú,kàvúrú,1.0,1.0,exact
+coffee,NN,*kávuru,lang3,kàvuru,kàvúrú,1.0,1.0,exact
+coffee,NN,*kávuru,lang4,kàvuru,kàvúrú,1.0,1.0,exact
+coffee,NN,*kávuru,lang5,kàvuru,kàvuru,1.0,1.0,exact
+coffee,NN,*kávuru,lang6,kavuru,kavuru,1.0,1.0,exact
+coffee,NN,*kávuru,lang7,kávuru,kòvúrú,0.8333,0.8333,close
+to need,VB,*dézimi,lang2,dézímí,ídéngímímí,0.625,0.8333,close
+to need,VB,*dézimi,lang3,dézimi,ídézímĩ́mĩ,0.8,1.0,exact
+to need,VB,*dézimi,lang4,dézimi,ídézímĩ́mĩ,0.8,1.0,exact
+to need,VB,*dézimi,lang5,dézimi,idéngimimi,0.625,0.8333,close
+to need,VB,*dézimi,lang6,dézimi,idézimĩmĩ,0.8,1.0,exact
+to need,VB,*dézimi,lang7,dézimi,ídèlímĩ́mĩ,0.6667,0.8333,close
+field,NN,*xóronu,lang2,xóronú,xórùnúnú,0.7143,0.8333,close
+field,NN,*xóronu,lang3,xóronu,xóronṹnṹ,0.8571,1.0,exact
+field,NN,*xóronu,lang4,xóronu,xórùnṹnṹ,0.7143,0.8333,close
+field,NN,*xóronu,lang5,xóronu,xóronunu,0.8571,1.0,exact
+field,NN,*xóronu,lang6,xóronu,xóronũnũ,0.8571,1.0,exact
+field,NN,*xóronu,lang7,xóronu,xórùnṹnṹ,0.7143,0.8333,close
+computer,NN,*kómuru,lang2,kómúrú,kómúrúnú,0.8571,1.0,exact
+computer,NN,*kómuru,lang3,kómuru,Kómṹrúgómṹrú,0.6667,1.0,exact
+computer,NN,*kómuru,lang5,kómuru,kómuru,1.0,1.0,exact
+computer,NN,*kómuru,lang6,kómuru,kómũrugómũru,0.6667,1.0,exact
+computer,NN,*kómuru,lang7,kómuru,kómṹrú,1.0,1.0,exact
+tool,NN,*tógoru,lang2,tógorú,tógùrúlú,0.7143,0.8333,close
+tool,NN,*tógoru,lang3,tógoru,tógorú,1.0,1.0,exact
+tool,NN,*tógoru,lang4,tógoru,tógùrú,0.8333,0.8333,close
+tool,NN,*tógoru,lang5,tógoru,tógoru,1.0,1.0,exact
+tool,NN,*tógoru,lang6,tógoru,tógoru,1.0,1.0,exact
+tool,NN,*tógoru,lang7,tógoru,tógùrú,0.8333,0.8333,close
+important,JJ,*zórumalu,lang3,zórumalu,tàzórúmã̀lú,0.8889,1.0,exact
+important,JJ,*zórumalu,lang4,zórumalu,dzórúmã̀lú,0.9412,1.0,exact
+important,JJ,*zórumalu,lang5,zórumàlu,dngórumàlu,0.7778,0.875,close
+important,JJ,*zórumalu,lang6,zórumalu,dzórumãlu,0.9412,1.0,exact
+important,JJ,*zórumalu,lang7,zórumalu,ngórúmõ̀lú,0.7059,0.75,close
+new,JJ,*nérili,lang2,nérílí,nérílí,1.0,1.0,exact
+new,JJ,*nérili,lang3,nérili,nẽ́rílí,1.0,1.0,exact
+new,JJ,*nérili,lang4,nérili,nẽ́rílí,1.0,1.0,exact
+new,JJ,*nérili,lang5,nérili,nérili,1.0,1.0,exact
+new,JJ,*nérili,lang6,nérili,nẽ́rilu,0.8333,0.8333,close
+new,JJ,*nérili,lang7,nérili,nẽ́rílí,1.0,1.0,exact
+data,JJ,*téreni,lang2,térení,térìní,0.8333,0.8333,close
+data,JJ,*téreni,lang3,téreni,térenĩ,1.0,1.0,exact
+data,JJ,*téreni,lang4,téreni,térìnĩ́lí,0.7143,0.8333,close
+data,JJ,*téreni,lang5,téreni,téreni,1.0,1.0,exact
+data,JJ,*téreni,lang6,téreni,térenĩ,1.0,1.0,exact
+data,JJ,*téreni,lang7,téreni,térìnĩ,0.8333,0.8333,close
+to want,VB,*vézimi,lang2,vézímí,ígéngímímí,0.5,0.6667,partial
+to want,VB,*vézimi,lang3,vézimi,ívézímĩ́mĩ,0.8,1.0,exact
+to want,VB,*vézimi,lang4,vézimi,ígézímĩ́mĩ,0.6667,0.8333,close
+to want,VB,*vézimi,lang5,vézimi,igéngimimi,0.5,0.6667,partial
+to want,VB,*vézimi,lang6,vézimi,ivézimĩmĩ,0.8,1.0,exact
+to want,VB,*vézimi,lang7,vézimi,ívéngímĩ́mĩ,0.625,0.8333,close
+school,NN,*dénimi,lang3,dénimi,þàdénĩ́mĩ́nĩ,0.75,1.0,exact
+school,NN,*dénimi,lang4,dénimi,ðdénĩ́mĩ,0.9231,1.0,exact
+school,NN,*dénimi,lang6,dénimi,þadénĩmĩli,0.75,1.0,exact
+project,VB,*gérimi,lang2,gérímí,Þàqgérímí,0.8,1.0,exact
+project,VB,*gérimi,lang3,gérimi,þàgérímĩ,0.8571,1.0,exact
+project,VB,*gérimi,lang4,gérimi,ðqgérímĩ,0.8571,1.0,exact
+project,VB,*gérimi,lang5,gérimi,ngqgérimi,0.8,1.0,exact
+project,VB,*gérimi,lang7,gérimi,nggérímĩ,0.8571,1.0,exact
+very,RB,*zúra,lang2,zúrà,ngúúràgà,0.5,0.75,close
+very,RB,*zúra,lang3,zúra,tàzúúrãã,0.6667,1.0,exact
+very,RB,*zúra,lang4,zúra,dzúúrã,0.8,1.0,exact
+very,RB,*zúra,lang5,zúrà,dngúra,0.6,0.75,close
+very,RB,*zúra,lang6,zúra,dzúrã,0.8889,1.0,exact
+kind,JJ,*sólurulu,lang4,sólurulu,sólúrúlú,1.0,1.0,exact
+kind,JJ,*sólurulu,lang5,sólurulu,hóluruhólurulu,0.6364,0.875,close
+kind,JJ,*sólurulu,lang6,sólurulu,sólurulu,1.0,1.0,exact
+kind,JJ,*sólurulu,lang7,sólurulu,hórúlúnṹ,0.625,0.625,partial
+classroom,NN,*kórumu,lang2,kórúmú,kórúmúnú,0.8571,1.0,exact
+classroom,NN,*kórumu,lang3,kórumu,Kórúmṹnṹ,0.8571,1.0,exact
+classroom,NN,*kórumu,lang5,kórumu,kórumu,1.0,1.0,exact
+classroom,NN,*kórumu,lang6,kórumu,Kórumũnũ,0.8571,1.0,exact
+classroom,NN,*kórumu,lang7,kórumu,kórúmṹnṹ,0.8571,1.0,exact
+astronomer,NN,*fálurunadóruma,lang2,fàlúrúnàdórúmà,Fàlúrúnàdórúmàgùùg,0.875,1.0,exact
+astronomer,NN,*fálurunadóruma,lang3,fàlurunadóruma,Fàlúrúnã̀drúmã̀gook,0.8387,0.9286,close
+astronomer,NN,*fálurunadóruma,lang4,fàlurunadóruma,fàlúrúnã̀dórúmã,1.0,1.0,exact
+astronomer,NN,*fálurunadóruma,lang5,fàlurunàdórumà,Fàlurunàdórumàgo,0.9333,1.0,exact
+astronomer,NN,*fálurunadóruma,lang6,falurunadóruma,falurunãdórumã,1.0,1.0,exact
+snack,NN,*sánomu,lang2,sànomú,hànùmú,0.6667,0.6667,partial
+snack,NN,*sánomu,lang3,sànomu,sànõmṹ,1.0,1.0,exact
+snack,NN,*sánomu,lang4,sànomu,sànĩ́mṹnã̀rú,0.625,0.8333,close
+snack,NN,*sánomu,lang5,sànomu,hànomu,0.8333,0.8333,close
+snack,NN,*sánomu,lang7,sánomu,hònũ̀mṹ,0.5,0.5,partial
+notebook,NN,*nóduru,lang2,nódúrú,nótúrú,0.8333,0.8333,close
+notebook,NN,*nóduru,lang3,nóduru,nṍdúrú,1.0,1.0,exact
+notebook,NN,*nóduru,lang6,nóduru,nṍduru-li,0.8,1.0,exact
+notebook,NN,*nóduru,lang7,nóduru,nṍdúrú,1.0,1.0,exact
+helpful,JJ,*hólurulu,lang3,hólurulu,hólúrúlú,1.0,1.0,exact
+helpful,JJ,*hólurulu,lang5,hólurulu,hólurulu,1.0,1.0,exact
+helpful,JJ,*hólurulu,lang6,hólurulu,hólurulu,1.0,1.0,exact
+story,NN,*sórumu,lang2,sórúmú,hólúnúngórúmúlú,0.4762,0.8333,close
+story,NN,*sórumu,lang3,sórumu,sórúmṹ,1.0,1.0,exact
+story,NN,*sórumu,lang4,sórumu,sólúnṹzórúmṹ,0.6667,1.0,exact
+story,NN,*sórumu,lang5,sórumu,Aàrumàlu,0.5714,0.6667,partial
+story,NN,*sórumu,lang6,sórumu,sórumũ,1.0,1.0,exact
+story,NN,*sórumu,lang7,sórumu,mõ̀yshórúmṹ,0.75,1.0,exact
+karaoke,NN,*kánara,lang4,kànara,kànã̀ràlú,0.8571,1.0,exact
+karaoke,NN,*kánara,lang5,kànàrà,kànàràlu,0.8571,1.0,exact
+karaoke,NN,*kánara,lang6,kanara,kanãralu,0.8571,1.0,exact
+karaoke,NN,*kánara,lang7,kánara,kònõ̀ròlú,0.4286,0.5,partial
+to go,VB,*bóromu,lang2,bóromú,þàbórùmúmú,0.625,0.8333,close
+to go,VB,*bóromu,lang3,bóromu,àbóromṹmṹ,0.8,1.0,exact
+to go,VB,*bóromu,lang4,bóromu,ðbórùmṹzúbúmĩ,0.5263,0.8333,close
+to go,VB,*bóromu,lang5,bóromu,ngbóromumu,0.75,1.0,exact
+to go,VB,*bóromu,lang6,bóromu,þabóromũlu,0.75,1.0,exact
+to go,VB,*bóromu,lang7,bóromu,úbórùmṹmṹ,0.6667,0.8333,close
+to enjoy/like,VB,*fálumu,lang2,fàlúmú,fàlúmúnù,0.8571,1.0,exact
+to enjoy/like,VB,*fálumu,lang3,fàlumu,úvàlúmṹmṹ,0.6667,0.8333,close
+to enjoy/like,VB,*fálumu,lang4,fàlumu,úfàlúmṹmṹ,0.8,1.0,exact
+to enjoy/like,VB,*fálumu,lang5,fàlumu,uvàlumu,0.7692,0.8333,close
+to enjoy/like,VB,*fálumu,lang6,falumu,ufalumũmũ,0.8,1.0,exact
+to enjoy/like,VB,*fálumu,lang7,fálumu,úfòlúmṹmṹ,0.6667,0.8333,close
+laptop,NN,*míniri,lang5,míniri,míniriqge,0.8,1.0,exact
+laptop,NN,*míniri,lang6,míniri,mĩ́nĩri,1.0,1.0,exact
+laptop,NN,*míniri,lang7,míniri,Mĩ́ĩ́nĩ́rí,0.9231,1.0,exact
+to use,VB,*tórumu,lang2,tórúmú,tógùrúlú,0.7143,0.8333,close
+to use,VB,*tórumu,lang3,tórumu,údrúmṹmṹgo,0.5,0.6667,partial
+to use,VB,*tórumu,lang4,tórumu,údórúmṹmṹ,0.6667,0.8333,close
+to use,VB,*tórumu,lang5,tórumu,àlóngumu,0.5714,0.6667,partial
+to use,VB,*tórumu,lang6,tórumu,idórumũmũ,0.6667,0.8333,close
+to use,VB,*tórumu,lang7,tórumu,údórúmṹmṹ,0.6667,0.8333,close
+bed,NN,*súmuru,lang2,súmúrú,húúmúrúnú,0.6667,0.8333,close
+bed,NN,*súmuru,lang3,súmuru,súúmṹrúnṹ,0.8,1.0,exact
+bed,NN,*súmuru,lang4,súmuru,lúúmṹràlú,0.6667,0.8333,close
+bed,NN,*súmuru,lang5,súmuru,húmurumúrunu,0.5556,0.8333,close
+bed,NN,*súmuru,lang6,súmuru,súmũrunũ,0.8571,1.0,exact
+to charge,VB,*lúzumu,lang2,lúzúmú,lúúngúmínìmí,0.4444,0.6667,partial
+to charge,VB,*lúzumu,lang3,lúzumu,lúúzúmṹ,0.9231,1.0,exact
+to charge,VB,*lúzumu,lang5,lúzumu,lúngumu,0.7692,0.8333,close
+to charge,VB,*lúzumu,lang6,lúzumu,lúzumũmũ,0.8571,1.0,exact
+free,JJ,*múranulu,lang3,múranulu,mṹṹrànṹlú,0.9412,1.0,exact
+free,JJ,*múranulu,lang6,múranulu,mṹranũlu,1.0,1.0,exact
+free,JJ,*múranulu,lang7,múranulu,mṹṹrònṹlú,0.8235,0.875,close
+event,NN,*fóruma,lang3,fóruma,fórúmã̀vórúmã̀lú,0.6,1.0,exact
+event,NN,*fóruma,lang7,fóruma,fórúmõ̀lú,0.7143,0.8333,close
+cherry,NN,*sakúra,lang3,sakúra,Sàgúúrãã,0.7143,0.8333,close
+cherry,NN,*sakúra,lang4,sakúra,sàgúúrã,0.7692,0.8333,close
+cherry,NN,*sakúra,lang5,sàkúrà,hàgúra,0.6667,0.6667,partial
+flower,NN,*kírimi,lang3,kírimi,kíírímĩ,0.9231,1.0,exact
+flower,NN,*kírimi,lang4,kírimi,kíírímĩ,0.9231,1.0,exact
+flower,NN,*kírimi,lang5,kírimi,qírimili,0.7143,0.8333,close
+flower,NN,*kírimi,lang6,kírimi,kélirivérizi,0.5556,0.8333,close
+flower,NN,*kírimi,lang7,kírimi,qíírímĩ́gíírímĩ,0.5,0.8333,close
+beautiful,JJ,*lúmuralu,lang2,lúmúràlú,lúúmúràlú,0.9412,1.0,exact
+beautiful,JJ,*lúmuralu,lang3,lúmuralu,lúúmṹràlú,0.9412,1.0,exact
+beautiful,JJ,*lúmuralu,lang4,lúmuralu,lúúmṹràlú,0.9412,1.0,exact
+beautiful,JJ,*lúmuralu,lang5,lúmuràlu,lúmuràlu,1.0,1.0,exact
+beautiful,JJ,*lúmuralu,lang6,lúmuralu,lúmũralu,1.0,1.0,exact
+beautiful,JJ,*lúmuralu,lang7,lúmuralu,lúúmṹròlú,0.8235,0.875,close
+quick,JJ,*fúdurulu,lang2,fúdúrúlú,fúúdúrúlú,0.9412,1.0,exact
+quick,JJ,*fúdurulu,lang3,fúdurulu,fúdúbóromṹmṹ,0.7,0.875,close
+quick,JJ,*fúdurulu,lang4,fúdurulu,Fúúdúrúlú,0.9412,1.0,exact
+quick,JJ,*fúdurulu,lang5,fúdurulu,fúdurulu,1.0,1.0,exact
+quick,JJ,*fúdurulu,lang6,fúdurulu,fúdurulu,1.0,1.0,exact
+brown,JJ,*bórunulu,lang4,bórunulu,ðbórúnṹlú,0.9412,1.0,exact
+fox,NN,*vúlumu,lang2,vúlúmú,bbúúlúmúbúúlúmú,0.4762,0.8333,close
+fox,NN,*vúlumu,lang4,vúlumu,bvúúlúmṹ,0.8571,1.0,exact
+fox,NN,*vúlumu,lang6,vúlumu,tabúlumũ,0.7143,0.8333,close
+fox,NN,*vúlumu,lang7,vúlumu,vvúúlúmṹ,0.8571,1.0,exact
+lazy,JJ,*nólumulu,lang2,nólúmúlú,nólúmúlú,1.0,1.0,exact
+lazy,JJ,*nólumulu,lang4,nólumulu,nṍlúmṹlú,1.0,1.0,exact
+lazy,JJ,*nólumulu,lang5,nólumulu,nólumulu,1.0,1.0,exact
+lazy,JJ,*nólumulu,lang6,nólumulu,nṍlumũlu,1.0,1.0,exact
+lazy,JJ,*nólumulu,lang7,nólumulu,nṍlúmṹlú,1.0,1.0,exact
+dog,NN,*bárumu,lang2,bàrúmú,Þàbàrúmúgù,0.75,1.0,exact
+dog,NN,*bárumu,lang4,bàrumu,ðbàrúmṹgù,0.8,1.0,exact
+dog,NN,*bárumu,lang6,barumu,Pobarumũbo,0.75,1.0,exact
+to jump,VB,*púrumu,lang4,púrumu,àvúúrúmṹvàrúmṹmṹ,0.4545,0.8333,close
+to jump,VB,*púrumu,lang6,púrumu,Pobarumũbo,0.625,0.8333,close
+to pass,VB,*fárumu,lang4,fàrumu,fàrúmṹdàrúmṹmṹ,0.6,1.0,exact
+to miss/to lack,VB,*dólumu,lang3,dólumu,sórúmṹ,0.6667,0.6667,partial
+to miss/to lack,VB,*dólumu,lang4,dólumu,ðdólúmṹgùmũ,0.7059,1.0,exact
+to miss/to lack,VB,*dólumu,lang5,dólumu,ngdólumulu,0.75,1.0,exact
+to miss/to lack,VB,*dólumu,lang6,dólumu,udólumũmũ,0.8,1.0,exact
+to miss/to lack,VB,*dólumu,lang7,dólumu,òdòrúmṹmṹ,0.6667,0.8333,close
+to end,VB,*nérimi,lang2,nérímí,nérímíqgì,0.8,1.0,exact
+to end,VB,*nérimi,lang3,nérimi,ínẽ́rímĩ́mĩ,0.8,1.0,exact
+to end,VB,*nérimi,lang4,nérimi,nẽ́rímĩ,1.0,1.0,exact
+to end,VB,*nérimi,lang5,nérimi,unórumugomo,0.3529,0.5,partial
+to end,VB,*nérimi,lang6,nérimi,inẽ́rimĩgemẽ,0.7059,1.0,exact
+to end,VB,*nérimi,lang7,nérimi,únṍrúmṹgùmũ,0.3529,0.5,partial
+to celebrate,VB,*férimi,lang2,férímí,ígérímíqgìmì,0.5556,0.8333,close
+to celebrate,VB,*férimi,lang3,férimi,ívérímĩ́gemẽ,0.5882,0.8333,close
+to celebrate,VB,*férimi,lang4,férimi,ígérímĩ́qgìmĩ,0.5556,0.8333,close
+to celebrate,VB,*férimi,lang5,férimi,igérimiqgeme,0.5556,0.8333,close
+to celebrate,VB,*férimi,lang6,férimi,avérimĩgemẽ,0.5882,0.8333,close
+to celebrate,VB,*férimi,lang7,férimi,ívérímĩ́gìmĩ,0.5882,0.8333,close
+Vancouver,NN,*Vánukuva,lang3,Vànukuva,tàvànṹgúvànṹ,0.7,0.875,close
+Vancouver,NN,*Vánukuva,lang4,Vànukuva,bvànṹgúvã,0.8235,0.875,close
+Vancouver,NN,*Vánukuva,lang5,Vànukuvà,bvànuguvànu,0.7368,0.875,close
+Vancouver,NN,*Vánukuva,lang6,Vanukuva,bvanũguvanũ,0.7368,0.875,close
+Vancouver,NN,*Vánukuva,lang7,Vánukuva,vvònṹgúvòlú,0.5263,0.625,partial
+spring,NN,*vóruma,lang2,vórúmà,vvórúmànú,0.8,1.0,exact
+spring,NN,*vóruma,lang3,vóruma,tàvórúmã̀nṹ,0.75,1.0,exact
+spring,NN,*vóruma,lang4,vóruma,bvórúmã̀nṹ,0.8,1.0,exact
+spring,NN,*vóruma,lang5,vórumà,bvórumàlú,0.8,1.0,exact
+spring,NN,*vóruma,lang6,vóruma,bvórumãnũ,0.8,1.0,exact
+spring,NN,*vóruma,lang7,vóruma,vvórúmõ̀nṹ,0.6667,0.8333,close
+final,JJ,*nérimili,lang3,nérimili,nẽ́rímĩ́lí,1.0,1.0,exact
+final,JJ,*nérimili,lang4,nérimili,nẽ́rímĩ́lí,1.0,1.0,exact
+final,JJ,*nérimili,lang6,nérimili,nẽ́rili,0.8571,0.75,close
+final,JJ,*nérimili,lang7,nérimili,nẽ́rímĩ́lí,1.0,1.0,exact
+to look forward to,VB,*límiri,lang2,límírí,ílíímírímí,0.75,1.0,exact
+to look forward to,VB,*límiri,lang3,límiri,ílíímĩ́rímĩ,0.75,1.0,exact
+to look forward to,VB,*límiri,lang4,límiri,ílíímĩ́rímĩ,0.75,1.0,exact
+to look forward to,VB,*límiri,lang5,límiri,ilímirimi,0.8,1.0,exact
+to look forward to,VB,*límiri,lang6,límiri,ilímĩrimĩ,0.8,1.0,exact
+to look forward to,VB,*límiri,lang7,límiri,ílíímĩ́rímĩ,0.75,1.0,exact
+week,NN,*zómuru,lang4,zómuru,dzómṹrúgùlú,0.7059,1.0,exact
+week,NN,*zómuru,lang6,zómuru,dzamĩrizélimĩnĩ,0.2857,0.5,partial
+week,NN,*zómuru,lang7,zómuru,ngómṹrúgùlú,0.5882,0.8333,close
+quiz,NN,*tórunu,lang3,tórunu,trúnṹdrúnṹ,0.625,0.8333,close
+quiz,NN,*tórunu,lang4,tórunu,tórúnṹdórúnṹ,0.6667,1.0,exact
+quiz,NN,*tórunu,lang6,tórunu,tórunũ,1.0,1.0,exact
+grateful,JJ,*górumula,lang4,górumula,ðgórúmṹlã,0.9412,1.0,exact
+grateful,JJ,*górumula,lang7,górumula,nggórúmõ̀lòngò,0.5714,0.75,close
+library,NN,*pánuru,lang2,pànúrú,pànúrúnú,0.8571,1.0,exact
+library,NN,*pánuru,lang3,pànuru,pànṹrúnṹ,0.8571,1.0,exact
+library,NN,*pánuru,lang4,pànuru,pànṹrúlúlú,0.75,1.0,exact
+library,NN,*pánuru,lang5,pànuru,Pànuruli,0.8571,1.0,exact
+library,NN,*pánuru,lang6,panuru,panũrunũ,0.8571,1.0,exact
+library,NN,*pánuru,lang7,pánuru,pònṹrúnṹ,0.7143,0.8333,close
+dictionary,NN,*móluru,lang2,mólúrú,mólúrú,1.0,1.0,exact
+dictionary,NN,*móluru,lang3,móluru,mṍlúrú,1.0,1.0,exact
+dictionary,NN,*móluru,lang4,móluru,mṍlúrú,1.0,1.0,exact
+song,NN,*mánaru,lang2,mànàrú,mànàrú,1.0,1.0,exact
+song,NN,*mánaru,lang3,mànaru,mã̀nã̀rú,1.0,1.0,exact
+song,NN,*mánaru,lang4,mànaru,mã̀nã̀rúmã̀nã̀rú,0.6667,1.0,exact
+song,NN,*mánaru,lang5,mànàru,mànàrumànàru,0.6667,1.0,exact
+song,NN,*mánaru,lang6,manaru,mãnãrumãnãru,0.6667,1.0,exact
+song,NN,*mánaru,lang7,mánaru,mõ̀nõ̀rú,0.6667,0.6667,partial
+poem,NN,*rélama,lang5,rélàmà,rélàmàqgà,0.8,1.0,exact
+poem,NN,*rélama,lang6,rélama,rélamãrélamã,0.6667,1.0,exact
+poem,NN,*rélama,lang7,rélama,rélúmṹ,0.6667,0.6667,partial
+to help,VB,*gérimi,lang3,gérimi,ízàmĩ́mĩ,0.4615,0.5,partial
+to help,VB,*gérimi,lang4,gérimi,àqgérímĩ́mĩ,0.75,1.0,exact
+to help,VB,*gérimi,lang5,gérimi,àqgérimimi,0.75,1.0,exact
+to help,VB,*gérimi,lang6,gérimi,agérimĩmĩ,0.8,1.0,exact
+to help,VB,*gérimi,lang7,gérimi,ègérímĩ́mĩ,0.8,1.0,exact
+rule,NN,*sélima,lang2,sélímà,hélímàqngà,0.625,0.8333,close
+rule,NN,*sélima,lang7,sélima,hélímẽ̀hélímẽ̀ngè,0.381,0.6667,partial
+to refuse,VB,*názimi,lang4,nàzimi,ínã̀zímĩ́nĩ,0.8,1.0,exact
+to refuse,VB,*názimi,lang6,nazimi,inãzimĩmĩ,0.8,1.0,exact
+ring/circle,NN,*kólo,lang2,kólo,kólù,0.75,0.75,close
+ring/circle,NN,*kólo,lang3,kólo,kólo,1.0,1.0,exact
+ring/circle,NN,*kólo,lang4,kólo,kólù,0.75,0.75,close
+ring/circle,NN,*kólo,lang5,kólo,kólo,1.0,1.0,exact
+ring/circle,NN,*kólo,lang6,kólo,kólogólo,0.6667,1.0,exact
+ring/circle,NN,*kólo,lang7,kólo,kólù,0.75,0.75,close
+offer,NN,*bórumu,lang4,bórumu,ðbórúmṹ,0.9231,1.0,exact
+and,CONJ,*hére,lang2,hére,hérì,0.75,0.75,close
+and,CONJ,*hére,lang3,hére,hére,1.0,1.0,exact
+and,CONJ,*hére,lang4,hére,hérì,0.75,0.75,close
+and,CONJ,*hére,lang5,hére,hére,1.0,1.0,exact
+and,CONJ,*hére,lang6,hére,hére,1.0,1.0,exact
+and,CONJ,*hére,lang7,hére,hérì,0.75,0.75,close
+what,WH,*lízera,lang2,lízerà,xélírí,0.5,0.5,partial
+true,JJ,*xéliri,lang2,xélírí,xélírí,1.0,1.0,exact
+true,JJ,*xéliri,lang3,xéliri,xélírínẽ,0.8571,1.0,exact
+true,JJ,*xéliri,lang4,xéliri,xélírí,1.0,1.0,exact
+true,JJ,*xéliri,lang7,xéliri,xélírí,1.0,1.0,exact
+point of view,NN,*vérizi,lang2,vérízí,xélírí,0.5,0.5,partial
+point of view,NN,*vérizi,lang3,vérizi,sérímĩ,0.6667,0.6667,partial
+point of view,NN,*vérizi,lang4,vérizi,térìnĩ,0.6667,0.6667,partial
+point of view,NN,*vérizi,lang6,vérizi,bvarigadi,0.5333,0.6667,partial
+museum,NN,*donubánu,lang2,donúbànú,þàdùnúbànúlú,0.7,0.875,close
+museum,NN,*donubánu,lang3,donubànu,þàdonṹbànṹnṹ,0.8,1.0,exact
+museum,NN,*donubánu,lang6,donubanu,þadonũbanũ,0.8889,1.0,exact
+museum,NN,*donubánu,lang7,donubánu,ngdùnṹbònṹnṹ,0.6,0.75,close
+eye,NN,*múru,lang2,múrú,múúrúdàgù,0.6154,1.0,exact
+eye,NN,*múru,lang4,múru,mṹṹrúnṹ,0.7273,1.0,exact
+eye,NN,*múru,lang5,múru,Tàmomúrudogo,0.5,1.0,exact
+eye,NN,*múru,lang6,múru,mṹrudógorugo,0.5,1.0,exact
+eye,NN,*múru,lang7,múru,pùmṹṹrúdù,0.6154,1.0,exact
+lifeless,JJ,*múranulu,lang4,múranulu,mṹṹrànṹlú,0.9412,1.0,exact
+black,JJ,*bóhrunu,lang3,bóhrunu,Þàbóhrúnṹ,0.875,1.0,exact
+black,JJ,*bóhrunu,lang4,bóhrunu,Ðbóħrúnṹvàrímĩ́lí,0.5217,0.8571,close
+black,JJ,*bóhrunu,lang5,bóhrunu,ngbóħrunulu,0.6667,0.8571,close
+black,JJ,*bóhrunu,lang6,bóhrunu,þabóħrunũ,0.75,0.8571,close
+black,JJ,*bóhrunu,lang7,bóhrunu,ngbóħrúnṹ,0.75,0.8571,close
+doll,NN,*sóluma,lang4,sóluma,sólúmã,1.0,1.0,exact
+like,ADP,*tírimi,lang2,tírímí,fàlúmúnù,0.1429,0.1667,miss
+like,ADP,*tírimi,lang3,tírimi,tàvérízínĩ,0.5,0.6667,partial
+like,ADP,*tírimi,lang4,tírimi,tíírímĩ,0.9231,1.0,exact
+like,ADP,*tírimi,lang6,tírimi,Tímẽ,0.6,0.5,partial
+like,ADP,*tírimi,lang7,tírimi,ívíírímĩ́mĩ́lí,0.5556,0.8333,close
+frankly,RB,*xérali,lang3,xérali,Xéràlí,1.0,1.0,exact
+frankly,RB,*xérali,lang5,xéràli,Xéràli,1.0,1.0,exact
+frankly,RB,*xérali,lang7,xérali,Xérèlí,0.8333,0.8333,close
+beloved,NN,*férigéri,lang5,férigéri,kériqgéri,0.8235,0.875,close
+damn,NN,*kérim,lang5,kérim,qérimoshtórumodóruma,0.32,0.8,close
+to give,VB,*tórumu,lang2,tórúmú,tórúmúbú,0.8571,1.0,exact
+to give,VB,*tórumu,lang3,tórumu,údrúmõzúbúmṹ,0.4444,0.6667,partial
+to give,VB,*tórumu,lang4,tórumu,údórúmṹzúbúmṹ,0.5263,0.8333,close
+to give,VB,*tórumu,lang5,tórumu,udórumomu,0.6667,0.8333,close
+to give,VB,*tórumu,lang7,tórumu,údórúmũ̀mṹ,0.6667,0.8333,close
+to blow,VB,*périmi,lang2,pérímí,íbérímídérímímí,0.4762,0.8333,close
+home,NN,*súmura,lang2,súmúrà,húúmúràlú,0.6667,0.8333,close
+home,NN,*súmura,lang5,súmurà,dngúràgúra,0.5,0.6667,partial
+home,NN,*súmura,lang6,súmura,súmũralu,0.8571,1.0,exact
+to look,VB,*vérima,lang2,vérímà,ílíímírímí,0.375,0.5,partial
+to look,VB,*vérima,lang3,vérima,ívérímã̀mĩ,0.8,1.0,exact
+to look,VB,*vérima,lang4,vérima,ígérímã̀zízímĩ,0.5263,0.8333,close
+to look,VB,*vérima,lang5,vérimà,igérimàngimi,0.5556,0.8333,close
+to look,VB,*vérima,lang6,vérima,amẽ́rimĩ,0.6154,0.6667,partial
+to look,VB,*vérima,lang7,vérima,vvèrínĩ,0.6154,0.6667,partial
+kid/child,NN,*dórumu,lang2,dórúmú,þàdórúmú,0.8571,1.0,exact
+kid/child,NN,*dórumu,lang3,dórumu,þàdrúmṹlú,0.6667,0.8333,close
+kid/child,NN,*dórumu,lang4,dórumu,ðdórúmṹ,0.9231,1.0,exact
+kid/child,NN,*dórumu,lang5,dórumu,ngdórumu,0.8571,1.0,exact
+kid/child,NN,*dórumu,lang6,dórumu,þadórumũ,0.8571,1.0,exact
+kid/child,NN,*dórumu,lang7,dórumu,ngdórúmṹ,0.8571,1.0,exact
+question,NN,*sélima,lang2,sélímà,hélímàqngà,0.625,0.8333,close
+scholar,NN,*zúradóruma,lang2,zúràdórúmà,ngúúràdórúmàgù,0.75,0.9,close
+scholar,NN,*zúradóruma,lang3,zúradóruma,Pozúúràdrúmã̀õ,0.7826,0.9,close
+scholar,NN,*zúradóruma,lang4,zúradóruma,dzúúràdórúmã̀gù,0.8333,1.0,exact
+scholar,NN,*zúradóruma,lang5,zúràdórumà,Pongúràdórumàwo,0.72,0.9,close
+scholar,NN,*zúradóruma,lang6,zúradóruma,dzúradórumãgo,0.8696,1.0,exact
+scholar,NN,*zúradóruma,lang7,zúradóruma,ngúúròdórúmõ̀gòòg,0.5385,0.7,partial
+to stop,VB,*nérimi,lang3,nérimi,nẽ́rímĩ,1.0,1.0,exact
+should,MD,*dézimi,lang3,dézimi,ídézímĩ́mĩ,0.8,1.0,exact
+should,MD,*dézimi,lang6,dézimi,þadézimĩ,0.8571,1.0,exact
+should,MD,*dézimi,lang7,dézimi,ngdéngímĩ,0.6667,0.8333,close
+vestal,NN,*nérimidérima,lang7,nérimidérima,Nẽ́rímĩ́dérímẽ̀ngè,0.8148,0.9167,close
+pure,JJ,*múranuzómut,lang7,múranuzómut,mṹṹrònṹngómṹdù,0.64,0.7273,partial
+fate,NN,*sélimi,lang2,sélímí,hélímílí,0.7143,0.8333,close
+fate,NN,*sélimi,lang6,sélimi,sélimĩ,1.0,1.0,exact
+happy,JJ,*férimala,lang2,férímàlà,àgérímàlàngímí,0.6364,0.875,close
+happy,JJ,*férimala,lang3,férimala,férímã̀lãã,0.9412,1.0,exact
+happy,JJ,*férimala,lang4,férimala,férímã̀làqgà,0.8421,1.0,exact
+happy,JJ,*férimala,lang5,férimàlà,àgérimàlàngimi,0.6364,0.875,close
+happy,JJ,*férimala,lang7,férimala,kérímẽ̀lèngè,0.5263,0.625,partial
+to forget,VB,*dólumu,lang2,dólúmú,ídólúmúmú,0.8,1.0,exact
+to forget,VB,*dólumu,lang5,dólumu,udólumumu,0.8,1.0,exact
+to forget,VB,*dólumu,lang7,dólumu,údólúmṹmṹ,0.8,1.0,exact
+or,CONJ,*hére,lang3,hére,hére,1.0,1.0,exact
+or,CONJ,*hére,lang5,hére,hére,1.0,1.0,exact
+to rain,VB,*shíyni,lang2,shíyní,ízhííynímí,0.625,0.8333,close
+to rain,VB,*shíyni,lang3,shíyni,ízhííynĩ́mĩ,0.625,0.8333,close
+to rain,VB,*shíyni,lang5,shíyni,ishíynimi,0.8,1.0,exact
+to rain,VB,*shíyni,lang6,shíyni,ishíynĩmĩ,0.8,1.0,exact
+to rain,VB,*shíyni,lang7,shíyni,shííynĩ́mĩ́gì,0.7059,1.0,exact
+mountain,NN,*zeħris,lang2,zeħrís,ngìħríh,0.4615,0.5,partial
+mountain,NN,*zeħris,lang3,zeħris,tàzeħríslí,0.75,1.0,exact
+mountain,NN,*zeħris,lang4,zeħris,dzìħríslí,0.6667,0.8333,close
+mountain,NN,*zeħris,lang5,zeħris,dngeħrih,0.5714,0.6667,partial
+mountain,NN,*zeħris,lang6,zeħris,dzeħris,0.9231,1.0,exact
+to sleep,VB,*órumo,lang2,órúmo,àórúmúmú,0.6154,0.8,close
+to sleep,VB,*órumo,lang3,órumo,à-órúmõ-mĩ,0.6667,1.0,exact
+to sleep,VB,*órumo,lang4,órumo,àwórúmũ̀mṹ,0.5714,0.8,close
+to sleep,VB,*órumo,lang5,órumo,àwórumogomo,0.625,1.0,exact
+to sleep,VB,*órumo,lang6,órumo,aórumõmũ,0.7692,1.0,exact
+to sleep,VB,*órumo,lang7,órumo,òórúmũ̀mṹ,0.6154,0.8,close
+to read,VB,*elirízimi,lang2,elírízímí,íìlírííngímíngíngímílí,0.4516,0.7778,close
+to read,VB,*elirízimi,lang4,elirízimi,íìlíríízímĩ́zízímĩ,0.6154,0.8889,close
+to read,VB,*elirízimi,lang5,elirízimi,ieliríngimimili,0.6667,0.8889,close
+to read,VB,*elirízimi,lang6,elirízimi,ielirízimĩnẽ,0.8571,1.0,exact
+to read,VB,*elirízimi,lang7,elirízimi,íìlírííngímĩ́mĩ,0.6087,0.7778,close
+to dance,VB,*názaluzo,lang6,nazaluzo,unãzaluzo,0.9412,1.0,exact
+proud,JJ,*xórughuralu,lang2,xórúghúràlú,xórúghúràlú,1.0,1.0,exact
+proud,JJ,*xórughuralu,lang3,xórughuralu,xórúghúràlú,1.0,1.0,exact
+man,NN,*háruma,lang3,hàruma,hàrúmã̀go,0.8571,1.0,exact
+man,NN,*háruma,lang4,hàruma,úbàrúmã̀mṹ,0.6667,0.8333,close
+man,NN,*háruma,lang5,hàrumà,hànomu,0.5,0.5,partial
+man,NN,*háruma,lang6,haruma,ubarumãmũ,0.6667,0.8333,close
+empty,JJ,*sám,lang5,sàm,hàm,0.6667,0.6667,partial
+empty,JJ,*sám,lang6,sam,sam,1.0,1.0,exact
+empty,JJ,*sám,lang7,sám,Sèm,0.6667,0.6667,partial
+desert,NN,*xóronuzám,lang2,xóronúzàm,xórùnúnú,0.5882,0.5556,partial
+desert,NN,*xóronuzám,lang3,xóronuzàm,xóronṹzàmlú,0.9,1.0,exact
+desert,NN,*xóronuzám,lang4,xóronuzàm,xórùnṹzàmṹshnṹ,0.6957,0.8889,close
+desert,NN,*xóronuzám,lang7,xóronuzám,xórùnṹngòmṹshnṹ,0.5,0.6667,partial
+to flee/to run,VB,*fudubóromu,lang3,fudubóromu,úvúdúbóromṹgomõ,0.72,0.9,close
+to flee/to run,VB,*fudubóromu,lang4,fudubóromu,fúúràmṹ,0.7059,0.6,partial
+to flee/to run,VB,*fudubóromu,lang5,fudubóromu,pàlumudóruma,0.4545,0.5,partial
+to flee/to run,VB,*fudubóromu,lang7,fudubóromu,fúúròmṹ,0.8235,0.7,partial
+gunslinger,NN,*tórumodóruma,lang3,tórumodóruma,Tórúmõdrúmã̀gook,0.8148,0.9167,close
+terror,NN,*mózu,lang3,mózu,Mṍzú,1.0,1.0,exact
+terror,NN,*mózu,lang5,mózu,móngu,0.6667,0.75,close
+terror,NN,*mózu,lang6,mózu,mṍz,0.8571,0.75,close
+twenty,CARD,*kádi,lang2,kàdí,qàdí,0.75,0.75,close
+twenty,CARD,*kádi,lang3,kàdi,kàdíngéreúú,0.5333,1.0,exact
+twenty,CARD,*kádi,lang6,kadi,bvézingangali,0.2353,0.5,partial
+eight,CARD,*ú,lang2,ú,Ú,1.0,1.0,exact
+eight,CARD,*ú,lang3,ú,úú,0.6667,1.0,exact
+eight,CARD,*ú,lang4,ú,úú,0.6667,1.0,exact
+eight,CARD,*ú,lang5,ú,ú,1.0,1.0,exact
+eight,CARD,*ú,lang6,ú,nĩzã,0.0,0.0,miss
+judge,NN,*téme,lang3,téme,ídémẽnĩ́mĩ,0.4615,0.75,close
+judge,NN,*téme,lang5,téme,idémenimi,0.4615,0.75,close
+judge,NN,*téme,lang6,téme,tímẽ,0.75,0.75,close
+to judge,VB,*témeni,lang2,témení,ídémìmí,0.4615,0.5,partial
+to judge,VB,*témeni,lang3,témeni,ídémẽnĩ́dérímĩ́mĩ,0.4762,0.8333,close
+to judge,VB,*témeni,lang5,témeni,idémenimi,0.6667,0.8333,close
+to judge,VB,*témeni,lang6,témeni,idémẽnĩdérimĩmĩ,0.4762,0.8333,close
+critic,NN,*támodóruma,lang3,tàmodóruma,tàmõdrúmã̀gook,0.7826,0.9,close
+critic,NN,*támodóruma,lang5,tàmodórumà,Tàmodórumàgo,0.9091,1.0,exact
+critic,NN,*támodóruma,lang6,tamodóruma,tamõdórumã,1.0,1.0,exact
+to critique,VB,*támodórumanu,lang2,tàmodórúmànú,í-témìmí,0.3,0.25,miss
+year,NN,*vári,lang2,vàrí,ggàrígàríní,0.4,0.75,close
+year,NN,*vári,lang6,vari,bvarivarili,0.5333,1.0,exact
+year,NN,*vári,lang7,vári,vvèrínĩ,0.5455,0.75,close
+to begin,VB,*vózu,lang3,vózu,úvózúmṹ,0.7273,1.0,exact
+to begin,VB,*vózu,lang5,vózu,uvóngumumu,0.4286,0.75,close
+boat,NN,*púda,lang5,púdà,púda,1.0,1.0,exact
+paper,NN,*léda,lang5,lédà,lédàni,0.8,1.0,exact
+paper,NN,*léda,lang6,léda,lédalédã,0.6667,1.0,exact
+to float,VB,*némi,lang2,némí,némímí,0.8,1.0,exact
+to float,VB,*némi,lang3,némi,ínẽ́mĩ,0.8889,1.0,exact
+to float,VB,*némi,lang4,némi,nẽ́mĩ́mĩ,0.8,1.0,exact
+gutter,NN,*xálo,lang2,xàlo,xàlùnú,0.6,0.75,close
+gutter,NN,*xálo,lang3,xàlo,xàlonṹ,0.8,1.0,exact
+gutter,NN,*xálo,lang4,xàlo,xàlùnṹ,0.6,0.75,close
+rain,NN,*shíynimi,lang2,shíynímí,ízhííynímí,0.7778,0.875,close
+rain,NN,*shíynimi,lang3,shíynimi,íjííynĩ́mĩ,0.7059,0.75,close
+rain,NN,*shíynimi,lang5,shíynimi,ishíynimi,0.9412,1.0,exact
+rain,NN,*shíynimi,lang6,shíynimi,ishíynĩmĩ,0.9412,1.0,exact
+rain,NN,*shíynimi,lang7,shíynimi,shííynĩ́mĩ́gì,0.8421,1.0,exact
+Mrs. (honorific senior female),NN,*mágizi,lang4,màgizi,mã̀qgízíqgì,0.75,1.0,exact
+to say/to tell,VB,*tálimi,lang2,tàlímí,ídàlímíngíngímí,0.4762,0.8333,close
+wing,NN,*zélirilára,lang2,zélírílàrà,kélàrídàqngà,0.5455,0.6,partial
+wing,NN,*zélirilára,lang5,zélirilàrà,kélàridàqgà,0.5714,0.6,partial
+family,NN,*núma,lang3,núma,nṹṹmã̀gàrú,0.6154,1.0,exact
+family,NN,*núma,lang4,núma,nṹṹmã,0.8889,1.0,exact
+family,NN,*núma,lang5,númà,núma,1.0,1.0,exact
+family,NN,*núma,lang6,núma,nṹmãgaru,0.6667,1.0,exact
+family,NN,*núma,lang7,núma,nṹṹmõ̀gòòg,0.4615,0.75,close
+unhappy,JJ,*férine,lang7,férine,kérínĩ,0.6667,0.6667,partial
+way/manner,NN,*vérizi,lang2,vérízí,hérì,0.6,0.5,partial
+way/manner,NN,*vérizi,lang3,vérizi,nẽ́rílí,0.6667,0.6667,partial
+way/manner,NN,*vérizi,lang4,vérizi,ízàmĩ́mĩ,0.4615,0.5,partial
+way/manner,NN,*vérizi,lang6,vérizi,kélirivérizi,0.6667,1.0,exact
+way/manner,NN,*vérizi,lang7,vérizi,ngérènĩ,0.4615,0.5,partial
+all/each,DT,*zéreniri,lang2,zérenírí,ngérìnírílí,0.6316,0.75,close
+all/each,DT,*zéreniri,lang3,zéreniri,íínferenĩ,0.5882,0.625,partial
+all/each,DT,*zéreniri,lang4,zéreniri,ízéràdímĩ,0.5882,0.625,partial
+all/each,DT,*zéreniri,lang5,zéreniri,Hére,0.5,0.375,miss
+all/each,DT,*zéreniri,lang6,zéreniri,dzérenĩri,0.9412,1.0,exact
+all/each,DT,*zéreniri,lang7,zéreniri,hérìgì,0.5714,0.5,partial
+to remain,VB,*séradi,lang2,séràdí,héràdímí,0.7143,0.8333,close
+to remain,VB,*séradi,lang3,séradi,ízéràdímĩ́mĩ,0.5882,0.8333,close
+to remain,VB,*séradi,lang4,séradi,ízéràdímĩ,0.6667,0.8333,close
+to remain,VB,*séradi,lang5,séràdi,ingéràdimi,0.625,0.8333,close
+to remain,VB,*séradi,lang6,séradi,azéradimĩ,0.6667,0.8333,close
+to remain,VB,*séradi,lang7,séradi,íngérèdímĩ,0.5,0.6667,partial
+soon,RB,*márali,lang5,màràli,màràli,1.0,1.0,exact
+soon,RB,*márali,lang7,márali,mẽ̀rèlí,0.6667,0.6667,partial
+program,NN,*dóruva,lang2,dórúvà,þàdórúvàgà,0.75,1.0,exact
+program,NN,*dóruva,lang3,dóruva,þàdrúvànṹ,0.6667,0.8333,close
+program,NN,*dóruva,lang4,dóruva,ðdórúvã,0.9231,1.0,exact
+program,NN,*dóruva,lang5,dóruvà,ngdóruvànu,0.75,1.0,exact
+program,NN,*dóruva,lang6,dóruva,þadóruvã,0.8571,1.0,exact
+program,NN,*dóruva,lang7,dóruva,ngdórúvòngò,0.5882,0.8333,close
+always,RB,*zérani,lang2,zéràní,ngéràní,0.7692,0.8333,close
+always,RB,*zérani,lang3,zérani,nṍràmãã,0.3077,0.3333,miss
+always,RB,*zérani,lang4,zérani,ízàmĩ́mĩ,0.4615,0.5,partial
+always,RB,*zérani,lang6,zérani,dzéranĩ,0.9231,1.0,exact
+always,RB,*zérani,lang7,zérani,ngérènĩ,0.6154,0.6667,partial
+video,NN,*tóralu,lang6,tóralu,tóralugóruamã,0.6316,1.0,exact
+video,NN,*tóralu,lang7,tóralu,tóròlú,0.8333,0.8333,close
+to cook,VB,*fíza,lang4,fíza,ígíízàmĩ,0.5,0.75,close
+President,NNP,*máguzúra,lang2,màgúzúrà,Màgúngúúràgà,0.7,0.875,close
+President,NNP,*máguzúra,lang3,màguzúra,mã̀gúzúúràgo,0.8421,1.0,exact
+President,NNP,*máguzúra,lang4,màguzúra,mã̀gúzúúrã,0.9412,1.0,exact
+President,NNP,*máguzúra,lang6,maguzúra,Mãguzúrago,0.8889,1.0,exact
+future,NN,*nérivári,lang4,nérivàri,nẽ́rígàrínĩ,0.7778,0.875,close
+future,NN,*nérivári,lang6,nérivari,nẽ́rivari,1.0,1.0,exact
+future,NN,*nérivári,lang7,nérivári,nẽ́rívèrínĩ,0.7778,0.875,close
+market,NN,*márunu,lang2,màrúnú,màrúnúnú,0.8571,1.0,exact
+market,NN,*márunu,lang3,màrunu,mã̀rúnṹnṹ,0.8571,1.0,exact
+market,NN,*márunu,lang4,màrunu,mã̀rúnṹ,1.0,1.0,exact
+market,NN,*márunu,lang6,marunu,mãrunũlu,0.8571,1.0,exact
+market,NN,*márunu,lang7,márunu,mõ̀rúnṹ,0.8333,0.8333,close
+tea,NN,*téziri,lang2,tézírí,téngírí,0.7692,0.8333,close
+tea,NN,*téziri,lang3,téziri,tézírí,1.0,1.0,exact
+tea,NN,*téziri,lang4,téziri,tézímĩ́lí,0.7143,0.8333,close
+tea,NN,*téziri,lang5,téziri,Teli,0.6,0.5,partial
+tea,NN,*téziri,lang6,téziri,téziri,1.0,1.0,exact
+tea,NN,*téziri,lang7,téziri,nẽ́rílí,0.5,0.5,partial
+river,NN,*zárunu,lang2,zàrúnú,ngàrúnúnú,0.6667,0.8333,close
+river,NN,*zárunu,lang3,zàrunu,tàzàrúnṹnṹ,0.75,1.0,exact
+river,NN,*zárunu,lang4,zàrunu,dzàrúnṹlú,0.8,1.0,exact
+river,NN,*zárunu,lang5,zàrunu,dngàrunubàrolulu,0.4545,0.8333,close
+river,NN,*zárunu,lang6,zarunu,dzarunũ,0.9231,1.0,exact
+to flow,VB,*mézimi,lang3,mézimi,ízàmĩ́mĩ,0.6154,0.6667,partial
+to flow,VB,*mézimi,lang4,mézimi,ígérímã̀mĩ,0.5333,0.6667,partial
+to flow,VB,*mézimi,lang5,mézimi,iméngimimi,0.625,0.8333,close
+to flow,VB,*mézimi,lang6,mézimi,imẽ́zimĩmĩ,0.8,1.0,exact
+to flow,VB,*mézimi,lang7,mézimi,ígérímĩ́mĩ,0.5333,0.6667,partial
+to be born,VB,*múranutórumu,lang6,múranutórumu,umṹranũtórumũmũ,0.8889,1.0,exact
+letter,NN,*rázumu,lang7,rázumu,ròngúmṹ,0.6154,0.6667,partial
+bridge,NN,*báluru,lang3,bàluru,Þàbàlúrúgo,0.75,1.0,exact
+bridge,NN,*báluru,lang6,baluru,þabaluru,0.8571,1.0,exact
+bridge,NN,*báluru,lang7,báluru,ngbòlúrúnṹ,0.625,0.8333,close
+bicycle,NN,*pórunu,lang3,pórunu,pórúnṹ,1.0,1.0,exact
+bicycle,NN,*pórunu,lang4,pórunu,pórúnṹgù,0.8571,1.0,exact
+to repair,VB,*kázumu,lang2,kàzúmú,úgàngúmúmú,0.5,0.6667,partial
+to repair,VB,*kázumu,lang3,kàzumu,úgàzúmṹdàrúmṹmṹ,0.4762,0.8333,close
+to repair,VB,*kázumu,lang4,kàzumu,úgàzúmṹmṹ,0.6667,0.8333,close
+to repair,VB,*kázumu,lang5,kàzumu,ukàngumumu,0.625,0.8333,close
+to repair,VB,*kázumu,lang6,kazumu,ugazumũ,0.7692,0.8333,close
+to repair,VB,*kázumu,lang7,kázumu,úkòngúmṹmṹlú,0.4444,0.6667,partial
+April,NNP,*Kúrumuvóruma,lang2,Kúrúmúvórúmà,ħħórúmúvórúmànú,0.7407,0.8333,close
+April,NNP,*Kúrumuvóruma,lang3,Kúrumuvóruma,Kúúrúmṹvórúmã̀nṹ,0.8889,1.0,exact
+April,NNP,*Kúrumuvóruma,lang4,Kúrumuvóruma,tàħórúmṹvórúmã̀nṹ,0.7143,0.8333,close
+April,NNP,*Kúrumuvóruma,lang6,Kúrumuvóruma,taħórumũvórumãnũ,0.7143,0.8333,close
+cold,JJ,*ħórumu,lang3,ħórumu,tàħórúmṹ,0.8571,1.0,exact
+cold,JJ,*ħórumu,lang4,ħórumu,tàħórúmṹ,0.8571,1.0,exact
+cold,JJ,*ħórumu,lang5,ħórumu,tàħórumuvórumàlú,0.5455,1.0,exact
+bright,"(ie, happy light)",*férimili,lang3,férimili,férímĩ́lí,1.0,1.0,exact
+bright,"(ie, happy light)",*férimili,lang4,férimili,férímĩ́lí,1.0,1.0,exact
+bright,"(ie, happy light)",*férimili,lang5,férimili,kérimili,0.875,0.875,close
+bright,"(ie, happy light)",*férimili,lang6,férimili,þaglízali,0.3529,0.375,miss
+clock,NN,*sólunudógoru,lang3,sólunudógoru,sólúnṹdógorúzólúnṹdógorúgook,0.6,1.0,exact
+clock,NN,*sólunudógoru,lang5,sólunudógoru,hólunudógoru,0.9167,0.9167,close
+thirteen,JJ,*vési,lang2,vésí,hàlú,0.0,0.0,miss
+thirteen,JJ,*vési,lang3,vési,hàlú,0.0,0.0,miss
+thirteen,JJ,*vési,lang6,vési,halu,0.0,0.0,miss
+time,NN,*sólunu,lang3,sólunu,tàzàlúmṹzólúnṹgo,0.4545,0.8333,close
+time,NN,*sólunu,lang4,sólunu,sólúnṹzórúmṹ,0.6667,1.0,exact
+time,NN,*sólunu,lang5,sólunu,Sólunulu,0.8571,1.0,exact
+time,NN,*sólunu,lang7,sólunu,hólúnṹ,0.8333,0.8333,close
+to play,VB,*pálumu,lang2,pàlúmú,úbàlúmúmú,0.6667,0.8333,close
+to play,VB,*pálumu,lang3,pàlumu,pàlúmṹ,1.0,1.0,exact
+to play,VB,*pálumu,lang4,pàlumu,pàlúmṹmṹ,0.8571,1.0,exact
+to play,VB,*pálumu,lang5,pàlumu,àpàlumumu,0.8,1.0,exact
+to play,VB,*pálumu,lang6,palumu,palumũmũ,0.8571,1.0,exact
+to play,VB,*pálumu,lang7,pálumu,úbòlúmṹmṹ,0.5333,0.6667,partial
+to review,VB,*périmi,lang2,pérímí,íbérímíngíngímí,0.4762,0.8333,close
+to review,VB,*périmi,lang3,périmi,íbérímĩ́mĩ,0.6667,0.8333,close
+to review,VB,*périmi,lang4,périmi,íbérímĩ,0.7692,0.8333,close
+to review,VB,*périmi,lang6,périmi,ibérimĩzizimĩ,0.5263,0.8333,close
+efficient,JJ,*hélirili,lang2,hélírílí,hélírílí,1.0,1.0,exact
+efficient,JJ,*hélirili,lang3,hélirili,hélúrúlú,0.625,0.625,partial
+efficient,JJ,*hélirili,lang5,hélirili,hélirili,1.0,1.0,exact
+efficient,JJ,*hélirili,lang7,hélirili,hélírílí,1.0,1.0,exact
+to be careful,VB,*vérima,lang4,vérima,ígérímã̀zízímĩ,0.5263,0.8333,close
+to sit,VB,*sólumu,lang2,sólúmú,àhólúmúngúngúngúmú,0.4167,0.8333,close
+to sit,VB,*sólumu,lang3,sólumu,úzólúmṹmṹ,0.6667,0.8333,close
+to sit,VB,*sólumu,lang5,sólumu,àngólumungumu,0.5263,0.8333,close
+to sit,VB,*sólumu,lang6,sólumu,uzólumũmũ,0.6667,0.8333,close
+to sit,VB,*sólumu,lang7,sólumu,òngólúmṹngúbúmṹ,0.4762,0.8333,close
+person,NN,*náruma,lang2,nàrúmà,nàrúmànàrúmàlú,0.6,1.0,exact
+person,NN,*náruma,lang3,nàruma,nã̀rúmã̀nã̀rúmã̀gook,0.5455,1.0,exact
+person,NN,*náruma,lang4,nàruma,nã̀rúmã̀nã̀rúmã̀gùùng,0.5217,1.0,exact
+person,NN,*náruma,lang5,nàrumà,nàrumànàrumàgo,0.6,1.0,exact
+person,NN,*náruma,lang6,naruma,nãrumãnãrumãgo,0.6,1.0,exact
+person,NN,*náruma,lang7,náruma,nõ̀rúmõ̀nõ̀rúmõ̀lú,0.4,0.6667,partial
+to drink,VB,*nízimi,lang2,nízímí,ínííngímímí,0.5882,0.8333,close
+to drink,VB,*nízimi,lang3,nízimi,ínĩ́zímĩ́mĩ,0.8,1.0,exact
+to drink,VB,*nízimi,lang4,nízimi,ínĩ́ĩ́zímĩ́zízímĩ,0.6,1.0,exact
+to drink,VB,*nízimi,lang5,nízimi,iníngimimi,0.625,0.8333,close
+to drink,VB,*nízimi,lang6,nízimi,inĩzimĩ,0.9231,1.0,exact
+to drink,VB,*nízimi,lang7,nízimi,ínĩ́ngímĩ́mĩ,0.625,0.8333,close
+energy,NN,*zérimi,lang2,zérímí,ngérímílí,0.6667,0.8333,close
+energy,NN,*zérimi,lang5,zérimi,dngérimidérimàli,0.4545,0.8333,close
+energy,NN,*zérimi,lang6,zérimi,dzérimĩ,0.9231,1.0,exact
+energy,NN,*zérimi,lang7,zérimi,ngérímĩ,0.7692,0.8333,close
+to recover/regain,VB,*mérimi,lang6,mérimi,imẽ́rimĩgemẽ,0.7059,1.0,exact
+to recover/regain,VB,*mérimi,lang7,mérimi,ímẽ́rímĩ́mĩ,0.8,1.0,exact
+window,NN,*vólumu,lang4,vólumu,bvólúmṹlú,0.8,1.0,exact
+window,NN,*vólumu,lang5,vólumu,bvólumumúrunu,0.6316,1.0,exact
+window,NN,*vólumu,lang7,vólumu,vvólúmṹnṹ,0.8,1.0,exact
+bus,NN,*trávumudógoru,lang4,tràvumudógoru,tràvúmṹdógùrúnṹ,0.8571,0.9231,close
+bus,NN,*trávumudógoru,lang6,travumudógoru,Travumũdógoru,1.0,1.0,exact
+snow,NN,*súnaru,lang3,súnaru,úzúúnã̀rúnṹmṹ,0.5556,0.8333,close
+snow,NN,*súnaru,lang6,súnaru,súnãruzanõmũlu,0.6,1.0,exact
+snow,NN,*súnaru,lang7,súnaru,húúnõ̀rú,0.6154,0.6667,partial
+road,NN,*márugu,lang2,màrúgú,màrúgúnú,0.8571,1.0,exact
+road,NN,*márugu,lang3,màrugu,mã̀rúgúlú,0.8571,1.0,exact
+road,NN,*márugu,lang6,marugu,mãrugunũ,0.8571,1.0,exact
+lamp,NN,*dórunu,lang6,dórunu,þadórunũnũ,0.75,1.0,exact
+music,NN,*límeri,lang2,límerí,làmùrúdórúmàgùùg,0.2727,0.5,partial
+music,NN,*límeri,lang4,límeri,líímĩ̀rí,0.7692,0.8333,close
+music,NN,*límeri,lang5,límeri,límeri,1.0,1.0,exact
+music,NN,*límeri,lang6,límeri,límẽri,1.0,1.0,exact
+music,NN,*límeri,lang7,límeri,hélímĩ,0.6667,0.6667,partial
+small,JJ,*póluru,lang2,pólúrú,pólúrílàgà,0.625,0.8333,close
+small,JJ,*póluru,lang4,póluru,Pólúrúlã,0.8571,1.0,exact
+secret,NN,*púrumunu,lang2,púrúmúnú,púúrúmúnú,0.9412,1.0,exact
+secret,NN,*púrumunu,lang5,púrumunu,púrumunu,1.0,1.0,exact
+secret,NN,*púrumunu,lang6,púrumunu,ubúrumĩnũ,0.7059,0.75,close
+bird,NN,*túrumu,lang2,túrúmú,túúrúmúlú,0.8,1.0,exact
+bird,NN,*túrumu,lang3,túrumu,túúrúmṹlú,0.8,1.0,exact
+bird,NN,*túrumu,lang4,túrumu,túúrúmṹgù,0.8,1.0,exact
+bird,NN,*túrumu,lang5,túrumu,túrumu,1.0,1.0,exact
+bird,NN,*túrumu,lang6,túrumu,túrumũgo,0.8571,1.0,exact
+bird,NN,*túrumu,lang7,túrumu,túúrúmṹmṹṹrúnṹ,0.6,1.0,exact
+sky,NN,*féliri,lang2,félírí,kéríríní,0.5714,0.6667,partial
+sky,NN,*féliri,lang3,féliri,félírínĩ,0.8571,1.0,exact
+sky,NN,*féliri,lang4,féliri,félírínĩ,0.8571,1.0,exact
+sky,NN,*féliri,lang5,féliri,kélirini,0.7143,0.8333,close
+sky,NN,*féliri,lang6,féliri,kélirivérizi,0.5556,0.8333,close
+sky,NN,*féliri,lang7,féliri,kérírínĩ,0.5714,0.6667,partial
+game,NN,*dózama,lang2,dózàmà,þàdóngàmàgà,0.5882,0.8333,close
+game,NN,*dózama,lang5,dózàmà,ngdóngàma,0.6667,0.8333,close
+game,NN,*dózama,lang6,dózama,þadózamã,0.8571,1.0,exact
+stranger,NN,*pórumu,lang7,pórumu,pórúmṹbórúmṹ,0.6667,1.0,exact
+kindness,NN,*sórulu,lang7,sórulu,hórúlúnṹ,0.7143,0.8333,close
+to depend,VB,*zórumu,lang7,zórumu,úngórúmṹmṹ,0.625,0.8333,close
+bat,NN,*vúrunámora,lang2,vúrúnàmorà,tórúmùbàlúrúgù,0.3333,0.4,miss
+to be surprised,VB,*vóruza,lang2,vórúzà,í-hàmí-mí,0.1333,0.1667,miss
+to be surprised,VB,*vóruza,lang3,vóruza,ízàmĩ́mĩ,0.3077,0.3333,miss
+to be surprised,VB,*vóruza,lang4,vóruza,ízàmĩ́mĩ,0.3077,0.3333,miss
+to be surprised,VB,*vóruza,lang5,vóruzà,ingàminemi,0.125,0.1667,miss
+to be surprised,VB,*vóruza,lang6,vóruza,izamĩmĩ,0.3077,0.3333,miss
+to be surprised,VB,*vóruza,lang7,vóruza,íngèmĩ́mĩ́lí,0.0,0.0,miss
+to seize / to grasp,VB,*páruma,lang3,pàruma,úbàrúmã̀mṹ,0.6667,0.8333,close
+boy,NN,*dóramu,lang3,dóramu,Þàdràmṹdràmṹgook,0.4545,0.8333,close
+life,NN,*múranu,lang2,múrànú,Sélímí,0.1667,0.1667,miss
+life,NN,*múranu,lang3,múranu,mṹṹrànṹmṹṹrànṹ,0.6,1.0,exact
+life,NN,*múranu,lang4,múranu,mṹṹrànṹlú,0.8,1.0,exact
+life,NN,*múranu,lang5,múrànu,umúrànu,0.9231,1.0,exact
+life,NN,*múranu,lang6,múranu,mṹranũzalumã,0.6667,1.0,exact
+life,NN,*múranu,lang7,múranu,mṹṹrònṹngólúnṹ,0.5,0.8333,close
+extraordinary,JJ,*zórazalu,lang2,zóràzàlú,ngóràngàlú,0.6667,0.75,close
+extraordinary,JJ,*zórazalu,lang3,zórazalu,tàzórúzílú,0.6667,0.75,close
+extraordinary,JJ,*zórazalu,lang5,zóràzàlu,dngóràngàlu,0.6316,0.75,close
+extraordinary,JJ,*zórazalu,lang6,zórazalu,dzórazalu,0.9412,1.0,exact
+to daydream,VB,*sélimivélimi,lang3,sélimivélimi,ízélímĩ́vélímĩ́mĩ,0.8148,0.9167,close
+ambition,NN,*mégevélami,lang6,mégevélami,mẽ́gevélamĩ,1.0,1.0,exact
+Swedish,JJ,*Swidi,lang5,Swidi,Swidiqge,0.7692,1.0,exact
+Swedish,JJ,*Swidi,lang6,Swidi,Swidige,0.8333,1.0,exact
+director,NN,*tóralugóruama,lang2,tóràlúgórúàmà,tóràlúgórúàmàgà,0.9286,1.0,exact
+director,NN,*tóralugóruama,lang3,tóralugóruama,Tóràlúgórúàmã̀gook,0.8667,1.0,exact
+director,NN,*tóralugóruama,lang4,tóralugóruama,tóràlúgórúwàmã̀gùùng,0.8125,1.0,exact
+director,NN,*tóralugóruama,lang5,tóràlugóruàmà,tóràlugóruwàmàgo,0.8966,1.0,exact
+director,NN,*tóralugóruama,lang6,tóralugóruama,tóralugóruamãgo,0.9286,1.0,exact
+director,NN,*tóralugóruama,lang7,tóralugóruama,tóròlúgórúòmõ̀gù,0.7143,0.7692,close
+death,NN,*míraninéri,lang6,míraninéri,mĩ́ranũnẽ́rili,0.8182,0.9,close
+death,NN,*míraninéri,lang7,míraninéri,mĩ́ĩ́rènĩ́nẽ́rílí,0.7826,0.9,close
+cat,NN,*mázumu,lang2,màzúmú,màngúmú,0.7692,0.8333,close
+cat,NN,*mázumu,lang4,màzumu,mã̀zúmṹ,1.0,1.0,exact
+cat,NN,*mázumu,lang5,màzumu,màngumugo,0.6667,0.8333,close
+cat,NN,*mázumu,lang6,mazumu,mãzumũ,1.0,1.0,exact
+cat,NN,*mázumu,lang7,mázumu,Mõ̀ngúmṹ,0.6154,0.6667,partial
+to chase,VB,*dárumu,lang2,dàrúmú,àdàrúmúmú,0.8,1.0,exact
+to chase,VB,*dárumu,lang3,dàrumu,Þàdàrúmõdrúmã̀gook,0.5217,1.0,exact
+to chase,VB,*dárumu,lang4,dàrumu,àdàrúmṹmṹ,0.8,1.0,exact
+to chase,VB,*dárumu,lang6,darumu,adarumũmũ,0.8,1.0,exact
+to chase,VB,*dárumu,lang7,dárumu,òdòrúmṹmṹ,0.6667,0.8333,close
+to climb,VB,*fárumu,lang4,fàrumu,úvàrúmṹmṹ,0.6667,0.8333,close
+tree,NN,*kóramudógoru,lang3,kóramudógoru,kóràmṹdógorúnṹ,0.9231,1.0,exact
+tree,NN,*kóramudógoru,lang4,kóramudógoru,kíírímĩ́dógùrúlú,0.5926,0.6667,partial
+tree,NN,*kóramudógoru,lang7,kóramudógoru,kóròmṹdógùrúgóvúnṹ,0.6667,0.8333,close
+hand,NN,*lóra,lang2,lórà,úlóràdàrúmúmú,0.4706,1.0,exact
+hand,NN,*lóra,lang3,lóra,nĩ́lóràdàgo,0.5714,1.0,exact
+hand,NN,*lóra,lang4,lóra,Tùlóràdàgùùng,0.4706,1.0,exact
+hand,NN,*lóra,lang5,lórà,lóràdàtàgo,0.5714,1.0,exact
+hand,NN,*lóra,lang6,lóra,ulóradarumũmũ,0.4706,1.0,exact
+hand,NN,*lóra,lang7,lóra,lóròdòngò,0.4615,0.75,close
+to ache,VB,*kérimi,lang2,kérímí,tíírímí,0.6154,0.6667,partial
+to ache,VB,*kérimi,lang3,kérimi,kérímĩ́mĩ,0.8571,1.0,exact
+to ache,VB,*kérimi,lang4,kérimi,tézímĩ́lí,0.5714,0.6667,partial
+to ache,VB,*kérimi,lang5,kérimi,qírimi,0.6667,0.6667,partial
+to ache,VB,*kérimi,lang6,kérimi,igérimĩmĩ,0.6667,0.8333,close
+to ache,VB,*kérimi,lang7,kérimi,nẽ́rílí,0.6667,0.6667,partial
+leg,NN,*néri,lang2,nérí,nérídì,0.8,1.0,exact
+leg,NN,*néri,lang4,néri,nẽ́rídì,0.8,1.0,exact
+leg,NN,*néri,lang6,néri,nẽ́ridedage,0.5714,1.0,exact
+heart,NN,*múranuzómut,lang2,múrànúzómút,númúúrànúngómúttàgà,0.6667,0.9091,close
+heart,NN,*múranuzómut,lang3,múranuzómut,mṹṹrànṹzómṹt,0.9565,1.0,exact
+heart,NN,*múranuzómut,lang5,múrànuzómut,Numúrànungómudàgo,0.6429,0.8182,close
+heart,NN,*múranuzómut,lang6,múranuzómut,mṹranũzómũt,1.0,1.0,exact
+heart,NN,*múranuzómut,lang7,múranuzómut,Nṹmṹṹrònṹngómṹdògù,0.5517,0.7273,partial
+to count,VB,*kérimi,lang4,kérimi,íqgérímĩ́mĩ,0.625,0.8333,close
+to count,VB,*kérimi,lang6,kérimi,kélirinãvélirinã,0.4545,0.8333,close
+to count,VB,*kérimi,lang7,kérimi,ígérímĩ́mĩ,0.6667,0.8333,close
+to possess/own,VB,*páruma,lang2,pàrúmà,þàdórúmàmúúrú,0.5263,0.8333,close
+to possess/own,VB,*páruma,lang3,pàruma,lórúmãã,0.6154,0.6667,partial
+to possess/own,VB,*páruma,lang4,pàruma,úbàrúmã̀mṹ,0.6667,0.8333,close
+to possess/own,VB,*páruma,lang5,pàrumà,púda,0.6,0.5,partial
+to possess/own,VB,*páruma,lang6,paruma,ubarumãmũ,0.6667,0.8333,close
+shimmer,NN,*glíza,lang5,glízà,ngglíngàqgà,0.5,0.8,close
+shimmer,NN,*glíza,lang6,glíza,Þaglízamĩ,0.7143,1.0,exact
+shimmer,NN,*glíza,lang7,glíza,ngglííngègèèd,0.3333,0.6,partial
+to glow,VB,*glizami,lang3,glizami,þàglízàmĩ,0.875,1.0,exact
+to glow,VB,*glizami,lang5,glizàmi,ngglingàmi,0.7059,0.8571,close
+to distract,VB,*lémarimi,lang2,lémàrímí,ílémàrímímí,0.8421,1.0,exact
+to distract,VB,*lémarimi,lang3,lémarimi,ílémã̀rímĩ́nẽ,0.8421,1.0,exact
+to distract,VB,*lémarimi,lang5,lémàrimi,ilémàrimimi,0.8421,1.0,exact
+to distract,VB,*lémarimi,lang6,lémarimi,i-lémãrimĩmĩ,0.8,1.0,exact
+to distract,VB,*lémarimi,lang7,lémarimi,ílémẽ̀rímĩ́mĩ,0.7368,0.875,close
+hunter,NN,*dárumodóruma,lang2,dàrúmodórúmà,Þàdàrúmùdórúmàgùùg,0.7333,0.9167,close
+hunter,NN,*dárumodóruma,lang3,dàrumodóruma,Þàdàrúmõdrúmã̀go,0.8148,0.9167,close
+hunter,NN,*dárumodóruma,lang4,dàrumodóruma,Ðdàrúmũ̀dórúmã,0.88,0.9167,close
+hunter,NN,*dárumodóruma,lang5,dàrumodórumà,Zdàrumodórumàgo,0.8889,1.0,exact
+hunter,NN,*dárumodóruma,lang6,darumodóruma,Þadarumõdórumãgo,0.8571,1.0,exact
+hunter,NN,*dárumodóruma,lang7,dárumodóruma,Tórúmũ̀dórúmõ̀gòòg,0.5714,0.6667,partial
+fox,NN,*vúlumu,lang2,vúlúmú,bbúúlúmúbúúlúmú,0.4762,0.8333,close
+fox,NN,*vúlumu,lang4,vúlumu,bvúúlúmṹ,0.8571,1.0,exact
+fox,NN,*vúlumu,lang6,vúlumu,tabúlumũ,0.7143,0.8333,close
+fox,NN,*vúlumu,lang7,vúlumu,vvúúlúmṹ,0.8571,1.0,exact
+target,NN,*tórunu,lang2,tórúnú,tórúnú,1.0,1.0,exact
+target,NN,*tórunu,lang3,tórunu,trúnṹdrúnṹ,0.625,0.8333,close
+target,NN,*tórunu,lang4,tórunu,tórúnṹ,1.0,1.0,exact
+target,NN,*tórunu,lang5,tórunu,tórunudórunu,0.6667,1.0,exact
+target,NN,*tórunu,lang7,tórunu,tórúnṹ,1.0,1.0,exact
+to find,VB,*kélimi,lang2,kélímí,íqgélímímí,0.625,0.8333,close
+to find,VB,*kélimi,lang3,kélimi,ígélímĩ́mĩ,0.6667,0.8333,close
+to find,VB,*kélimi,lang4,kélimi,íqgélímĩ́zímĩ,0.5556,0.8333,close
+to find,VB,*kélimi,lang5,kélimi,iqgélimimi,0.625,0.8333,close
+to find,VB,*kélimi,lang6,kélimi,igélimĩgemẽ,0.5882,0.8333,close
+to find,VB,*kélimi,lang7,kélimi,ígélímĩ́mĩ,0.6667,0.8333,close
+caffeinated,JJ,*kávuruzúra,lang7,kávuruzúra,kòvúrúngúúròngò,0.56,0.7,partial
+snacker,NN,*sánumunáru,lang2,sànúmúnàrú,hànùmúnàrú,0.9,0.9,close
+snacker,NN,*sánumunáru,lang3,sànumunàru,sànṹmṹnã̀rúgo,0.9091,1.0,exact
+snacker,NN,*sánumunáru,lang5,sànumunàru,hànomunàru,0.8,0.8,close
+tired,JJ,*zérimidérimali,lang2,zérímídérímàlí,ngérímídérímàngérímídérímàlí,0.619,0.9286,close
+tired,JJ,*zérimidérimali,lang5,zérimidérimàli,dngérimidérimàli,0.8667,0.9286,close
+tired,JJ,*zérimidérimali,lang6,zérimidérimali,dzérimĩdérimãli,0.9655,1.0,exact
+professor,NN,*zúramáguzúra,lang2,zúràmàgúzúrà,ngúúràgúúràgà,0.64,0.6667,partial
+professor,NN,*zúramáguzúra,lang5,zúràmàguzúrà,dngúràmàgungúràngúràmàgungúra,0.4878,0.8333,close
+professor,NN,*zúramáguzúra,lang7,zúramáguzúra,ngúúròmõ̀gúngúúrògòòg,0.4375,0.5833,partial
+teacher,NN,*zúragúra,lang2,zúràgúrà,ngúúràgúúràgà,0.6667,0.875,close
+teacher,NN,*zúragúra,lang3,zúragúra,tàzúúràgúúràlí,0.7273,1.0,exact
+teacher,NN,*zúragúra,lang4,zúragúra,dzúúràgúúrã,0.8421,1.0,exact
+teacher,NN,*zúragúra,lang5,zúràgúrà,dngúràgúràgo,0.7,0.875,close
+teacher,NN,*zúragúra,lang6,zúragúra,dzúragúrago,0.8421,1.0,exact
+teacher,NN,*zúragúra,lang7,zúragúra,ngúúrògúúrògòòg,0.4348,0.625,partial
+nuisance,NN,*kérimoshtórumodóruma,lang5,kérimoshtórumodórumà,qérimoshtórumodóruma,0.95,0.95,exact
+emperor,NNP,*Máguzúrazóronara,lang2,Màgúzúràzóronàrà,Màgúngúúràngórùnàràgùùg,0.6667,0.8125,close
+emperor,NNP,*Máguzúrazóronara,lang3,Màguzúrazóronara,mã̀gúzúúràzóronã̀ràgook,0.8649,1.0,exact
+emperor,NNP,*Máguzúrazóronara,lang4,Màguzúrazóronara,Mã̀gúzúúràzórùnã̀ràgùùng,0.7895,0.9375,close
+emperor,NNP,*Máguzúrazóronara,lang5,Màguzúràzóronàrà,Màgungúràngóronàràgo,0.7778,0.875,close
+emperor,NNP,*Máguzúrazóronara,lang6,Maguzúrazóronara,Mãguzúrazóronãrago,0.9412,1.0,exact
+emperor,NNP,*Máguzúrazóronara,lang7,Máguzúrazóronara,Mõ̀gúngúúròngórùnõ̀rògòòg,0.4615,0.5625,partial
+ice cream,NN,*súnaruzánomu,lang6,súnaruzanomu,súnãruzanõmũlu,0.9231,1.0,exact
+ice cream,NN,*súnaruzánomu,lang7,súnaruzánomu,mṹṹrònṹngólúnṹ,0.4615,0.5,partial
+stately,JJ,*máguzulu,lang6,maguzulu,mãguzulu,1.0,1.0,exact
+animal,NN,*báruna,lang4,bàruna,mṹṹrànṹbàrúmṹ,0.4211,0.6667,partial
+animal,NN,*báruna,lang5,bàrunà,ngbàruna,0.8571,1.0,exact
+animal,NN,*báruna,lang6,baruna,þabarunã,0.8571,1.0,exact
+animal,NN,*báruna,lang7,báruna,ngbòrúnõ̀lú,0.5,0.6667,partial
+dome,NN,*spíra,lang4,spíra,spíírànṹ,0.7692,1.0,exact
+dome,NN,*spíra,lang6,spíra,spíranĩ,0.8333,1.0,exact
+fish,NN,*nímera,lang2,nímerà,níímìràqgì,0.625,0.8333,close
+fish,NN,*nímera,lang4,nímera,pìnĩ́ĩ́mĩ̀ràqgà,0.5556,0.8333,close
+to fish,VB,*bílega,lang2,bílegà,þàbíílìqgàmí,0.5556,0.8333,close
+to fish,VB,*bílega,lang4,bílega,pìnĩ́ĩ́mĩ̀ràqgà,0.3333,0.5,partial
+red,JJ,*xáru,lang3,xàru,xórúmõ,0.6,0.75,close
+red,JJ,*xáru,lang4,xàru,tànṹrú,0.6,0.75,close
+red,JJ,*xáru,lang6,xaru,Xaru,1.0,1.0,exact
+red,JJ,*xáru,lang7,xáru,xòrú,0.75,0.75,close
+mathematician,NN,*kérimeshdérima,lang7,kérimeshdérima,Kérímĩ̀shdérímõ̀gòòg,0.75,0.8571,close
+knowledge,NN,*sérimini,lang2,sérímíní,hérímíní,0.875,0.875,close
+knowledge,NN,*sérimini,lang3,sérimini,sérímĩ́nĩ,1.0,1.0,exact
+knowledge,NN,*sérimini,lang4,sérimini,sérímĩ́nĩ,1.0,1.0,exact
+scientist,NN,*sériminizéradarima,lang2,sérímínízéràdàrímà,hérímíníngéràdàrímàqgììd,0.7619,0.8889,close
+scientist,NN,*sériminizéradarima,lang4,sériminizéradarima,Sérímĩ́nĩ́zéràdàrímã̀qgììn,0.878,1.0,exact
+scientist,NN,*sériminizéradarima,lang5,sériminizéràdàrimà,hériminingéràdàrimàqgà,0.8,0.8889,close
+scientist,NN,*sériminizéradarima,lang6,sériminizéradarima,sérimĩnĩzéradarimã,1.0,1.0,exact
+scientist,NN,*sériminizéradarima,lang7,sériminizéradarima,hérímĩ́nĩ́ngérèdèrímẽ̀ngè,0.65,0.7222,partial
+to run,VB,*rúzamu,lang2,rúzàmú,àrúúngàmúmú,0.5882,0.8333,close
+to run,VB,*rúzamu,lang3,rúzamu,àrúúzàmṹmṹ,0.75,1.0,exact
+to run,VB,*rúzamu,lang4,rúzamu,àrúúzàmṹzúzúmṹ,0.6,1.0,exact
+to run,VB,*rúzamu,lang5,rúzàmu,àrúngàmungungumu,0.4545,0.8333,close
+to run,VB,*rúzamu,lang6,rúzamu,arúzumũzubumũ,0.5263,0.8333,close
+to run,VB,*rúzamu,lang7,rúzamu,rúúngòmṹmṹ,0.5,0.6667,partial
+conscience,NN,*gorumaluxórumu,lang4,gorumaluxórumu,ðgùrúmã̀lúghórúmṹ,0.8,0.8571,close
+kilometer,NN,*kílimiri,lang2,kílímírí,qíílímíríqgíílímírí,0.5185,0.875,close
+kilometer,NN,*kílimiri,lang4,kílimiri,kíílímĩ́rí,0.9412,1.0,exact
+kilometer,NN,*kílimiri,lang5,kílimiri,qílimiri,0.875,0.875,close
+kilometer,NN,*kílimiri,lang6,kílimiri,qílimĩri,0.875,0.875,close
+kilometer,NN,*kílimiri,lang7,kílimiri,qíílímĩ́rí,0.8235,0.875,close
+race,NN,*fúramu,lang3,fúramu,fúúràmṹnṹ,0.8,1.0,exact
+race,NN,*fúramu,lang4,fúramu,fúúràmṹnṹ,0.8,1.0,exact
+race,NN,*fúramu,lang5,fúràmu,fúràmuhpàrànu,0.6316,1.0,exact
+race,NN,*fúramu,lang6,fúramu,fúramũnũ,0.8571,1.0,exact
+race,NN,*fúramu,lang7,fúramu,fúúròmṹnṹ,0.6667,0.8333,close
+binoculars,NN,*múrudógoru,lang6,múrudógoru,mṹrudógorugo,0.9091,1.0,exact
+to get married,VB,*númazamu,lang2,númàzàmú,ànúúmàngàmúgùmù,0.6087,0.875,close
+to get married,VB,*númazamu,lang3,númazamu,mã̀nã̀rúmã̀mṹ,0.6667,0.75,close
+to get married,VB,*númazamu,lang4,númazamu,mã̀nã̀rú,0.5714,0.5,partial
+to get married,VB,*númazamu,lang5,númàzàmu,màyhpànomu,0.5556,0.625,partial
+to get married,VB,*númazamu,lang7,númazamu,ngbórùmṹ,0.5,0.5,partial
+month,NN,*sélimivári,lang2,sélímívàrí,hélímígàríní,0.7273,0.8,close
+good,JJ,*górumalu,lang2,górúmàlú,þàdórúmàmúúrú,0.5714,0.75,close
+good,JJ,*górumalu,lang4,górumalu,ðgórúmṹ,0.8,0.75,close
+good,JJ,*górumalu,lang5,górumàlu,nggórumàlu,0.8889,1.0,exact
+good,JJ,*górumalu,lang6,górumalu,þagórumãlu,0.8889,1.0,exact
+good,JJ,*górumalu,lang7,górumalu,nggórúmõ̀lú,0.7778,0.875,close
+best,RB,*górumu,lang5,górumu,nggórumu,0.8571,1.0,exact
+worst,RB,*mórumu,lang5,mórumu,mórumu,1.0,1.0,exact
+age/era,NN,*vórunu,lang2,vórúnú,tógùrúlú,0.5714,0.6667,partial
+age/era,NN,*vórunu,lang3,vórunu,lórúmã̀lú,0.5714,0.6667,partial
+age/era,NN,*vórunu,lang4,vórunu,lórúmã,0.5,0.5,partial
+age/era,NN,*vórunu,lang5,vórunu,lóruma,0.5,0.5,partial
+age/era,NN,*vórunu,lang6,vórunu,kavuru,0.5,0.5,partial
+wisdom,NN,*zárumu,lang4,zàrumu,dzàrúmṹ,0.9231,1.0,exact
+wisdom,NN,*zárumu,lang5,zàrumu,dngàrumu,0.7143,0.8333,close
+wisdom,NN,*zárumu,lang6,zarumu,dzarumũ,0.9231,1.0,exact
+foolishness,NN,*bóruno,lang5,bóruno,ngbóruno,0.8571,1.0,exact
+belief,NN,*xórumu,lang5,xórumu,xórumu,1.0,1.0,exact
+season,NN,*tóruvoru,lang5,tóruvoru,tóruvorulu,0.8889,1.0,exact
+season,NN,*tóruvoru,lang6,tóruvoru,uvóruzamũ,0.5882,0.625,partial
+light,NN,*mili,lang4,mili,mĩ́lí,1.0,1.0,exact
+light,NN,*mili,lang5,mili,mili,1.0,1.0,exact
+light,NN,*mili,lang7,mili,mĩ́líqèèd,0.6667,1.0,exact
+light,JJ,*milili,lang4,milili,mĩ́lí,0.8,0.6667,partial
+light,JJ,*milili,lang5,milili,mili,0.8,0.6667,partial
+light,JJ,*milili,lang7,milili,mĩ́líqèèd,0.5714,0.6667,partial
+darkness,NN,*miline,lang5,miline,miline,1.0,1.0,exact
+darkness,NN,*miline,lang6,miline,mĩlinẽzeħrisnĩ,0.6,1.0,exact
+darkness,NN,*miline,lang7,miline,mṹlúnũ̀ngólúnṹnṹ,0.2857,0.5,partial
+hobby,NN,*fólumugóruama,lang4,fólumugóruama,fólúmṹzérímĩ,0.64,0.6154,partial
+path,NN,*láka,lang6,laka,lagã,0.75,0.75,close
+to hike,VB,*túra,lang5,túrà,túra,1.0,1.0,exact
+to hike,VB,*túra,lang6,túra,udúramũ,0.5455,0.75,close
+a hike,NN,*túramu,lang5,túràmu,túra,0.8,0.6667,partial
+a hike,NN,*túramu,lang6,túramu,túramũ,1.0,1.0,exact
+easy/simple,JJ,*sélireli,lang5,sélireli,hélireli,0.875,0.875,close
+dark,JJ,*milineli,lang2,mílínelí,mílínìlí,0.875,0.875,close
+dark,JJ,*milineli,lang3,milineli,mĩ́línẽlí,1.0,1.0,exact
+dark,JJ,*milineli,lang4,milineli,ímĩ́línĩ̀zìħríslí,0.6087,0.875,close
+dark,JJ,*milineli,lang6,milineli,mĩlinẽzeħrisnĩ,0.6364,0.875,close
+dark,JJ,*milineli,lang7,milineli,mĩ́línĩ̀lí,0.875,0.875,close
+hope,NN,*góruma,lang5,górumà,nggóruma,0.8571,1.0,exact
+hope,NN,*góruma,lang6,góruma,þagórumã,0.8571,1.0,exact
+winter,NN,*ħórumu-vóruma,lang2,ħórúmú-vórúmà,ħħórúmúvórúmànú,0.8571,0.9231,close
+winter,NN,*ħórumu-vóruma,lang3,ħórumu-vóruma,tàħórúmṹnṹ,0.6087,0.5385,partial
+winter,NN,*ħórumu-vóruma,lang4,ħórumu-vóruma,tàħórúmṹvórúmã̀nṹ,0.8276,0.9231,close
+winter,NN,*ħórumu-vóruma,lang6,ħórumu-vóruma,taħórumũvórumãnũ,0.8276,0.9231,close
+despair,NN,*górumano,lang4,górumano,ðgórúmã̀nũ,0.8235,0.875,close
+despair,NN,*górumano,lang5,górumàno,nggórumàno,0.8889,1.0,exact
+later,RB,*márali,lang4,màrali,Mã̀ràlí,1.0,1.0,exact
+beach,NN,*bárolu,lang3,bàrolu,þàbàrolúlú,0.75,1.0,exact
+beach,NN,*bárolu,lang4,bàrolu,ðbàrùlúlú,0.6667,0.8333,close
+agent,NN,*dóranáruma,lang2,dórànàrúmà,þàdórànàrúmàgù,0.8333,1.0,exact
+agent,NN,*dóranáruma,lang3,dóranàruma,þàdrànã̀rúmãã,0.8182,0.9,close
+agent,NN,*dóranáruma,lang5,dórànàrumà,ngdórànàruma,0.9091,1.0,exact
+agent,NN,*dóranáruma,lang7,dóranáruma,ngdórònõ̀rúmõ̀lú,0.5833,0.7,partial
+idea,NN,*vérami,lang3,vérami,tàvéràmĩ́véràmĩ,0.6,1.0,exact
+idea,NN,*vérami,lang4,vérami,tàgéràmĩ,0.7143,0.8333,close
+idea,NN,*vérami,lang7,vérami,vvérèmĩ,0.7692,0.8333,close
+system,NN,*dórava,lang2,dóràvà,þàdóràvàgà,0.75,1.0,exact
+system,NN,*dórava,lang3,dórava,àímĩ́dràvãã,0.625,0.8333,close
+system,NN,*dórava,lang4,dórava,Ðdóràvàgù,0.8,1.0,exact
+system,NN,*dórava,lang5,dóràvà,ngdóràva,0.8571,1.0,exact
+system,NN,*dórava,lang6,dórava,þadóravã,0.8571,1.0,exact
+system,NN,*dórava,lang7,dórava,ngdóròvòngò,0.4706,0.6667,partial
+evolution,NN,*vóramu,lang5,vóràmu,bvóràmu,0.9231,1.0,exact
+evolution,NN,*vóramu,lang6,vóramu,bvóramũ,0.9231,1.0,exact
+automation,NN,*tóravimi,lang5,tóràvimi,tóràgimili,0.7778,0.875,close
+training,NN,*séravimi,lang3,séravimi,séràvímĩ́lí,0.8889,1.0,exact
+training,NN,*séravimi,lang7,séravimi,hérèvímĩ,0.75,0.75,close
+to evoke/to awaken,VB,*vóna,lang2,vónà,úvónàmú,0.7273,1.0,exact
+to evoke/to awaken,VB,*vóna,lang3,vóna,tàvónã̀mṹ,0.6667,1.0,exact
+to evoke/to awaken,VB,*vóna,lang5,vónà,uvónàmu,0.7273,1.0,exact
+to evoke/to awaken,VB,*vóna,lang6,vóna,uvónãmũ,0.7273,1.0,exact
+to evoke/to awaken,VB,*vóna,lang7,vóna,úvónõ̀mṹ,0.5455,0.75,close
+mist,NN,*shíynimi,lang2,shíynímí,shííynímílí,0.8421,1.0,exact
+mist,NN,*shíynimi,lang4,shíynimi,shííynĩ́mĩ́lí,0.8421,1.0,exact
+mist,NN,*shíynimi,lang6,shíynimi,shíynĩmĩli,0.8889,1.0,exact
+mist,NN,*shíynimi,lang7,shíynimi,shííynĩ́mĩ́lú,0.8421,1.0,exact
+morning,NN,*kúrumuvóruma,lang2,kúrúmúvórúmà,Kúúrúmúvórúmànú,0.8889,1.0,exact
+morning,NN,*kúrumuvóruma,lang4,kúrumuvóruma,kúúrúmṹvórúmã,0.96,1.0,exact
+morning,NN,*kúrumuvóruma,lang5,kúrumuvórumà,Kúrumuvórumànu,0.9231,1.0,exact
+morning,NN,*kúrumuvóruma,lang6,kúrumuvóruma,kúrumũvórumãnũ,0.9231,1.0,exact
+rock,NN,*kárunu,lang5,kàrunu,Kàrunugo,0.8571,1.0,exact
+rock,NN,*kárunu,lang7,kárunu,kòrúnṹgòrúnṹ,0.5556,0.8333,close
+to roll/float,VB,*némi,lang2,némí,némímí,0.8,1.0,exact
+to roll/float,VB,*némi,lang3,némi,ínẽ́mĩ,0.8889,1.0,exact
+to roll/float,VB,*némi,lang4,némi,nẽ́mĩ́mĩ,0.8,1.0,exact
+to roll/float,VB,*némi,lang5,némi,inémimi,0.7273,1.0,exact
+to crash,VB,*dúramu,lang3,dúramu,údúúràmṹzúnõ,0.6667,1.0,exact
+to crash,VB,*dúramu,lang5,dúràmu,udúràmumu,0.8,1.0,exact
+downward,RB,*márugulu,lang3,màrugulu,mã̀rúgúlú,1.0,1.0,exact
+downward,RB,*márugulu,lang5,màrugulu,màrugulu,1.0,1.0,exact
+baboon,NN,*babún,lang2,bàbún,þàbàbúúnúshbàbúúnúshgùùg,0.3448,1.0,exact
+baboon,NN,*babún,lang3,babún,þàbàbúúnṹshbàbúúnṹshkook,0.3448,1.0,exact
+baboon,NN,*babún,lang5,bàbún,ngbàvúnàgo,0.5333,0.8,close
+baboon,NN,*babún,lang7,babún,ngbòvúúnṹshmṹṹrúnṹ,0.2609,0.6,partial
+bread,NN,*bádu,lang3,bàdu,þàbàdú,0.8,1.0,exact
+bread,NN,*bádu,lang6,badu,þabadu,0.8,1.0,exact
+house,NN,*dómuru,lang2,dómúrú,þàdómúrú,0.8571,1.0,exact
+house,NN,*dómuru,lang3,dómuru,Þàdómṹrúgo,0.75,1.0,exact
+house,NN,*dómuru,lang4,dómuru,ðdómṹrú,0.9231,1.0,exact
+house,NN,*dómuru,lang5,dómuru,ngdómurunu,0.75,1.0,exact
+house,NN,*dómuru,lang6,dómuru,þadómũrunũ,0.75,1.0,exact
+house,NN,*dómuru,lang7,dómuru,ngdómṹrúnṹ,0.75,1.0,exact
+to lose,VB,*dólumu,lang2,dólúmú,údólúmúmú,0.8,1.0,exact
+to lose,VB,*dólumu,lang3,dólumu,údólúmṹnõ,0.8,1.0,exact
+to lose,VB,*dólumu,lang4,dólumu,údólúmṹmṹ,0.8,1.0,exact
+long ago,RB,*lóruma,lang2,lórúmà,lórúmàgà,0.8571,1.0,exact
+long ago,RB,*lóruma,lang3,lóruma,lórúmã̀mṹ,0.8571,1.0,exact
+long ago,RB,*lóruma,lang4,lóruma,lórúmã,1.0,1.0,exact
+long ago,RB,*lóruma,lang5,lórumà,Lóruma,1.0,1.0,exact
+long ago,RB,*lóruma,lang7,lóruma,lórúmõ̀lórúmõ̀ngò,0.4762,0.8333,close
+wind,NN,*zéliri,lang2,zélírí,bbúúrú,0.1667,0.1667,miss
+wind,NN,*zéliri,lang4,zéliri,Ðdúúrúmṹ,0.1429,0.1667,miss
+wind,NN,*zéliri,lang5,zéliri,dngéliriqge,0.5882,0.8333,close
+cloud,NN,*nórumu,lang2,nórúmú,nórúmúnórúmú,0.6667,1.0,exact
+cloud,NN,*nórumu,lang4,nórumu,nṍrúmṹnṍrúmṹ,0.6667,1.0,exact
+park,NN,*vórulu,lang3,vórulu,tàvórúlúnṹ,0.75,1.0,exact
+park,NN,*vórulu,lang4,vórulu,bvórúlúnṹ,0.8,1.0,exact
+park,NN,*vórulu,lang5,vórulu,bvórulunu,0.8,1.0,exact
+park,NN,*vórulu,lang6,vórulu,bvórulunũ,0.8,1.0,exact
+park,NN,*vórulu,lang7,vórulu,vvórúlúnṹ,0.8,1.0,exact
+star,NN,*félirina,lang2,félírínà,Fàlúrúnàdórúmàgùùg,0.3846,0.625,partial
+star,NN,*félirina,lang3,félirina,félírínã̀félírínãã,0.64,1.0,exact
+star,NN,*félirina,lang4,félirina,félírúnã̀gélírínã,0.6667,1.0,exact
+star,NN,*félirina,lang5,félirinà,Fàlurunàdórumàgo,0.4167,0.625,partial
+star,NN,*félirina,lang6,félirina,falurunãdórumã,0.4545,0.625,partial
+star,NN,*félirina,lang7,félirina,kélírínĩ,0.75,0.75,close
+to sing,"(ie, that which produces a song)",*mánaruma,lang2,mànàrúmà,àmànàrúmàngúbúmú,0.6667,1.0,exact
+to sing,"(ie, that which produces a song)",*mánaruma,lang3,mànaruma,úmã̀nã̀rúmã̀mṹ,0.8421,1.0,exact
+to sing,"(ie, that which produces a song)",*mánaruma,lang4,mànaruma,mã̀nã̀rúmã,1.0,1.0,exact
+to sing,"(ie, that which produces a song)",*mánaruma,lang5,mànàrumà,imànàrumàgomo,0.7619,1.0,exact
+to sing,"(ie, that which produces a song)",*mánaruma,lang6,manaruma,mãnãrumãmã,0.8889,1.0,exact
+to sing,"(ie, that which produces a song)",*mánaruma,lang7,mánaruma,úmõ̀nõ̀rúmõ̀mṹ,0.5263,0.625,partial
+sun,NN,*fázumu,lang2,fàzúmú,fàhúmúgù,0.7143,0.8333,close
+sun,NN,*fázumu,lang3,fàzumu,fàsúmṹgo,0.7143,0.8333,close
+sun,NN,*fázumu,lang4,fàzumu,fàzúmṹlú,0.8571,1.0,exact
+sun,NN,*fázumu,lang5,fàzumu,fàngumulu,0.6667,0.8333,close
+sun,NN,*fázumu,lang6,fazumu,fazumũgo,0.8571,1.0,exact
+sun,NN,*fázumu,lang7,fázumu,fòngúmṹlú,0.5333,0.6667,partial
+to eat,VB,*zálumu,lang2,zàlúmú,àngàlúmúmú,0.625,0.8333,close
+to eat,VB,*zálumu,lang3,zàlumu,úzàlúmṹmṹ,0.8,1.0,exact
+to eat,VB,*zálumu,lang4,zàlumu,àzàlúmṹmṹ,0.8,1.0,exact
+to eat,VB,*zálumu,lang5,zàlumu,ungàlumu,0.7143,0.8333,close
+to eat,VB,*zálumu,lang6,zalumu,azalumũzumũ,0.7059,1.0,exact
+to eat,VB,*zálumu,lang7,zálumu,òngòlúmṹmṹ,0.5,0.6667,partial
+food,NN,*záluma,lang3,zàluma,tàzàlúmã̀nṹ,0.75,1.0,exact
+food,NN,*záluma,lang5,zàlumà,dngàluma,0.7143,0.8333,close
+food,NN,*záluma,lang6,zaluma,dzalumã,0.9231,1.0,exact
+satiated,NN,*zálumazúra,lang3,zàlumazúra,tàzàlúmã̀zúúràllú,0.7692,1.0,exact
+water,NN,*túzuma,lang3,túzuma,mã̀ysnṹ,0.3333,0.3333,miss
+water,NN,*túzuma,lang4,túzuma,túúzúmã,0.9231,1.0,exact
+water,NN,*túzuma,lang5,túzumà,túnguma,0.7692,0.8333,close
+water,NN,*túzuma,lang6,túzuma,túzumã,1.0,1.0,exact
+night,NN,*mulunozólunu,lang2,múlúnozólúnú,múlúnùngólúnúnú,0.7407,0.8333,close
+night,NN,*mulunozólunu,lang7,mulunozólunu,mṹlúnũ̀ngólúnṹnṹ,0.7407,0.8333,close
+moon,NN,*lánumu,lang2,lànúmú,lànúmú,1.0,1.0,exact
+moon,NN,*lánumu,lang3,lànumu,lànṹmṹgo,0.8571,1.0,exact
+moon,NN,*lánumu,lang5,lànumu,lànumugo,0.8571,1.0,exact
+moon,NN,*lánumu,lang7,lánumu,lònṹmṹgù,0.7143,0.8333,close
+lunch,NN,*zálumuzólunu,lang3,zàlumuzólunu,tàzàlúmṹzólúnṹgo,0.8571,1.0,exact
+lunch,NN,*zálumuzólunu,lang4,zàlumuzólunu,dzàlúmṹzólúnṹ,0.96,1.0,exact
+lunch,NN,*zálumuzólunu,lang6,zalumuzólunu,dzalumũzólunũ,0.96,1.0,exact
+top secret,JJ,*mágupúrumanulu,lang2,màgúpúrúmànúlú,nàrúmànàrúmàlú,0.6429,0.6429,partial
+top secret,JJ,*mágupúrumanulu,lang5,màgupúrumànulu,kórumunu,0.4545,0.3571,miss
+top secret,JJ,*mágupúrumanulu,lang6,magupúrumanulu,súmũrunũ,0.5455,0.4286,miss
+top secret,JJ,*mágupúrumanulu,lang7,mágupúrumanulu,úkòngúmṹmṹlú,0.5385,0.5,partial
+to rise,VB,*vóvuma,lang2,vóvúmà,úvóvúmàmú,0.8,1.0,exact
+to rise,VB,*vóvuma,lang3,vóvuma,úvóvúmã̀mṹ,0.8,1.0,exact
+to rise,VB,*vóvuma,lang4,vóvuma,úvórúzàgùmũ,0.4706,0.6667,partial
+to rise,VB,*vóvuma,lang5,vóvumà,àvórungàmu,0.5,0.6667,partial
+to rise,VB,*vóvuma,lang6,vóvuma,uvóvumãmũ,0.8,1.0,exact
+to rise,VB,*vóvuma,lang7,vóvuma,úvóvúmõ̀mṹ,0.6667,0.8333,close
+tomorrow,RB,*vóruna,lang3,vóruna,tàvórúnãã,0.8,1.0,exact
+who,WH,*lízire,lang2,lízíre,llímíréngàmí,0.5556,0.8333,close
+who,WH,*lízire,lang3,lízire,Líízíreo,0.8571,1.0,exact
+who,WH,*lízire,lang4,lízire,Líízírìù,0.7143,0.8333,close
+who,WH,*lízire,lang5,lízire,língireo,0.7143,0.8333,close
+who,WH,*lízire,lang6,lízire,Lízireo,0.9231,1.0,exact
+who,WH,*lízire,lang7,lízire,Lííngírìù,0.5333,0.6667,partial
+present/gift,NN,*póruma,lang5,pórumà,póruma,1.0,1.0,exact
+personal time,NN,*múranuzólunu,lang3,múranuzólunu,tàzàlúmṹzólúnṹgo,0.5714,0.6667,partial
+personal time,NN,*múranuzólunu,lang4,múranuzólunu,Mã̀gúzúúràzórùnã̀ràgùùng,0.5294,0.75,close
+personal time,NN,*múranuzólunu,lang7,múranuzólunu,mṹṹrònṹngólúnṹ,0.7692,0.8333,close
+to sacrifice,VB,*téramadérimi,lang4,téramadérimi,ítéràmã̀dérímĩ́mĩ,0.8889,1.0,exact
+to sacrifice,VB,*téramadérimi,lang7,téramadérimi,údéròmõ̀dérímĩ́mĩ,0.6667,0.75,close
+unique/extraordinary,JJ,*zórazalu,lang2,zóràzàlú,ngóràngàlú,0.6667,0.75,close
+unique/extraordinary,JJ,*zórazalu,lang3,zórazalu,tàzórúzílú,0.6667,0.75,close
+unique/extraordinary,JJ,*zórazalu,lang5,zóràzàlu,dngóràngàlu,0.6316,0.75,close
+unique/extraordinary,JJ,*zórazalu,lang6,zórazalu,dzórazalu,0.9412,1.0,exact
+riverbank,NN,*zárunubárolu,lang5,zàrunubàrolu,dngàrunubàrolulu,0.7857,0.9167,close
+riverbank,NN,*zárunubárolu,lang6,zarunubarolu,dzarunũbarolunũ,0.8889,1.0,exact
+everything,NN,*mógospórumu,lang2,mógospórúmú,úngólúmúmú,0.4762,0.4545,miss
+everything,NN,*mógospórumu,lang4,mógospórumu,Mṍgùspórúmṹ,0.9091,0.9091,close
+everything,NN,*mógospórumu,lang7,mógospórumu,Mṍgùhpórúmṹ,0.8182,0.8182,close
+empty,JJ,*sám,lang5,sàm,hàm,0.6667,0.6667,partial
+empty,JJ,*sám,lang6,sam,sam,1.0,1.0,exact
+empty,JJ,*sám,lang7,sám,Sèm,0.6667,0.6667,partial
+book,NN,*ládamóluru,lang2,làdàmólúrú,mólúrú,0.75,0.6,partial
+book,NN,*ládamóluru,lang3,làdamóluru,nĩ́lóràdàgo,0.5,0.5,partial
+book,NN,*ládamóluru,lang5,làdàmóluru,mólurumóluru,0.6364,0.7,partial
+book,NN,*ládamóluru,lang6,ladamóluru,mṍlurumṍluru,0.6364,0.7,partial
+book,NN,*ládamóluru,lang7,ládamóluru,údólúmṹmṹ,0.5263,0.5,partial
+garden,NN,*kóvunu,lang2,kóvúnú,kóvúnúnú,0.8571,1.0,exact
+garden,NN,*kóvunu,lang3,kóvunu,kóvúnṹnṹ,0.8571,1.0,exact
+garden,NN,*kóvunu,lang4,kóvunu,kóvúnṹnṹ,0.8571,1.0,exact
+garden,NN,*kóvunu,lang5,kóvunu,kóvununu,0.8571,1.0,exact
+garden,NN,*kóvunu,lang6,kóvunu,kóvunũnũ,0.8571,1.0,exact
+garden,NN,*kóvunu,lang7,kóvunu,Kóvúnṹnṹ,0.8571,1.0,exact
+although,SCONJ,*kogono,lang3,kogono,Kogonõ,1.0,1.0,exact
+although,SCONJ,*kogono,lang4,kogono,Kùgùnũ,0.5,0.5,partial
+although,SCONJ,*kogono,lang6,kogono,Kogonõ,1.0,1.0,exact
+otherwise,RB,*kogonováruzulu,lang2,kogonovàrúzúlú,kùgùnùvàrúngúlú,0.6897,0.7143,partial
+otherwise,RB,*kogonováruzulu,lang5,kogonovàruzulu,Kogonovàrungulu,0.8966,0.9286,close
+otherwise,RB,*kogonováruzulu,lang6,kogonovaruzulu,Kogonõvaruzulu,1.0,1.0,exact
+otherwise,RB,*kogonováruzulu,lang7,kogonováruzulu,Kùgùnũ̀vòrúngúlú,0.6207,0.6429,partial
+lizard,NN,*polunámora,lang4,polunàmora,pùlúnã̀mũ̀rã,0.8,0.8,close
+lizard,NN,*polunámora,lang6,polunamora,polunãmõrago,0.9091,1.0,exact
+to walk,VB,*búlumu,lang3,búlumu,àbúúlúmṹ,0.8571,1.0,exact
+to walk,VB,*búlumu,lang5,búlumu,àvúlumumu,0.6667,0.8333,close
+to walk,VB,*búlumu,lang6,búlumu,abúlumũmũ,0.8,1.0,exact
+to walk,VB,*búlumu,lang7,búlumu,òvúúlúmṹmṹ,0.625,0.8333,close
+statistics,NN,*stádira,lang2,stàdírà,htàdúràdórúmàgà,0.4545,0.7143,partial
+statistics,NN,*stádira,lang3,stàdira,stàdírãã,0.9333,1.0,exact
+statistics,NN,*stádira,lang5,stàdirà,htàduràdóruma,0.5,0.7143,partial
+statistics,NN,*stádira,lang7,stádira,Stèdírèngè,0.5882,0.7143,partial
+inference,NN,*ínfereni,lang3,ínfereni,íínferenĩ,0.9412,1.0,exact
+alternative,NN,*nérili,lang3,nérili,nẽ́rílíverízí,0.6667,1.0,exact
+hypothesis,NN,*verizi,lang3,verizi,nẽ́rílíverízí,0.6667,1.0,exact
+null,JJ,*lízéra,lang3,lízéra,líízéràverízí,0.6316,1.0,exact
+zero,CARD,*lízéra,lang6,lízéra,lízérã,1.0,1.0,exact
+transformer,NN,*tránzuru,lang3,trànzuru,trànzúrú,1.0,1.0,exact
+attention,NN,*tánuru,lang4,tànuru,tànṹrú,1.0,1.0,exact
+UBC,NNP,*Yúbuysuy,lang4,Yúbuysuy,Yúúbúysúylú,0.8421,1.0,exact
+to travel,VB,*trávimi,lang2,tràvímí,tràgímímí,0.75,0.8571,close
+to travel,VB,*trávimi,lang4,tràvimi,tràgímĩ,0.8571,0.8571,close
+to travel,VB,*trávimi,lang5,tràvimi,itràgimimi,0.7059,0.8571,close
+to travel,VB,*trávimi,lang6,travimi,Travumũdógoru,0.5,0.7143,partial
+to struggle/to fight,VB,*sárimi,lang2,sàrímí,ngérímíngàrímí,0.5,0.8333,close
+to struggle/to fight,VB,*sárimi,lang6,sarimi,izarimĩmĩ,0.6667,0.8333,close
+to procrastinate,VB,*lómamu,lang2,lómàmú,úlómàmúmú,0.8,1.0,exact
+to procrastinate,VB,*lómamu,lang6,lómamu,ulómãmũnõ,0.8,1.0,exact
+to procrastinate,VB,*lómamu,lang7,lómamu,lómĩ́mĩ́mĩ,0.5714,0.6667,partial
+late,JJ,*nórulu,lang2,nórúlú,nérílí,0.5,0.5,partial
+late,JJ,*nórulu,lang3,nórulu,ígérímĩ́lí,0.2667,0.3333,miss
+late,JJ,*nórulu,lang4,nórulu,kérídàrímĩ,0.125,0.1667,miss
+late,JJ,*nórulu,lang6,nórulu,nẽ́rimĩli,0.4286,0.5,partial
+late,JJ,*nórulu,lang7,nórulu,nṍrúlú,1.0,1.0,exact
+observatory,NN,*múnaru,lang2,múnàrú,Múúnàrúnú,0.8,1.0,exact
+observatory,NN,*múnaru,lang3,múnaru,mṹṹnã̀rúnṹ,0.8,1.0,exact
+observatory,NN,*múnaru,lang4,múnaru,Mṹṹnã̀rúnṹ,0.8,1.0,exact
+planet,NN,*zánguru,lang3,zànguru,tàzàngúrúgo,0.7778,1.0,exact
+planet,NN,*zánguru,lang4,zànguru,dzàngúrúnṹ,0.8235,1.0,exact
+planet,NN,*zánguru,lang5,zànguru,dngàngurumúrunu,0.5455,0.8571,close
+planet,NN,*zánguru,lang6,zanguru,dzanguru,0.9333,1.0,exact
+planet,NN,*zánguru,lang7,zánguru,ngòngúrú,0.6667,0.7143,partial
+telescope,NN,*pélani,lang3,pélani,pélànĩ,1.0,1.0,exact
+telescope,NN,*pélani,lang4,pélani,pélànĩ,1.0,1.0,exact
+telescope,NN,*pélani,lang5,pélàni,pélàniqge,0.8,1.0,exact
+telescope,NN,*pélani,lang6,pélani,pélanĩgénĩ,0.75,1.0,exact
+algorithm,NN,*fénara,lang2,fénàrà,kénàràqngà,0.625,0.8333,close
+algorithm,NN,*fénara,lang4,fénara,fénã̀ràqgà,0.8,1.0,exact
+algorithm,NN,*fénara,lang6,fénara,Fénãrã,1.0,1.0,exact
+satellite,NN,*xúbaru,lang3,xúbaru,xúúbàrú,0.9231,1.0,exact
+satellite,NN,*xúbaru,lang4,xúbaru,xúúbàrúgùùng,0.6667,1.0,exact
+satellite,NN,*xúbaru,lang6,xúbaru,xúbaru,1.0,1.0,exact
+satellite,NN,*xúbaru,lang7,xúbaru,xúúbòrú,0.7692,0.8333,close
+storm,NN,*fázuma,lang2,fàzúmà,fàngúmúgù,0.5333,0.6667,partial
+storm,NN,*fázuma,lang3,fàzuma,fàzúmã̀go,0.8571,1.0,exact
+storm,NN,*fázuma,lang4,fàzuma,fàzúmã̀gù,0.8571,1.0,exact
+storm,NN,*fázuma,lang5,fàzumà,fàngumàlu,0.6667,0.8333,close
+storm,NN,*fázuma,lang6,fazuma,fazumãgo,0.8571,1.0,exact
+sister,NN,*náziri,lang2,nàzírí,nàngíríqgì,0.625,0.8333,close
+sister,NN,*náziri,lang3,nàziri,nã̀zíríge,0.8571,1.0,exact
+sister,NN,*náziri,lang4,nàziri,nã̀zírí,1.0,1.0,exact
+sister,NN,*náziri,lang5,nàziri,Nàngiriqge,0.625,0.8333,close
+sister,NN,*náziri,lang7,náziri,Nĩ́ĩ,0.6667,0.5,partial
+to write,NN,*nárumu,lang2,nàrúmú,únàrúmúmú,0.8,1.0,exact
+to write,NN,*nárumu,lang3,nàrumu,únã̀rúmṹmṹ,0.8,1.0,exact
+to write,NN,*nárumu,lang4,nàrumu,únã̀rúmṹmṹ,0.8,1.0,exact
+to write,NN,*nárumu,lang5,nàrumu,unàrumumu,0.8,1.0,exact
+to write,NN,*nárumu,lang6,narumu,unãrumũmũlu,0.7059,1.0,exact
+to write,NN,*nárumu,lang7,nárumu,únõ̀rúmṹmṹ,0.6667,0.8333,close
+sin,NN,*mózuma,lang2,mózúmà,Móngúmànàrúmàgà,0.4762,0.8333,close
+sin,NN,*mózuma,lang3,mózuma,tàzàlúmãã,0.5333,0.6667,partial
+sin,NN,*mózuma,lang4,mózuma,mã̀nã̀rúmã,0.5714,0.6667,partial
+sin,NN,*mózuma,lang5,mózumà,mànàrudóruma,0.5556,0.8333,close
+sin,NN,*mózuma,lang6,mózuma,mãnãrumãmã,0.5,0.6667,partial
+sin,NN,*mózuma,lang7,mózuma,mõ̀nõ̀rú,0.5,0.5,partial
+exam/quiz/test,NN,*pírimi,lang3,pírimi,píírímĩ,0.9231,1.0,exact
+exam/quiz/test,NN,*pírimi,lang4,pírimi,ízàmĩ́mĩ,0.6154,0.6667,partial
+exam/quiz/test,NN,*pírimi,lang6,pírimi,igérimĩmĩ,0.6667,0.8333,close
+exam/quiz/test,NN,*pírimi,lang7,pírimi,Píírímĩ,0.9231,1.0,exact
+nuanced,JJ,*shúyalu,lang2,shúyàlú,shúúyàgà,0.6667,0.7143,partial
+nuanced,JJ,*shúyalu,lang4,shúyalu,shúúyàlú,0.9333,1.0,exact
+nuanced,JJ,*shúyalu,lang5,shúyàlu,shúyàlu,1.0,1.0,exact
+nuanced,JJ,*shúyalu,lang6,shúyalu,Shúyã,0.8333,0.7143,partial
+nuanced,JJ,*shúyalu,lang7,shúyalu,Shúúyòlú,0.8,0.8571,close
+hard/difficult,JJ,*nárugu,lang2,nàrúgú,nàrúgú,1.0,1.0,exact
+hard/difficult,JJ,*nárugu,lang3,nàrugu,nã̀rúgúlú,0.8571,1.0,exact
+hard/difficult,JJ,*nárugu,lang4,nàrugu,nã̀rúgú,1.0,1.0,exact
+hard/difficult,JJ,*nárugu,lang5,nàrugu,nàrugu,1.0,1.0,exact
+hard/difficult,JJ,*nárugu,lang6,narugu,nãrugu,1.0,1.0,exact
+hard/difficult,JJ,*nárugu,lang7,nárugu,nõ̀rúgúlú,0.7143,0.8333,close
+homework,NN,*dézari,lang2,dézàrí,þàdéngàrí,0.6667,0.8333,close
+homework,NN,*dézari,lang3,dézari,þàdézàrí,0.8571,1.0,exact
+homework,NN,*dézari,lang5,dézàri,ngdéngàrili,0.5882,0.8333,close
+homework,NN,*dézari,lang6,dézari,þadézari,0.8571,1.0,exact
+homework,NN,*dézari,lang7,dézari,hérì,0.6,0.5,partial
+to memorize,VB,*zólumu,lang2,zólúmú,úngólúmúmú,0.625,0.8333,close
+to memorize,VB,*zólumu,lang5,zólumu,ungólumungungumu,0.4545,0.8333,close
+to memorize,VB,*zólumu,lang7,zólumu,úngólúmṹngúngúmṹ,0.4545,0.8333,close
+to dream,VB,*térami,lang3,térami,nẽ́rílí,0.5,0.5,partial
+to dream,VB,*térami,lang4,térami,téràmĩ,1.0,1.0,exact
+to dream,VB,*térami,lang6,térami,téramĩ,1.0,1.0,exact
+mathematics,NN,*párumu,lang3,pàrumu,pàrúmṹ,1.0,1.0,exact
+mathematics,NN,*párumu,lang7,párumu,pòrúmṹ,0.8333,0.8333,close
+to cultivate,VB,*cultivate,lang6,cultivate,ubúmãmũ,0.25,0.2222,miss
+owl,NN,*pórumu,lang3,pórumu,pobórúmṹ,0.8571,1.0,exact
+owl,NN,*pórumu,lang4,pórumu,pórúmṹbórúmṹ,0.6667,1.0,exact
+owl,NN,*pórumu,lang5,pórumu,Pórumubórumu,0.6667,1.0,exact
+owl,NN,*pórumu,lang6,pórumu,pórumũgo,0.8571,1.0,exact
+island,NN,*rómuru,lang2,rómúrú,rómúrúnú,0.8571,1.0,exact
+island,NN,*rómuru,lang3,rómuru,rómṹrúlú,0.8571,1.0,exact
+island,NN,*rómuru,lang4,rómuru,rómṹrúnṹ,0.8571,1.0,exact
+island,NN,*rómuru,lang6,rómuru,rómũrunũ,0.8571,1.0,exact
+island,NN,*rómuru,lang7,rómuru,rómṹrú-nṹ,0.8,1.0,exact
+kitchen,NN,*fízani,lang2,fízàní,kííngàníní,0.5,0.6667,partial
+kitchen,NN,*fízani,lang3,fízani,fíízànĩ,0.9231,1.0,exact
+kitchen,NN,*fízani,lang4,fízani,fíízànĩ́nĩ,0.8,1.0,exact
+kitchen,NN,*fízani,lang6,fízani,kízanĩ,0.8333,0.8333,close
+photograph,NN,*múrazama,lang4,múrazama,úmṹṹràzàmṹgùmũ,0.6364,0.875,close
+photograph,NN,*múrazama,lang5,múràzàmà,múràngàma,0.8235,0.875,close
+photograph,NN,*múrazama,lang7,múrazama,mṹṹròngòmõ̀nṹ,0.4,0.5,partial
+to take a picture,VB,*múrazamu,lang6,múrazamu,mṹranũzalumã,0.7,0.875,close
+joy,NN,*fólumu,lang2,fólúmú,fólúmú,1.0,1.0,exact
+joy,NN,*fólumu,lang3,fólumu,fólúmṹ,1.0,1.0,exact
+joy,NN,*fólumu,lang4,fólumu,fólúmṹzérímĩ,0.6667,1.0,exact
+joy,NN,*fólumu,lang5,fólumu,fólumu,1.0,1.0,exact
+joy,NN,*fólumu,lang6,fólumu,fólumũ,1.0,1.0,exact
+joy,NN,*fólumu,lang7,fólumu,úfòlúmṹmṹ,0.8,1.0,exact
+rhythm,NN,*réna,lang3,réna,rénãã,0.8889,1.0,exact
+rhythm,NN,*réna,lang5,rénà,rénàqgà,0.7273,1.0,exact
+rhythm,NN,*réna,lang6,réna,rénã,1.0,1.0,exact
+great/grand,JJ,*kálala,lang3,kàlala,Kàlãã,0.9091,0.8333,close
+great/grand,JJ,*kálala,lang4,kàlala,kàlàlàqgà,0.8,1.0,exact
+great/grand,JJ,*kálala,lang6,kalala,Kalalã,1.0,1.0,exact
+epic,JJ,*zarakálala,lang5,zàràkàlàlà,dngàràqgàlàlàqgà,0.6154,0.8,close
+to graduate/to master,VB,*sérimidérimi,lang2,sérímídérímí,íhérímídérímíqgìmì,0.7333,0.9167,close
+to graduate/to master,VB,*sérimidérimi,lang3,sérimidérimi,ízérímĩ́dérímĩ́mĩ,0.8148,0.9167,close
+to graduate/to master,VB,*sérimidérimi,lang4,sérimidérimi,ízérímĩ́dérímĩ́mĩ,0.8148,0.9167,close
+to graduate/to master,VB,*sérimidérimi,lang5,sérimidérimi,ingérimidérimi,0.8462,0.9167,close
+to graduate/to master,VB,*sérimidérimi,lang6,sérimidérimi,izérimĩdérimĩmĩ,0.8148,0.9167,close
+to graduate/to master,VB,*sérimidérimi,lang7,sérimidérimi,íngérímĩ́dérímĩ́mĩ́lí,0.7333,0.9167,close
+to clean,VB,*kázumudarumu,lang2,kàzúmúdàrúmú,úgàngúmúdàrúmúnù,0.7143,0.8333,close
+to clean,VB,*kázumudarumu,lang3,kàzumudarumu,úgàzúmṹdàrúmṹmṹ,0.8148,0.9167,close
+to clean,VB,*kázumudarumu,lang4,kàzumudarumu,kàzúmṹlú,0.7,0.5833,partial
+to clean,VB,*kázumudarumu,lang5,kàzumudàrumu,ugàngumudàrumumu,0.7143,0.8333,close
+to clean,VB,*kázumudarumu,lang7,kázumudarumu,úgòngúmṹdòrúmṹmṹ,0.5714,0.6667,partial
+speech,NN,*tálimidérimi,lang2,tàlímídérímí,llímídérímí,0.8696,0.8333,close
+to reach,VB,*lóradárumu,lang2,lóràdàrúmú,úlóràdàrúmúmú,0.8696,1.0,exact
+to reach,VB,*lóradárumu,lang3,lóradàrumu,úlóràdàrúmṹmṹ,0.8696,1.0,exact
+to reach,VB,*lóradárumu,lang4,lóradàrumu,úlóràdàrúmṹzúzúbúmṹ,0.6897,1.0,exact
+to reach,VB,*lóradárumu,lang5,lóràdàrumu,ulóràdàrumumu,0.8696,1.0,exact
+to reach,VB,*lóradárumu,lang6,lóradarumu,ulóradarumũmũ,0.8696,1.0,exact
+to reach,VB,*lóradárumu,lang7,lóradárumu,úlóròdòrúmṹmṹ,0.6957,0.8,close
+instrument,NN,*pálumuma,lang2,pàlúmúmà,pérímímàqngà,0.4,0.5,partial
+instrument,NN,*pálumuma,lang5,pàlumumà,pàlumima,0.875,0.875,close
+instrument,NN,*pálumuma,lang6,palumuma,palumũmã,1.0,1.0,exact
+instrument,NN,*pálumuma,lang7,pálumuma,pòlúmṹmõ̀ngò,0.6316,0.75,close
+introduction,NN,*vózumu,lang2,vózúmú,vvóngúmú,0.7143,0.8333,close
+introduction,NN,*vózumu,lang4,vózumu,bvózúmṹgùùng,0.6667,1.0,exact
+to hear,VB,*bárimi,lang2,bàrímí,íàràmàngímí,0.5882,0.8333,close
+to hear,VB,*bárimi,lang3,bàrimi,íbàrímĩ́mĩ,0.8,1.0,exact
+to hear,VB,*bárimi,lang4,bàrimi,íbàrímĩ́mĩ,0.8,1.0,exact
+to hear,VB,*bárimi,lang5,bàrimi,ibàrimimi,0.8,1.0,exact
+to hear,VB,*bárimi,lang6,barimi,ibarimĩmĩ,0.8,1.0,exact
+to hear,VB,*bárimi,lang7,bárimi,nggérímĩ,0.5714,0.6667,partial
+musician,NN,*lámorudóru,lang2,làmorúdórú,làmùrúngúúràdórúmàgà,0.6,0.9,close
+musician,NN,*lámorudóru,lang4,làmorudóru,làmũ̀rúdórúmã,0.8182,0.9,close
+musician,NN,*lámorudóru,lang5,làmorudóru,mànàrudóruma,0.6364,0.7,partial
+musician,NN,*lámorudóru,lang6,lamorudóru,Lamõrudóru,1.0,1.0,exact
+musician,NN,*lámorudóru,lang7,lámorudóru,Lòmũ̀rúdórúgòòg,0.6667,0.8,close
+athlete,NN,*pálumudóru,lang2,pàlúmúdórú,pàlúmúdórúmàgà,0.8333,1.0,exact
+athlete,NN,*pálumudóru,lang3,pàlumudóru,pàlúmṹdrúmã̀gook,0.72,0.9,close
+athlete,NN,*pálumudóru,lang4,pàlumudóru,pàlúmṹdórúmã,0.9091,1.0,exact
+athlete,NN,*pálumudóru,lang5,pàlumudóru,pàlumunàruma,0.7273,0.8,close
+athlete,NN,*pálumudóru,lang6,palumudóru,palumũnãrumãgo,0.6667,0.8,close
+athlete,NN,*pálumudóru,lang7,pálumudóru,pòlúmṹdórúmõ̀gù,0.75,0.9,close
+bat,NN,*tórumobálara,lang2,tórúmobàlàrà,tórúmùbàlúrúgù,0.6923,0.75,close
+stick,NN,*bálara,lang4,bàlara,ðbàlàràqgà,0.75,1.0,exact
+stadium,NN,*fúramuspára,lang5,fúràmuspàrà,fúràmuhpàrànu,0.8333,0.9091,close
+stadium,NN,*fúramuspára,lang6,fúramuspara,fúramũsparanũ,0.9167,1.0,exact
+theatre,NN,*tóraluspára,lang3,tóraluspàra,tràlúspàràlú,0.8696,0.9091,close
+theatre,NN,*tóraluspára,lang7,tóraluspára,tóròlúhpòròlú,0.5833,0.6364,partial
+actor,NN,*tóralunáruma,lang2,tóràlúnàrúmà,tóràlúnàrúmàgà,0.9231,1.0,exact
+actor,NN,*tóralunáruma,lang3,tóralunàruma,Tóràlúnã̀rúmã̀gook,0.8571,1.0,exact
+actor,NN,*tóralunáruma,lang4,tóralunàruma,tóràlúnã̀rúmã,1.0,1.0,exact
+actor,NN,*tóralunáruma,lang5,tóràlunàrumà,tóràlunàruma,1.0,1.0,exact
+actor,NN,*tóralunáruma,lang6,tóralunaruma,tóralunãrumãgo,0.9231,1.0,exact
+actor,NN,*tóralunáruma,lang7,tóralunáruma,tóròlúnṹ,0.7,0.5833,partial
+corn,NN,*máys,lang2,màys,màyh,0.75,0.75,close
+corn,NN,*máys,lang3,màys,mã̀ysomã̀ys,0.6154,1.0,exact
+corn,NN,*máys,lang4,màys,mã̀ys,1.0,1.0,exact
+corn,NN,*máys,lang5,màys,màyhko,0.6,0.75,close
+corn,NN,*máys,lang6,mays,Mãys,1.0,1.0,exact
+corn,NN,*máys,lang7,máys,mõ̀yshórúmṹ,0.4286,0.75,close
+popcorn,NN,*máyspánomu,lang3,màyspànomu,mã̀yspànõmṹ,1.0,1.0,exact
+popcorn,NN,*máyspánomu,lang4,màyspànomu,mã̀yspànũ̀mṹ,0.9,0.9,close
+popcorn,NN,*máyspánomu,lang5,màyspànomu,màyhpànomu,0.9,0.9,close
+script,NN,*tóraluládamóluru,lang2,tóràlúlàdàmólúrú,tóràlúlàdàmólúrú,1.0,1.0,exact
+script,NN,*tóraluládamóluru,lang3,tóralulàdamóluru,tràlúlàdàmṍlúrúlí,0.9091,0.9375,close
+script,NN,*tóraluládamóluru,lang4,tóralulàdamóluru,Tóràlúlàdàmṍlúrúgù,0.9412,1.0,exact
+script,NN,*tóraluládamóluru,lang5,tóràlulàdàmóluru,ngdórumàdórumàgo,0.5,0.5,partial
+script,NN,*tóraluládamóluru,lang7,tóraluládamóluru,tóròlúlòdòmṍlúrú,0.8125,0.8125,close
+to cry,VB,*périma,lang3,périma,àbérímã̀zímĩ,0.5882,0.8333,close
+to cry,VB,*périma,lang4,périma,àbérímã̀zízímĩ,0.5263,0.8333,close
+to cry,VB,*périma,lang5,périmà,àpérimàngingimi,0.5714,1.0,exact
+black-and-white,JJ,*bóħrunuvárumulu,lang7,bóħrunuvárumulu,ngbóħrúnṹvòrúmṹlú,0.875,0.9333,close
+scene,NN,*vérizima,lang2,vérízímà,ggéríngímàgéríngímàqngà,0.3871,0.75,close
+scene,NN,*vérizima,lang3,vérizima,tàvérízímã̀nĩ,0.8,1.0,exact
+scene,NN,*vérizima,lang4,vérizima,tàgérízímã̀qgà,0.6667,0.875,close
+scene,NN,*vérizima,lang5,vérizimà,tàgéringimàgo,0.5714,0.75,close
+scene,NN,*vérizima,lang6,vérizima,bvérizimãge,0.8421,1.0,exact
+hawk,NN,*ħárum,lang2,ħàrúm,ħħàrúmúshkù,0.625,1.0,exact
+hawk,NN,*ħárum,lang3,ħàrum,tàħàrúmṹshko,0.5882,1.0,exact
+hawk,NN,*ħárum,lang4,ħàrum,tàħàrúmlú,0.7143,1.0,exact
+hawk,NN,*ħárum,lang5,ħàrum,tàħàrumushko,0.5882,1.0,exact
+hawk,NN,*ħárum,lang6,ħarum,taħarumũshlu,0.5882,1.0,exact
+hawk,NN,*ħárum,lang7,ħárum,tòħòrúmṹshlú,0.4706,0.8,close
+crow,NN,*ħòro,lang3,ħòro,tàħàroko,0.5,0.75,close
+crow,NN,*ħòro,lang5,ħòro,tàħàrogo,0.5,0.75,close
+crow,NN,*ħòro,lang6,ħòro,taħarogo,0.5,0.75,close
+crow,NN,*ħòro,lang7,ħòro,tòħòrùlú,0.5,0.75,close
+cave,NN,*milinezeħris,lang4,milinezeħris,ímĩ́línĩ̀zìħríslí,0.7407,0.8333,close
+cave,NN,*milinezeħris,lang6,milinezeħris,mĩlinẽzeħrisnĩ,0.9231,1.0,exact
+cave,NN,*milinezeħris,lang7,milinezeħris,mĩ́línĩ̀ngìħríhnĩ,0.5926,0.6667,partial
+swan,NN,*éle,lang2,éle,élìlí,0.5,0.6667,partial
+swan,NN,*éle,lang3,éle,élelí,0.75,1.0,exact
+swan,NN,*éle,lang5,éle,éle,1.0,1.0,exact
+swan,NN,*éle,lang6,éle,éleli,0.75,1.0,exact
+hummingbird,NN,*píbi,lang3,píbi,Pííbíbííbíge,0.5,1.0,exact
+hummingbird,NN,*píbi,lang4,píbi,pííbíbííbíqgì,0.4706,1.0,exact
+hummingbird,NN,*píbi,lang5,píbi,píbili,0.8,1.0,exact
+hummingbird,NN,*píbi,lang7,píbi,pííbí,0.8889,1.0,exact
+weather,NN,*félirivérizi,lang6,félirivérizi,kélirivérizi,0.9167,0.9167,close
+forest,NN,*kóramudógorughóronu,lang2,kóràmúdógorúghóronú,kóràmúdógùrúghórùnúnú,0.85,0.8947,close
+forest,NN,*kóramudógorughóronu,lang3,kóramudógorughóronu,kóràmṹdógorúghóronṹlú,0.95,1.0,exact
+forest,NN,*kóramudógorughóronu,lang5,kóràmudógorughóronu,kóràmudógorughóronunu,0.95,1.0,exact
+forest,NN,*kóramudógorughóronu,lang7,kóramudógorughóronu,kóròmṹdógùrúghórùnṹnṹ,0.8,0.8421,close
+feather,NN,*mìli,lang2,mìlí,mìlímìlí,0.6667,1.0,exact
+feather,NN,*mìli,lang3,mìli,mẽlímẽlí,0.6667,1.0,exact
+feather,NN,*mìli,lang6,mìli,mẽlimẽli,0.6667,1.0,exact
+feather,NN,*mìli,lang7,mìli,mĩ̀límĩ̀lí,0.6667,1.0,exact
+gold,JJ,*málalu,lang3,màlalu,mã̀làlú,1.0,1.0,exact
+gold,JJ,*málalu,lang4,màlalu,mã̀làlú,1.0,1.0,exact
+gold,JJ,*málalu,lang5,màlàlu,màlàlu,1.0,1.0,exact
+gold,JJ,*málalu,lang6,malalu,mãlalumã,0.8571,1.0,exact
+gold,JJ,*málalu,lang7,málalu,mõ̀lòlú,0.6667,0.6667,partial
+to return,VB,*mérimi,lang6,mérimi,amẽ́rimĩ,0.9231,1.0,exact
+to fly,VB,*lózumu,lang2,lózúmú,úlóngúmú,0.7143,0.8333,close
+to fly,VB,*lózumu,lang3,lózumu,àlózúmṹgúmṹ,0.7059,1.0,exact
+to fly,VB,*lózumu,lang5,lózumu,àlóngumugomo,0.5556,0.8333,close
+to fly,VB,*lózumu,lang7,lózumu,ílóngúmṹmṹ,0.625,0.8333,close
+to bloom,VB,*fála,lang3,fàla,fàlàgemẽ,0.6667,1.0,exact
+to bloom,VB,*fála,lang7,fála,kèlèmĩ,0.2,0.25,miss
+muse,NN,*véramidágeri,lang3,véramidàgeri,àvérímã̀mĩ,0.5714,0.5,partial
+muse,NN,*véramidágeri,lang6,véramidageri,kérimĩli,0.5,0.4167,miss
+muse,NN,*véramidágeri,lang7,véramidágeri,íngérèdímĩ,0.4545,0.4167,miss
+far,RB,*pélani,lang2,pélàní,pélàní,1.0,1.0,exact
+far,RB,*pélani,lang5,pélàni,pélàni,1.0,1.0,exact
+far,RB,*pélani,lang7,pélani,pélènĩ,0.8333,0.8333,close
+son,NN,*nùmi,lang2,nùmí,únàrúmú,0.5455,0.75,close
+son,NN,*nùmi,lang3,nùmi,nĩ́lí,0.5,0.5,partial
+son,NN,*nùmi,lang4,nùmi,nĩ,0.6667,0.5,partial
+son,NN,*nùmi,lang5,nùmi,núma,0.75,0.75,close
+son,NN,*nùmi,lang6,nùmi,nĩ́mã,0.5,0.5,partial
+son,NN,*nùmi,lang7,nùmi,nõ̀rúmõ̀gù,0.5,0.75,close
+father,NN,*tára,lang5,tàrà,tàràqgà,0.7273,1.0,exact
+fated,JJ,*sélimili,lang2,sélímílí,hélímílí,0.875,0.875,close
+fated,JJ,*sélimili,lang6,sélimili,sélimĩli,1.0,1.0,exact
+anger,NN,*xòrona,lang7,xòrona,xòrùnõ̀ngò,0.6667,0.8333,close
+rage,NN,*xòrolughòron,lang6,xòrolughòron,xarolugharon,0.8333,0.8333,close
+ocean,NN,*séliru,lang2,sélírú,hélírú,0.8333,0.8333,close
+ocean,NN,*séliru,lang6,séliru,séliru,1.0,1.0,exact
+ocean,NN,*séliru,lang7,séliru,hélírú,0.8333,0.8333,close
+fire,NN,*xázunu,lang4,xàzunu,Xàzúnṹ,1.0,1.0,exact
+fire,NN,*xázunu,lang5,xàzunu,xàngunu,0.7692,0.8333,close
+fire,NN,*xázunu,lang7,xázunu,xòngúnṹ,0.6154,0.6667,partial
+iron/metal,NN,*tézimi,lang4,tézimi,tézímĩ́lí,0.8571,1.0,exact
+iron/metal,NN,*tézimi,lang5,tézimi,téngimili,0.6667,0.8333,close
+iron/metal,NN,*tézimi,lang6,tézimi,tézimĩ,1.0,1.0,exact
+fruit,NN,*vónuma,lang2,vónúmà,vvónúmàgà,0.8,1.0,exact
+fruit,NN,*vónuma,lang4,vónuma,bvónṹmã,0.9231,1.0,exact
+fruit,NN,*vónuma,lang5,vónumà,bvónuma,0.9231,1.0,exact
+fruit,NN,*vónuma,lang6,vónuma,bvónũmã,0.9231,1.0,exact
+fruit,NN,*vónuma,lang7,vónuma,vvónṹmõ̀ngò,0.625,0.8333,close
+seed,NN,*vónu,lang2,vónú,vvónúvónú,0.6154,1.0,exact
+seed,NN,*vónu,lang4,vónu,bvónṹvónṹ,0.6154,1.0,exact
+seed,NN,*vónu,lang5,vónu,bvónuvónu,0.6154,1.0,exact
+seed,NN,*vónu,lang7,vónu,vvónṹvónṹ,0.6154,1.0,exact
+to wait,VB,*nérimi,lang5,nérimi,Nàmihpíràni,0.3529,0.5,partial
+to wait,VB,*nérimi,lang6,nérimi,inẽ́rimĩmĩ,0.8,1.0,exact
+to wait,VB,*nérimi,lang7,nérimi,nẽ̀mĩ́hpíírèngè,0.4211,0.6667,partial
+to carry,VB,*lórumu,lang6,lórumu,ulórumũmũ,0.8,1.0,exact
+to bite,VB,*zálami,lang2,zàlàmí,àngàlàmímí,0.625,0.8333,close
+to bite,VB,*zálami,lang3,zàlami,àzàlàmĩ́mĩ,0.8,1.0,exact
+to bite,VB,*zálami,lang4,zàlami,àzàlàmĩ́mĩ,0.8,1.0,exact
+to bite,VB,*zálami,lang5,zàlàmi,àngàlàmimi,0.625,0.8333,close
+to bite,VB,*zálami,lang6,zalami,izalamĩ,0.9231,1.0,exact
+to fear,VB,*mózumu,lang5,mózumu,umóngumunomu,0.5556,0.8333,close
+to fear,VB,*mózumu,lang7,mózumu,òmṍngúmṹmṹ,0.625,0.8333,close
+to smell,VB,*nízami,lang3,nízami,ínĩ́zímĩ́mĩ,0.6667,0.8333,close
+to smell,VB,*nízami,lang4,nízami,ínĩ́ĩ́zàmĩ́mĩ,0.75,1.0,exact
+to smell,VB,*nízami,lang5,nízàmi,níngàmi,0.7692,0.8333,close
+to smell,VB,*nízami,lang6,nízami,inĩ́zamĩmĩ,0.8,1.0,exact
+mime,NN,*mimísmi,lang2,mímísmí,Mímííhmíqgììd,0.6,0.8571,close
+mime,NN,*mimísmi,lang5,mimísmi,mimíhmiqge,0.7059,0.8571,close
+mime,NN,*mimísmi,lang7,mimísmi,mĩ́mĩ́ĩ́hmĩ́gì,0.7059,0.8571,close
+weapon,NN,*tórumodógoru,lang5,tórumodógoru,tórumodógoru,1.0,1.0,exact
+weapon,NN,*tórumodógoru,lang6,tórumodógoru,ulórumũmũ,0.4762,0.4167,miss
+weapon,NN,*tórumodógoru,lang7,tórumodógoru,tórúmũ̀dógùrú,0.8333,0.8333,close
+cloth,NN,*lúmuraluréza,lang3,lúmuraluréza,mṹṹrànṹrézãã,0.75,0.75,close
+truth,NN,*xélirini,lang2,xélíríní,xélíríní,1.0,1.0,exact
+truth,NN,*xélirini,lang5,xélirini,xéliri,0.8571,0.75,close
+truth,NN,*xélirini,lang6,xélirini,xélirinĩ,1.0,1.0,exact
+message,NN,*tálimirézami,lang2,tàlímírézàmí,llímíréngàmí,0.75,0.75,close
+message,NN,*tálimirézami,lang4,tàlimirézami,tàlímĩ́rézàmĩ,1.0,1.0,exact
+enemy,NN,*mósumagáru,lang6,mósumagaru,mṍzumãgarugo,0.8182,0.9,close
+map,NN,*mágedéreni,lang6,magedéreni,mãgedérenĩ,1.0,1.0,exact
+hospital,NN,*múranuspára,lang4,múranuspàra,Mṹṹrànṹspàràzúúràdórúmã̀gùùng,0.5641,1.0,exact
+hospital,NN,*múranuspára,lang5,múrànuspàrà,Múrànuhpàràngúràdórumàgo,0.5714,0.9091,close
+hospital,NN,*múranuspára,lang6,múranuspara,Mṹranũsparazúradórumãgo,0.6471,1.0,exact
+wealth,NN,*málalunu,lang2,màlàlúnú,màlàlúnúlú,0.8889,1.0,exact
+wealth,NN,*málalunu,lang3,màlalunu,mã̀làlúnṹnṹlú,0.8,1.0,exact
+history,NN,*sólunuzórumu,lang2,sólúnúzórúmú,hólúnúngórúmúlú,0.7407,0.8333,close
+history,NN,*sólunuzórumu,lang4,sólunuzórumu,sólúnṹzórúmṹ,1.0,1.0,exact
+history,NN,*sólunuzórumu,lang5,sólunuzórumu,hírinili,0.1,0.0833,miss
+evidence,NN,*xéliridéreni,lang4,xéliridéreni,xélírítérìnĩ,0.8333,0.8333,close
+evidence,NN,*xéliridéreni,lang5,xéliridéreni,xéliridéreni,1.0,1.0,exact
+theory,NN,*véramizélima,lang7,véramizélima,vvérèmĩ́ngélímẽ̀ngè,0.6207,0.75,close
+pattern,NN,*rénavérizi,lang2,rénàvérízí,rénàgéríngí,0.7619,0.8,close
+conflict,NN,*sárumuzórumu,lang4,sàrumuzórumu,sàrúmṹzórúmṹ,1.0,1.0,exact
+success,NN,*dárumuvólumu,lang3,dàrumuvólumu,þàdàrúmṹvólúmṹ,0.9231,1.0,exact
+success,NN,*dárumuvólumu,lang4,dàrumuvólumu,ðdàrúmṹvólúmṹ,0.96,1.0,exact
+success,NN,*dárumuvólumu,lang5,dàrumuvólumu,ngdàrumuvólumu,0.9231,1.0,exact
+success,NN,*dárumuvólumu,lang7,dárumuvólumu,ngdòrúmṹvólúmṹ,0.8462,0.9167,close
+failure,NN,*dáliminéri,lang3,dàliminéri,þàdàlímĩ́nẽ́rígemẽ,0.7692,1.0,exact
+failure,NN,*dáliminéri,lang5,dàliminéri,ngdàliminéri,0.9091,1.0,exact
+complexity,NN,*nárugunu,lang3,nàrugunu,nã̀rúgúnĩ́nĩ,0.7778,0.875,close
+draft,NN,*vózumurélama,lang7,vózumurélama,vvóngúmṹrélòmõ̀ngò,0.6207,0.75,close
+one,CARD,*sé,lang2,sé,shénù,0.5714,1.0,exact
+one,CARD,*sé,lang4,sé,Shénĩ,0.5714,1.0,exact
+two,CARD,*po,lang2,po,pù,0.5,0.5,partial
+two,CARD,*po,lang3,po,pogàdíngérenã̀nĩ,0.2353,1.0,exact
+two,CARD,*po,lang5,po,Poéle,0.5714,1.0,exact
+two,CARD,*po,lang6,po,pogadingérebe,0.2667,1.0,exact
+three,CARD,*nézi,lang4,nézi,nẽ́zíqgàdí,0.6154,1.0,exact
+three,CARD,*nézi,lang7,nézi,nẽ́ngígèdí,0.4615,0.75,close
+four,CARD,*vóru,lang2,vórú,ggàríqgàdí,0.1429,0.25,miss
+four,CARD,*vóru,lang3,vóru,tàvàrígàdí,0.2857,0.5,partial
+four,CARD,*vóru,lang4,vóru,pííràqgà,0.1667,0.25,miss
+four,CARD,*vóru,lang5,vóru,píràqgà,0.1818,0.25,miss
+four,CARD,*vóru,lang6,vóru,bvarigadi,0.3077,0.5,partial
+four,CARD,*vóru,lang7,vóru,ngúúròvórúnṹ,0.5,1.0,exact
+five,CARD,*náni,lang2,nàní,nàní,1.0,1.0,exact
+five,CARD,*náni,lang4,nàni,nã̀nĩ,1.0,1.0,exact
+six,CARD,*kóru,lang5,kóru,kóvànulu,0.5,0.75,close
+six,CARD,*kóru,lang6,kóru,kóru,1.0,1.0,exact
+six,CARD,*kóru,lang7,kóru,údórúmũ̀mṹ,0.4615,0.75,close
+eight,CARD,*ú,lang2,ú,Ú,1.0,1.0,exact
+eight,CARD,*ú,lang3,ú,úú,0.6667,1.0,exact
+eight,CARD,*ú,lang4,ú,úú,0.6667,1.0,exact
+eight,CARD,*ú,lang5,ú,ú,1.0,1.0,exact
+eight,CARD,*ú,lang6,ú,nĩzã,0.0,0.0,miss
+nine,CARD,*níza,lang3,níza,Kàdíngérelúúnãã,0.2105,0.5,partial
+nine,CARD,*níza,lang5,nízà,níngàqgà,0.5,0.75,close
+nine,CARD,*níza,lang6,níza,Lúnã,0.5,0.5,partial
+ten,CARD,*vézi,lang3,vézi,tàvézíngérenã̀nĩ,0.4211,1.0,exact
+ten,CARD,*vézi,lang4,vézi,tàgézí,0.6,0.75,close
+ten,CARD,*vézi,lang6,vézi,bvézi,0.8889,1.0,exact
+ten,CARD,*vézi,lang7,vézi,vvéngí,0.6,0.75,close
+twelve,CARD,*fúzu,lang5,fúzu,fúngu,0.6667,0.75,close
+twelve,CARD,*fúzu,lang6,fúzu,fúzu,1.0,1.0,exact
+twelve,CARD,*fúzu,lang7,fúzu,Fúúngú,0.6,0.75,close
+thirteen,CARD,*hálu,lang2,hàlú,hàlú,1.0,1.0,exact
+thirteen,CARD,*hálu,lang3,hàlu,hàlú,1.0,1.0,exact
+thirteen,CARD,*hálu,lang6,halu,halu,1.0,1.0,exact
+fifteen,CARD,*bíra,lang2,bírà,þàbííràqngà,0.5333,1.0,exact
+fifteen,CARD,*bíra,lang5,bírà,ngbíràqgà,0.6154,1.0,exact
+fifteen,CARD,*bíra,lang6,bíra,þabírã,0.8,1.0,exact
+sixteen,CARD,*shís,lang6,shís,Shís,1.0,1.0,exact
+eighteen,CARD,*vóza,lang4,vóza,bvózã,0.8889,1.0,exact
+nineteen,CARD,*lúna,lang2,lúnà,Lúúnàgà,0.7273,1.0,exact
+nineteen,CARD,*lúna,lang5,lúnà,Lúna,1.0,1.0,exact
+nineteen,CARD,*lúna,lang6,lúna,Lúnã,1.0,1.0,exact
+twenty,CARD,*kádi,lang2,kàdí,qàdí,0.75,0.75,close
+twenty,CARD,*kádi,lang3,kàdi,kàdíngéreúú,0.5333,1.0,exact
+twenty,CARD,*kádi,lang6,kadi,bvézingangali,0.2353,0.5,partial
+blue,JJ,*félirili,lang2,félírílí,kélírílí,0.875,0.875,close
+blue,JJ,*félirili,lang6,félirili,kélirili,0.875,0.875,close
+blue,JJ,*félirili,lang7,félirili,kélírílí,0.875,0.875,close
+green,JJ,*kóvanulu,lang2,kóvànúlú,Kóvànúlú,1.0,1.0,exact
+green,JJ,*kóvanulu,lang4,kóvanulu,Kóvànṹlú,1.0,1.0,exact
+green,JJ,*kóvanulu,lang5,kóvànulu,kóvànulu,1.0,1.0,exact
+green,JJ,*kóvanulu,lang6,kóvanulu,kóvanũlu,1.0,1.0,exact
+green,JJ,*kóvanulu,lang7,kóvanulu,Kóvònṹlú,0.875,0.875,close
+gray,JJ,*shíynili,lang7,shíynili,shííynĩ́lí,0.9412,1.0,exact
+silver,JJ,*tézimili,lang2,tézímílí,téngímílí,0.8235,0.875,close
+silver,JJ,*tézimili,lang3,tézimili,tézímĩ́lí,1.0,1.0,exact
+silver,JJ,*tézimili,lang4,tézimili,tézímĩ́lí,1.0,1.0,exact
+silver,JJ,*tézimili,lang5,tézimili,téngimili,0.8235,0.875,close
+silver,JJ,*tézimili,lang6,tézimili,tézimĩli,1.0,1.0,exact
+silver,JJ,*tézimili,lang7,tézimili,Téngímĩ́lí,0.8235,0.875,close
+bright/shining,JJ,*glízali,lang3,glízali,ízàmĩ́mĩ,0.5714,0.5714,partial
+bright/shining,JJ,*glízali,lang4,glízali,ðglíízàlí,0.875,1.0,exact
+bright/shining,JJ,*glízali,lang5,glízàli,àgérimàlàngimi,0.4762,0.7143,partial
+bright/shining,JJ,*glízali,lang6,glízali,þaglízali,0.875,1.0,exact
+loud,JJ,*bárimili,lang2,bàrímílí,ídàrímíngúmí,0.6,0.75,close
+loud,JJ,*bárimili,lang4,bàrimili,ídàrímĩ́zúmĩ,0.6316,0.75,close
+quietly,RB,*nebárimilimi,lang6,nebarimilimi,nẽbarimĩlimĩ,1.0,1.0,exact
+heavy,JJ,*kárunulu,lang2,kàrúnúlú,kàrúnúlú,1.0,1.0,exact
+heavy,JJ,*kárunulu,lang6,karunulu,karunũlu,1.0,1.0,exact
+heavy,JJ,*kárunulu,lang7,kárunulu,kòrúnṹlú,0.875,0.875,close
+hot,JJ,*xázunulu,lang3,xàzunulu,xàzúnṹlú,1.0,1.0,exact
+hot,JJ,*xázunulu,lang4,xàzunulu,dzàngúrú,0.5,0.5,partial
+sharp,JJ,*tórumalu,lang5,tórumàlu,tórumàlu,1.0,1.0,exact
+sharp,JJ,*tórumalu,lang7,tórumalu,tórúmõ̀lú,0.875,0.875,close
+brave,JJ,*mózunolu,lang2,mózúnolú,móngúnùlú,0.7059,0.75,close
+brave,JJ,*mózunolu,lang3,mózunolu,Mṍzúnõlú,1.0,1.0,exact
+brave,JJ,*mózunolu,lang5,mózunolu,Móngunolu,0.8235,0.875,close
+brave,JJ,*mózunolu,lang6,mózunolu,mṍzunõlu,1.0,1.0,exact
+brave,JJ,*mózunolu,lang7,mózunolu,mṍngúnũ̀lú,0.7059,0.75,close
+wise,JJ,*zárumulu,lang2,zàrúmúlú,úbàlúmúnùmú,0.5263,0.625,partial
+wise,JJ,*zárumulu,lang5,zàrumulu,Kogonovàrungulu,0.5217,0.75,close
+wise,JJ,*zárumulu,lang6,zarumulu,Kogonõvaruzulu,0.5455,0.75,close
+fast,JJ,*fúdurulu,lang5,fúdurulu,fúdurulu,1.0,1.0,exact
+slowly,RB,*nólumulu,lang3,nólumulu,nṍlúmṹlú,1.0,1.0,exact
+tall/high,JJ,*vóvumalu,lang2,vóvúmàlú,úlóngúmú,0.5,0.5,partial
+tall/high,JJ,*vóvumalu,lang3,vóvumalu,tàvóvúmã̀lú,0.8889,1.0,exact
+short/low,JJ,*márugulu,lang2,màrúgúlú,þàbórùmúmú,0.5556,0.625,partial
+short/low,JJ,*márugulu,lang3,màrugulu,xàzúnṹlú,0.625,0.625,partial
+short/low,JJ,*márugulu,lang4,màrugulu,lúúmṹràlú,0.4706,0.5,partial
+short/low,JJ,*márugulu,lang5,màrugulu,màngumugo,0.5882,0.625,partial
+short/low,JJ,*márugulu,lang6,marugulu,þagórumãlu,0.5556,0.625,partial
+short/low,JJ,*márugulu,lang7,márugulu,fórúmõ̀lú,0.5,0.5,partial
+wet,JJ,*shíynimili,lang2,shíynímílí,shííynímílí,0.9524,1.0,exact
+wet,JJ,*shíynimili,lang4,shíynimili,shííynĩ́mĩ́lí,0.9524,1.0,exact
+wet,JJ,*shíynimili,lang5,shíynimili,shíynimili,1.0,1.0,exact
+dry,JJ,*xóronuzámushlu,lang2,xóronúzàmúshlú,hélí,0.2222,0.1429,miss
+dry,JJ,*xóronuzámushlu,lang6,xóronuzamushlu,kóvanũlu,0.4545,0.3571,miss
+ancient,JJ,*zúravórunulu,lang2,zúràvórúnúlú,ngúúràvórúnúlú,0.8462,0.9167,close
+ancient,JJ,*zúravórunulu,lang3,zúravórunulu,tàzúúràvórúnṹ,0.8,0.8333,close
+ancient,JJ,*zúravórunulu,lang4,zúravórunulu,dzúúràvórúnṹ,0.8333,0.8333,close
+ancient,JJ,*zúravórunulu,lang5,zúràvórunulu,dngúràvórunu,0.75,0.75,close
+ancient,JJ,*zúravórunulu,lang6,zúravórunulu,dzúravórunũ,0.8696,0.8333,close
+ancient,JJ,*zúravórunulu,lang7,zúravórunulu,ngúúròvórúnṹ,0.6667,0.6667,partial
+young,JJ,*dórumulu,lang4,dórumulu,ðdórúmṹlú,0.9412,1.0,exact
+expensive,JJ,*málalunulu,lang3,màlalunulu,mã̀làlúnṹlú,1.0,1.0,exact
+expensive,JJ,*málalunulu,lang7,málalunulu,mõ̀lòlúnṹlú,0.8,0.8,close
+spicy,JJ,*xázimili,lang3,xàzimili,xàzímĩ́lí,1.0,1.0,exact
+spicy,JJ,*xázimili,lang4,xàzimili,xàzímĩ́lí,1.0,1.0,exact
+sweet,JJ,*férimili,lang6,férimili,kérimĩli,0.875,0.875,close
+hard,JJ,*tézimili,lang4,tézimili,téràmĩ,0.5714,0.5,partial
+soft,JJ,*lúmuralu,lang2,lúmúràlú,lúúmúràlúbàlù,0.7619,1.0,exact
+soft,JJ,*lúmuralu,lang3,lúmuralu,lúúmṹràlúpélo,0.7619,1.0,exact
+soft,JJ,*lúmuralu,lang5,lúmuràlu,lúmuràlubàlo,0.8,1.0,exact
+soft,JJ,*lúmuralu,lang6,lúmuralu,lúmũralu,1.0,1.0,exact
+soft,JJ,*lúmuralu,lang7,lúmuralu,lúúmṹròlúbòlù,0.6667,0.875,close
+separately,RB,*séli,lang6,séli,séli,1.0,1.0,exact
+often,RB,*zéranira,lang6,zéranira,dzéranĩrã,0.9412,1.0,exact
+often,RB,*zéranira,lang7,zéranira,ngérènĩ́rèngè,0.5,0.625,partial
+clean,JJ,*kázumulu,lang2,kàzúmúlú,úgàngúmúdàrúmúnù,0.4167,0.625,partial
+clean,JJ,*kázumulu,lang3,kàzumulu,úgàzúmṹdàrúmṹzúzúmṹ,0.4444,0.75,close
+clean,JJ,*kázumulu,lang4,kàzumulu,kàzúmṹlú,1.0,1.0,exact
+clean,JJ,*kázumulu,lang5,kàzumulu,ugàngumudàrumumu,0.4167,0.625,partial
+clean,JJ,*kázumulu,lang7,kázumulu,úgòngúmṹdòrúmṹmũ,0.3333,0.5,partial
+dirty,JJ,*mózumulu,lang3,mózumulu,mṍzúmṹlú,1.0,1.0,exact
+rich,JJ,*málalununulu,lang2,màlàlúnúnúlú,màlàlúnúnúlú,1.0,1.0,exact
+rich,JJ,*málalununulu,lang3,màlalununulu,Mã̀làlúnṹnṹlú,1.0,1.0,exact
+rich,JJ,*málalununulu,lang6,malalununulu,Mãlalunũnũlu,1.0,1.0,exact
+poor,JJ,*dólumununulu,lang2,dólúmúnúnúlú,Þàdólúmúnúnúlú,0.9231,1.0,exact
+poor,JJ,*dólumununulu,lang3,dólumununulu,þàdólúmṹnṹnṹlú,0.9231,1.0,exact
+poor,JJ,*dólumununulu,lang4,dólumununulu,ðdólúmṹnṹnṹlú,0.96,1.0,exact
+strong,JJ,*zérimili,lang2,zérímílí,ngérímílí,0.8235,0.875,close
+strong,JJ,*zérimili,lang5,zérimili,dngérimili,0.7778,0.875,close
+weak,JJ,*zérimineli,lang4,zérimineli,dzérímĩ́nĩ̀lí,0.8571,0.9,close
+weak,JJ,*zérimineli,lang5,zérimineli,dngérimineli,0.8182,0.9,close
+weak,JJ,*zérimineli,lang6,zérimineli,dzérimĩnẽli,0.9524,1.0,exact
+weak,JJ,*zérimineli,lang7,zérimineli,ngérímĩ́nĩ̀lí,0.7619,0.8,close
+late,JJ,*nérimili,lang2,nérímílí,nérílí,0.8571,0.75,close
+late,JJ,*nérimili,lang3,nérimili,ígérímĩ́lí,0.8235,0.875,close
+late,JJ,*nérimili,lang4,nérimili,kérídàrímĩ,0.5556,0.625,partial
+late,JJ,*nérimili,lang6,nérimili,nẽ́rimĩli,1.0,1.0,exact
+late,JJ,*nérimili,lang7,nérimili,nṍrúlú,0.4286,0.375,miss
+dangerous,JJ,*mózulu,lang4,mózulu,mṍzúlú,1.0,1.0,exact
+lucky,JJ,*sélimili,lang2,sélímílí,Sélímílí,1.0,1.0,exact
+honest,JJ,*xélirili,lang3,xélirili,Xélírílí,1.0,1.0,exact
+honest,JJ,*xélirili,lang6,xélirili,Xélirili,1.0,1.0,exact
+deceitful,JJ,*púrumulu,lang6,púrumulu,Púrumũlu,1.0,1.0,exact
+hungry,JJ,*zálumavázumu,lang5,zàlumàvàzumu,ungàlumu,0.5,0.4167,miss
+hungry,JJ,*zálumavázumu,lang6,zalumavazumu,dzalumãvazumũ,0.96,1.0,exact
+thirsty,JJ,*nízimavézimi,lang3,nízimavézimi,nĩ́ĩ́zímã̀vézímĩ́lí,0.8889,1.0,exact
+helpful,JJ,*gérimilu,lang3,gérimilu,hólúrúlú,0.375,0.375,miss
+helpful,JJ,*gérimilu,lang5,gérimilu,hólurulu,0.375,0.375,miss
+helpful,JJ,*gérimilu,lang6,gérimilu,hólurulu,0.375,0.375,miss
+sword,NN,*míraninérizibálara,lang3,míraninérizibàlara,mĩ́ĩ́rànĩ́nẽ́rízíbàlàrãã,0.9474,1.0,exact
+sword,NN,*míraninérizibálara,lang6,míraninérizibalara,mĩ́ranĩnẽ́rizibalarã,1.0,1.0,exact
+earth/soil/dirt:,NN,*dága,lang2,dàgà,þàdàqgàqngà,0.5333,1.0,exact
+earth/soil/dirt:,NN,*dága,lang4,dàga,ðdàgànṹ,0.7273,1.0,exact
+earth/soil/dirt:,NN,*dága,lang5,dàgà,ngdàqgàqgà,0.5714,1.0,exact
+smoke:,NN,*fúma,lang2,fúmà,fúúmàgà,0.7273,1.0,exact
+smoke:,NN,*fúma,lang7,fúma,fúúmõ̀ngò,0.5,0.75,close
+bone:,NN,*shéne,lang2,shéne,shénù,0.8,0.8,close
+bone:,NN,*shéne,lang3,shéne,shénẽzhénẽnĩ,0.5882,1.0,exact
+bone:,NN,*shéne,lang4,shéne,Shénĩ,0.8,0.8,close
+bone:,NN,*shéne,lang5,shéne,Shénoda,0.6667,0.8,close
+skin/bark,NN,*pélo,lang6,pélo,Palodã,0.6,0.75,close
+salt:,NN,*báza,lang3,bàza,þàbàzãã,0.7273,1.0,exact
+shadow/ghost:,NN,*níma,lang2,nímà,níímàqgì,0.6667,1.0,exact
+shadow/ghost:,NN,*níma,lang3,níma,nĩ́ĩ́mãã,0.8,1.0,exact
+shadow/ghost:,NN,*níma,lang4,níma,nĩ́ĩ́mã̀qgà,0.6667,1.0,exact
+shadow/ghost:,NN,*níma,lang5,nímà,nímàqgà,0.7273,1.0,exact
+shadow/ghost:,NN,*níma,lang6,níma,nĩ́mã,1.0,1.0,exact
+shadow/ghost:,NN,*níma,lang7,níma,Nĩ́ĩ,0.5714,0.5,partial
+key,NN,*vólumudógoru,lang3,vólumudógoru,tàvólúmṹdógorú,0.9231,1.0,exact
+key,NN,*vólumudógoru,lang5,vólumudógoru,bvólumudógoru,0.96,1.0,exact
+key,NN,*vólumudógoru,lang6,vólumudógoru,bvólumũdógoru,0.96,1.0,exact
+key,NN,*vólumudógoru,lang7,vólumudógoru,vvólúmṹdógùrú,0.88,0.9167,close
+medicine:,NN,*múranuzáluma,lang6,múranuzaluma,mṹranũzalumã,1.0,1.0,exact
+medicine:,NN,*múranuzáluma,lang7,múranuzáluma,mṹṹrònṹngòlúmõ̀ngò,0.5517,0.6667,partial
+alphabet,NN,*rázumurána,lang2,ràzúmúrànà,ràngúmúrànàgà,0.7826,0.9,close
+alphabet,NN,*rázumurána,lang3,ràzumuràna,ràzúmṹrànã̀gook,0.8333,1.0,exact
+alphabet,NN,*rázumurána,lang4,ràzumuràna,ràzúmṹrànã,1.0,1.0,exact
+alphabet,NN,*rázumurána,lang5,ràzumurànà,ràngumuràna,0.8571,0.9,close
+alphabet,NN,*rázumurána,lang7,rázumurána,rómṹrú-nṹ,0.5263,0.5,partial
+prison,NN,*nèmispíra,lang2,nèmíspírà,nàmíhpííràní,0.6667,0.7778,close
+prison,NN,*nèmispíra,lang5,nèmispírà,nàmihpíràni,0.7,0.7778,close
+prison,NN,*nèmispíra,lang6,nèmispíra,nãmĩspíranĩ,0.8,0.8889,close
+prison,NN,*nèmispíra,lang7,nèmispíra,nẽ̀mĩ́hpíírènĩ,0.6667,0.7778,close
+mirror,NN,*várudógoru,lang3,vàrudógoru,tàvàrúdógorúgo,0.8333,1.0,exact
+mirror,NN,*várudógoru,lang4,vàrudógoru,bvàrúdógùrúgù,0.7826,0.9,close
+mirror,NN,*várudógoru,lang6,varudógoru,bvarudógorugo,0.8696,1.0,exact
+grave,NN,*míranispíra,lang7,míranispíra,mĩ́ĩ́rènĩ́hpíírènĩ,0.6154,0.7273,partial
+weapon,NN,*tórumodógoru,lang5,tórumodógoru,tórumodógoru,1.0,1.0,exact
+weapon,NN,*tórumodógoru,lang6,tórumodógoru,ulórumũmũ,0.4762,0.4167,miss
+weapon,NN,*tórumodógoru,lang7,tórumodógoru,tórúmũ̀dógùrú,0.8333,0.8333,close
+armour,NN,*lúmuralubálo,lang5,lúmuràlubàlo,lúmuràlubàlo,1.0,1.0,exact
+armour,NN,*lúmuralubálo,lang7,lúmuralubálo,lúúmṹròlúbòlù,0.72,0.75,close
