@@ -106,6 +106,18 @@ class TestSplitDictLine:
         parts = _split_dict_line("soul  máranivéramidágeri (ie, death-muse)")
         assert len(parts) < 3
 
+    def test_empty_string_returns_short_list(self):
+        assert len(_split_dict_line("")) < 3
+
+    @pytest.mark.parametrize("tag", [
+        "NN", "NNP", "VB", "JJ", "RB", "DT", "CONJ", "WH",
+        "IN", "CARD", "MD", "SCONJ", "ADP", "UH", "INSTR",
+    ])
+    def test_every_known_pos_tag_recognized(self, tag):
+        parts = _split_dict_line(f"word nativeform {tag}")
+        assert len(parts) == 3
+        assert parts[2] == tag
+
 
 # ---------------------------------------------------------------------------
 # _extract_compound
@@ -155,6 +167,12 @@ class TestCleanTranslation:
     def test_empty_string(self):
         assert _clean_translation("") == ""
 
+    def test_whitespace_only_returns_empty(self):
+        assert _clean_translation("   ") == ""
+
+    def test_internal_quotes_preserved(self):
+        assert _clean_translation('"say "hello" there."') == 'say "hello" there.'
+
 
 # ---------------------------------------------------------------------------
 # _split_blocks
@@ -184,6 +202,11 @@ class TestSplitBlocks:
 
     def test_whitespace_only(self):
         assert _split_blocks("   \n\n   ") == []
+
+    def test_single_block_no_blank_line(self):
+        blocks = _split_blocks("just one block here")
+        assert len(blocks) == 1
+        assert blocks[0] == "just one block here"
 
 
 # ---------------------------------------------------------------------------
@@ -224,6 +247,17 @@ class TestParseLang1Block:
         entry = _parse_lang1_block(self._make_block(), "lang1", 42)
         assert entry.sentence_id == 42
 
+    def test_extra_lines_beyond_four_ignored(self):
+        lines = list(self._make_block()) + ["Extra line should be ignored."]
+        entry = _parse_lang1_block(lines, "lang1", 1)
+        assert entry is not None
+        assert entry.translation == "(I) welcome (you) into the world of Aaruma linguistics."
+
+    def test_whitespace_only_translation_returns_none(self):
+        lines = list(self._make_block())
+        lines[3] = "   "
+        assert _parse_lang1_block(lines, "lang1", 1) is None
+
 
 # ---------------------------------------------------------------------------
 # _parse_lang2_7_block
@@ -260,6 +294,15 @@ class TestParseLang2_7Block:
     def test_sentence_id_stored(self):
         entry = _parse_lang2_7_block(self._lines(), "lang5", 7)
         assert entry.sentence_id == 7
+
+    def test_extra_lines_beyond_two_ignored(self):
+        lines = self._lines() + ["Extra line ignored."]
+        entry = _parse_lang2_7_block(lines, "lang2", 1)
+        assert entry is not None
+        assert entry.translation == "The students drink coffee."
+
+    def test_whitespace_only_translation_returns_none(self):
+        assert _parse_lang2_7_block(["Surface.", "   "], "lang2", 1) is None
 
 
 # ---------------------------------------------------------------------------
@@ -319,6 +362,15 @@ class TestParseDictionary:
         assert len(entries) == 1
         assert entries[0].english == "student"
         assert entries[0].native_form == "dóruma"
+
+    def test_tab_only_line_skipped(self, tmp_path):
+        p = write(tmp_path, "dict.txt", "\t\nstudent\tdóruma\tNN\n")
+        assert len(parse_dictionary(p)) == 1
+
+    def test_empty_english_field_skipped(self, tmp_path):
+        # tab-first line → empty english after split
+        p = write(tmp_path, "dict.txt", "\tdóruma\tNN\n")
+        assert parse_dictionary(p) == []
 
 
 # ---------------------------------------------------------------------------
@@ -402,6 +454,15 @@ class TestParseCorpus:
     def test_empty_file(self, tmp_path):
         p = write(tmp_path, "corpus.txt", "")
         assert parse_corpus(p, "lang2") == []
+
+    def test_lang3_treated_like_lang2(self, tmp_path):
+        content = "Surface sentence.\n\"Translation here.\"\n"
+        p = write(tmp_path, "lang3-corpus.txt", content)
+        entries = parse_corpus(p, "lang3")
+        assert len(entries) == 1
+        assert entries[0].segmented == ""
+        assert entries[0].gloss == ""
+        assert entries[0].translation == "Translation here."
 
 
 # ---------------------------------------------------------------------------
@@ -500,6 +561,13 @@ class TestExportCsv:
         content = out.read_text(encoding="utf-8")
         assert "dóruma" in content
 
+    def test_comma_in_field_properly_escaped(self, tmp_path):
+        records = [DictionaryEntry("student, scholar", "dóruma", "", "NN")]
+        out = tmp_path / "out.csv"
+        export_csv(records, out)
+        rows = list(csv.DictReader(out.read_text(encoding="utf-8").splitlines()))
+        assert rows[0]["english"] == "student, scholar"
+
 
 # ---------------------------------------------------------------------------
 # parse_all
@@ -567,6 +635,49 @@ class TestParseAll:
         assert results["dictionary"] == []
         assert results["corpus"] == []
         assert results["docs"] == []
+
+    def test_only_dictionary_no_corpus_or_docs(self, tmp_path):
+        raw_dir = tmp_path / "raw"
+        raw_dir.mkdir()
+        (raw_dir / "lang1-dictionary.txt").write_text(
+            "student\tdóruma\tNN\n", encoding="utf-8"
+        )
+        results = parse_all(raw_dir=raw_dir, processed_dir=tmp_path / "out")
+        assert len(results["dictionary"]) == 1
+        assert results["corpus"] == []
+        assert results["docs"] == []
+
+    def test_doc1_only_no_doc2(self, tmp_path):
+        raw_dir = tmp_path / "raw"
+        out_dir = tmp_path / "processed"
+        raw_dir.mkdir()
+        (raw_dir / "lang1-doc1.txt").write_text("Line one.\n", encoding="utf-8")
+        results = parse_all(raw_dir=raw_dir, processed_dir=out_dir)
+        doc_ids = {e.doc_id for e in results["docs"]}
+        assert doc_ids == {1}
+
+
+# ---------------------------------------------------------------------------
+# _POS_PATTERN
+# ---------------------------------------------------------------------------
+
+
+class TestPOSPattern:
+    @pytest.mark.parametrize("tag", [
+        "NN", "NNP", "VB", "JJ", "RB", "DT", "CONJ", "WH",
+        "IN", "CARD", "MD", "SCONJ", "ADP", "UH", "INSTR",
+    ])
+    def test_known_tag_matches_at_end_of_line(self, tag):
+        assert _POS_PATTERN.search(f"some form {tag}") is not None
+
+    def test_unknown_tag_does_not_match(self):
+        assert _POS_PATTERN.search("word form UNKNOWN") is None
+
+    def test_tag_in_middle_of_line_does_not_match(self):
+        assert _POS_PATTERN.search("NN comes first here") is None
+
+    def test_requires_whitespace_before_tag(self):
+        assert _POS_PATTERN.search("formNN") is None
 
 
 # ---------------------------------------------------------------------------
