@@ -1,0 +1,42 @@
+gloss_tag,canonical_form,category,frequency,n_forms,all_forms,cross_lang_attested,attested_in,example_word
+WIT,mi,evidentiality,818,11,mi(800)  ERG(6)  mu(4)  ru(1)  m(1),True,"lang2, lang3, lang4, lang5, lang6, lang7","góruamumu,"
+INAN,i,agreement,780,18,i(754)  te(6)  nérili(2)  sórumu(2)  u(2),True,"lang2, lang3, lang4, lang5, lang6, lang7",iáramami.
+ERG,o,case,499,13,o(263)  e(152)  ke(48)  ko(13)  ERG(11),True,"lang2, lang3, lang4, lang5, lang6, lang7",dórumadórumagoo
+DEF,ko,definiteness,407,11,ko(355)  o(32)  góruamu(5)  dóruma(3)  náruma(3),False,,dórumadórumagoo
+INESS,nu,case,233,8,nu(223)  ni(2)  xóronu(2)  sám(2)  náruma(1),True,"lang2, lang3, lang4, lang5, lang6, lang7",xóronunu
+PL,dóruma,number,191,47,dóruma(49)  múru(17)  náruma(10)  déni(7)  félirina(7),False,,dórumadórumagoo
+ANIM,a,agreement,156,7,a(132)  u(19)  dólumu(1)  zérimi(1)  vóruma(1),True,"lang2, lang3, lang4, lang5, lang6","agérimimi,"
+CAUS,su,valence,140,1,su(140),True,"lang3, lang4, lang6","agóruamuzuzumu,"
+FUT,ke,tense,91,9,ke(47)  ge(36)  go(2)  ru(1)  kádi(1),True,"lang2, lang3, lang4, lang5, lang6, lang7",zúrumago
+ELAT,li,case,86,10,li(57)  lu(15)  sérimi(4)  ke(4)  fírimi(1),True,"lang2, lang3, lang4, lang5, lang6, lang7",línenili
+DEF.NEAR,ko,definiteness,83,4,ko(72)  ke(9)  máguzúra(1)  gúra(1),False,,Mógogo
+ILL,lu,case,79,8,lu(71)  sám(2)  ru(1)  vári(1)  li(1),True,"lang2, lang3, lang4, lang5, lang6, lang7",Aarumalu
+POSS,li,case,78,4,li(67)  e(9)  o(1)  ko(1),False,,nili
+ADJ,lu,derivation,72,7,lu(61)  la(3)  ko(3)  li(2)  ral(1),False,,xéral
+PL.SUBJ,te,number,53,4,te(43)  ke(6)  li(3)  dóruma(1),False,,"lórumalu,"
+INFER,me,evidentiality,50,1,me(50),True,"lang3, lang5, lang6","idárimigeme,"
+NEG,ne,negation,39,5,ne(25)  no(8)  ni(3)  go(2)  mi(1),True,"lang3, lang5",Idálimine
+BEN,bi,case,35,4,bi(22)  véri(8)  géni(4)  gérimi(1),False,,véri
+INALIEN,ta,case,31,4,ta(20)  da(9)  li(1)  te(1),False,,Nulórada
+INSTR,géni,adposition,23,3,géni(19)  ko(2)  ke(2),False,,géni
+MIR,há,mirative,22,2,há(21)  há!(1),False,,há!
+DIR.EVID,me,evidentiality,20,1,me(20),False,,idérimigeme.
+DUAL,po,number,13,1,po(13),False,,Pozélimi
+DIR,me,evidentiality,12,1,me(12),False,,ugóruamugomo
+AI,áimi,proper_noun,12,2,áimi(11)  Áimi(1),False,,áimili
+PURP,li,mood,12,1,li(12),False,,izérimili.
+Q.POLAR,lú,question,11,1,lú(11),False,,lú?
+[POLAR],lú,question,9,1,lú(9),False,,lú?
+ADJ.INAN,lu,derivation,7,2,lu(6)  u(1),False,,lúmuralu
+EVID.DIR,mi,evidentiality,7,3,mi(5)  mo(1)  me(1),False,,izérimimi.
+INFER.EVID,me,unknown,6,1,me(6),False,,"inérimidérimigeme,"
+WIT;,mi;,unknown,6,1,mi;(6),False,,izamimi;
+CL,CL,unknown,5,2,CL(4)  dóruma(1),False,,CL
+OBJ.NEG,lízera,unknown,4,3,lízera(2)  mázumu(1)  bárumu(1),False,,lízera
+ADJ.ANIM,la,unknown,4,1,la(4),False,,górumula
+OBJ,lízera,case,3,1,lízera(3),False,,lízerani
+NOM,rim,case,3,3,rim(1)  rum(1)  li(1),False,,kérima
+REC,shi,unknown,3,2,shi(2)  fálumu(1),False,,shingére
+DU,múru,unknown,3,3,múru(1)  podárumu(1)  po(1),False,,pomúrudo
+UBC,Yúbuysuy,unknown,3,1,Yúbuysuy(3),False,,Yúbuysuylu
+INE,nu,unknown,3,1,nu(3),False,,pánurunu
