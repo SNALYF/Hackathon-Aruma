@@ -1,0 +1,4312 @@
+﻿CL dórumadórumagoo lóruma góruamumu, hére zúrumago lóruma.
+CL dóruma-dóruma-ko-o lóruma gó-ru-a-mu-mu, hére zú-ru-ma-go lóruma
+CL student-PL-DEF-ERG language create-WIT, now test-FUT language
+"The CL students have created a language; it's now time to test it."
+
+
+Mógogo línenili Aarumalu nie iáramami.
+mógo-ko líneni-li Aaruma-lu-ru ni-ERG i-árama-mi
+world-DEF.NEAR linguistics-ELAT Aaruma-ELAT-ILL 1SG-ERG INAN-welcome-WIT
+"(I) welcome (you) into the world of Aaruma linguistics."
+
+
+Kogo dénilili hírinili Aarumalu izamimi.
+ko-ko dénili-li hírini-li Aaruma-lu i-sami-mi
+this documentation-ELAT history-ELAT Aaruma-ELAT INAN-be-WIT
+"This is the documentation of the history of Aaruma."
+
+
+Ni tegee izérimimi kege lórumalu tírimi.
+ni te-ke-ERG i-sérimi-mi ke-ke lóruma-li tírimi
+1PL.INCL-PL.SUBJ-ERG INAN-learn-WIT this-ELAT language-ELAT together
+"Let us learn this language together."
+
+
+Idálimine lízerani lórumamu hére izéralimi lóruma lóruma idálimimi.
+i-tálimi-ne lízera-ni lóruma-mi hére i-sérali-mi lóruma lóruma i-tálimi-mi
+INAN-speak-NEG OBJ-NEG long-WIT but INAN-reflect-WIT language language INAN-speak-WIT
+"The language has not been spoken long, but it is reflective of languages that have."
+
+
+Hére ni tegee ivírimimi kege lórumalu, ni tegee izérimimi xérali lóruma, tírimi idárimi spírali.
+hére ni te-ke-ERG i-fírimi-mi ke-ke lóruma-li, ni te-ke-ERG i-sérimi-mi xérali lóruma, tírimi i-dárimi spírali
+while 1PL.INCL-PL.SUBJ-ERG INAN-build-WIT this-ELAT language 1PL.INCL-PL.SUBJ-ERG INAN-ensure-WIT expressive language also INAN-grow room-ELAT
+"As we build this language, let us ensure that it is expressive, while also having room to grow."
+
+
+Héré nili kérima xéral izamimi, hére kogo lórumao tórumogo várigádingéréá sómudo, tilie vérimage xórumo spórumo
+héré ni-li ké-rim-a xé-ral i-sam-i-mi, hére ko-ko ló-rum-o-ERG vóru-kádi-héré-ú só-mu-t, ti-li-ERG vé-ri-ma-ke xó-rum-o spó-rum-o
+if 1SG-POSS calculation-NOM correct-ADJ INAN-be-EVID, when this language-NOM hit-FUT 88 sentence-NOM, 2SG-ERG see-FUT serious stuff-NOM
+"If my calculations are correct, when this language hits 88 sentences, you’re gonna see some serious shit."
+
+
+CL dórumadórumagoo tegee gérigéri véri kogoo lóruma férila idérimigeme.
+CL dóruma-dóruma-ko-ERG te-ke-ERG géri-géri véri ko-ko-o lóruma féri-la i-dérimi-ke-me
+CL student-PL-DEF-ERG PL.SUBJ-ERG friend-PL BEN this-DEF.NEAR language excited-ADJ INAN-share-FUT-DIR.EVID
+"The CL students are excited to share this language with their friends."
+
+
+Teli sélimi dénidénideli inérimidérimigeme, zéreni dórumadórumagoo tegee kávuru idézimimi.
+teli sélimi déni-déni-te-li i-nérimi-dérimi-ge-me, zéreni dóruma-dóruma-ko-ERG te-ke-ERG kávuru i-dézimi-mi
+1PL.POSS day class-PL-1PL.POSS-ELAT INAN-endure-finish-FUT-INFER.EVID, many student-PL-DEF-ERG PL.SUBJ-ERG coffee INAN-need-WIT
+"Many of the students need coffee to get through our day of classes."
+
+
+Sérimili teli xóronunu kómurugómuru ko tege zórumalu tógoru izamimi.
+sérimi-li teli xóronu-nu kómuru-gómuru ko te-ke zóruma-lu tógoru i-sami-mi
+study-ELAT 1PL.POSS field-INESS computer-PL 3PL.INAN PL.SUBJ important-ADJ tool INAN-be-WIT
+"Computers are an important tool in our field of study."
+
+
+Lórumada idárimigeme, ni tegee nérili téreni Aaruma ugóruamugomo ivézimimi há!
+lóruma-ta i-dárimi-ke-me, ni te-ke-ERG nérili téreni Aaruma i-góruamu-ke-me i-vézimi-mi há
+language-1PL.POSS INAN-grow-FUT-INFER, 1PL.INCL PL.SUBJ-ERG new-ADJ data Aaruma INAN-create-FUT-DIR INAN-want-WIT MIR
+"We want to create new Aaruma data to grow our language!"
+
+
+Tímee géni teli dénimi véreni ni agérimimi, hére kogo zúra sólurulu izamimi.
+tíme-ERG géni teli dénimi véreni ni a-gérimi-mi, hére ko-ko zúra sóluru-lu i-sami-mi
+2SG.FORMAL-ERG INSTR 1PL.POSS school project 1PL.INCL ANIM-help-WIT, and this very kind-ADJ INAN-be-WIT
+"You are helping us with our school project, and that is very kind."
+
+
+Kogo teli kórumu izamimi.
+ko-ko teli kórumu i-sami-mi
+this 1PL.POSS classroom INAN-be-WIT
+"This is our classroom."
+
+
+Zéreni dórumadórumagoo tegee sánomu ivézimimi.
+zéreni dóruma-dóruma-ko-ERG te-ke-ERG sánomu i-vézimi-mi
+many student-PL-DEF-ERG PL.SUBJ-ERG snack INAN-want-WIT
+"Many students want snacks."
+
+
+Zéreni dórumadórumagoo tegee nóturu idézimimi.
+zéreni dóruma-dóruma-ko-ERG te-ke-ERG nóturu i-dézimi-mi
+many student-PL-DEF-ERG PL.SUBJ-ERG notebook INAN-need-WIT
+"Many students need a notebook."
+
+
+Kómurugómuru ko tege hólurulu tógoru izamimi.
+kómuru-gómuru ko te-ke hóluru-lu tógoru i-sami-mi
+computer-PL 3PL.INAN PL.SUBJ helpful-ADJ tool INAN-be-WIT
+"Computers are helpful tools."
+
+
+Hére ni tegee izérimimi kege lórumalu, ni tegee nérili sórumu ugóruamugomo ivézimimi.
+hére ni te-ke-ERG i-sérimi-mi ke-ke lóruma-li, ni te-ke-ERG nérili sórumu i-góruamu-ke-me i-vézimi-mi
+while 1PL.INCL-PL.SUBJ-ERG INAN-learn-WIT this-ELAT language-ELAT 1PL.INCL-PL.SUBJ-ERG new-ADJ story INAN-create-FUT-DIR INAN-want-WIT
+"As we learn this language, we want to create a new story."
+
+
+Hére ni tegee izérimimi kege lórumalu, zéreni dórumadórumagoo tegee nérili sórumu ivézimimi.
+hére ni te-ke-ERG i-sérimi-mi ke-ke lóruma-li, zéreni dóruma-dóruma-ko-ERG te-ke-ERG nérili sórumu i-vézimi-mi
+while 1PL.INCL-PL.SUBJ-ERG INAN-learn-WIT this-ELAT language-ELAT many student-PL-DEF-ERG PL.SUBJ-ERG new-ADJ story INAN-want-WIT
+"As we learn this language, many students want new stories."
+
+
+Hére ni nili gérigéri tírimi kánaralu bóromumu, nie kogo uválumumu.
+hére ni ni-li géri-géri tírimi kánara-lu bóromu-mi, ni-e ko-ko i-fálumu-mi
+when 1SG 1SG-POSS friend-PL together karaoke-ILL go-WIT, 1SG-ERG this-DEF.NEAR INAN-enjoy-WIT
+"When I go to karaoke with my friends, I enjoy it."
+
+
+Mínirige nie idórumumu nili súmurunu lúzumumu.
+míniri-ko ni-o i-tórumu-mi ni-li súmuru-nu lúzumu-mu
+laptop-DEF.NEAR 1SG-ERG INAN-use-WIT 1SG-POSS bed-INESS charge-WIT
+"The laptop that I used charged in my bed."
+
+
+Dórumadórumagoo tegee uválumumu hére te múranulu fórumavórumalu bóromumu.
+dóruma-dóruma-ko-o te-ke-ERG i-fálumu-mi hére te múranu-lu fóruma-fóruma-lu bóromu-mi
+student-PL-DEF-ERG PL.SUBJ-ERG INAN-enjoy-WIT when 3PL.SUBJ free-ADJ event-PL-ILL go-WIT
+"The students enjoy when they go to free events."
+
+
+Sagúra kírimigírimi ko tege lúmuralu izamimi.
+sagúra kírimi-kírimi ko te-ke lúmura-lu i-sami-mi
+cherry flower-PL 3PL.INAN PL.SUBJ beautiful-ADJ INAN-be-WIT
+"Cherry blossoms are beautiful."
+
+
+Fúdurulu bórunulu vúlumugoo nólumulu bárumugo abúrumuvárumumu.
+fúduru-lu bórunu-lu vúlumu-ko-o nólumu-lu bárumu-ko a-púrumu-fárumu-mi
+quick-ADJ brown-ADJ fox-DEF-ERG lazy-ADJ dog-DEF.NEAR ANIM-jump-pass-WIT
+"The quick brown fox jumped over the lazy dog."
+
+
+Ni tegee dólumugomo, hére ni tegee dénidénili izérimidérimime.
+ni te-ke-ERG dólumu-ke-me, hére ni te-ke-ERG déni-déni-li i-sérimi-dérimi-me
+1PL.INCL PL.SUBJ-ERG ANIM-miss-FUT-DIR.EVID, when 1PL.INCL PL.SUBJ-ERG class-PL-ELAT INAN-study-finish-INFER.EVID
+"We will miss each other when we finish classes."
+
+
+Zéreni dórumadórumagoo tege dénidénili nérimige ivérimigeme.
+zéreni dóruma-dóruma-ko-o te-ke-ERG déni-déni-li nérimi-ko i-férumu-ke-me
+many student-PL-DEF-ERG PL.SUBJ-ERG class-PL-ELAT end-DEF.NEAR INAN-celebrate-FUT-DIR.EVID
+"Many students will celebrate the end of classes."
+
+
+Vánuguva vórumanu lúmuralu izamimi.
+Vánuguva vóruma-nu lúmura-lu i-sami-mi
+Vancouver spring-INESS beautiful-ADJ.INAN INAN-be-WIT
+"Vancouver is beautiful in spring."
+
+
+Ni tegee nérimili teli véreni ugóruamugomo ilímirime.
+ni te-ke-ERG nérimi-lu teli véreni i-góruamu-ke-me i-límiri-mi
+1PL.INCL PL.SUBJ-ERG final-ADJ.INAN 1PL.POSS project INAN-create-FUT-DIR.EVID INAN-look.forward.to-WIT
+"We look forward to completing our capstone projects."
+
+
+Dórumadórumagoo tege zómurugolu lízera tórunudórunu izámine, górumula izamimi.
+dóruma-dóruma-ko te-ke zómuru-ko-lu lízera tórunu-tórunu i-sami-ne-mi, górumu-la i-sami-mi
+student-PL-DEF PL.SUBJ week-DEF-ILL OBJ.NEG quiz-PL INAN-be-NEG-WIT, grateful-ADJ.ANIM INAN-be-WIT
+"The students are grateful, as next week there are no quizzes."
+
+
+Kogo teli pánuru izamimi.
+ko-ko teli pánuru i-sami-mi
+this 1PL.POSS library INAN-be-WIT
+"This is our library."
+
+
+Zéreni dórumadórumagoo tegee móluru idézimimi.
+zéreni dóruma-dóruma-ko-ERG te-ke-ERG móluru i-dézimi-mi
+many student-PL-DEF-ERG PL.SUBJ-ERG dictionary INAN-need-WIT
+"Many students need a dictionary."
+
+
+Hére ni tegee izérimimi kege lórumalu, ni tegee nérili mánaru ugóruamugomo ivézimimi.
+hére ni te-ke-ERG i-sérimi-mi ke-ke lóruma-li, ni te-ke-ERG nérili mánaru i-góruamu-ke-me i-vézimi-mi
+while 1PL.INCL-PL.SUBJ-ERG INAN-learn-WIT this-ELAT language-ELAT, 1PL.INCL-PL.SUBJ-ERG new-ADJ song INAN-create-FUT-DIR INAN-want-WIT
+"As we learn this language, we want to create a new song."
+
+
+Hére ni nili gérigéri tírimi pánurulu bóromumu, nie kogo rélumu uválumumu.
+hére ni ni-li géri-géri tírimi pánuru-lu bóromu-mi, ni-e ko-ko rélama i-fálumu-mi
+when 1SG 1SG-POSS friend-PL together library-ILL go-WIT, 1SG-ERG this poem INAN-enjoy-WIT
+"When I go to the library with my friends, I enjoy this poem."
+
+
+Héré tímee ni agérimimi, kogo déni sélurulu izamimi.
+héré tíme-ERG ni a-gérimi-mi, ko-ko déni séluru-lu i-sami-mi
+if 2SG.FORMAL-ERG 1PL.INCL ANIM-help-WIT, this class easy-ADJ INAN-be-WIT
+"If you help us, this class is easier."
+
+
+Nie lizerage bórumu agóruamuzuzumu, hére tege inázimine.
+ni-e lízera-ko bórumu a-góruamu-su-su-mi, hére te-ke i-názimi-ne
+1SG-ERG OBJ-DEF offer ANIM-create-CAUS-CAUS-WIT, and 3SG-ERG INAN-refuse-NEG
+"I made him an offer he couldn't refuse."
+
+
+Lízera i-tálimi-mi ni-e tíme-ko xéliri i-sami-mi, vérizi-li nili.
+lízera i-tálimi-mi ni-e tíme-ko xéliri i-sami-mi, vérizi-li ni-li
+what INAN-speak-WIT 1SG-ERG 2SG.FORMAL-DEF true INAN-be-WIT, point.of.view-ELAT 1SG-POSS
+"What I told you was true, from my point of view."
+
+
+Kege donubánulu izamimi há!
+ke-ke donupánu-lu i-sam-i-mi há
+this-DEF.NEAR museum-ILL INAN-be-PRES-WIT MIR
+"This belongs in a museum!" (Literal: "This is into the museum, wow!")
+
+
+Kogo múrumúru múranulu izamimi; bóħrunu múrumúru: sóluma múrunu tírimi.
+ko-ko múru-múru múranu-lu i-sami-mi; bóhrunu múru-múru: sóluma múru-nu tírimi
+3SG.INAN-DEF.NEAR eye-PL lifeless-ADJ INAN-be-WIT; black eye-PL; doll eye-INESS like
+"It has lifeless eyes; black eyes: like a doll's eyes."
+
+
+Ni hérege izamige.
+ni hére-ko i-sami-ke
+1SG now-DEF.NEAR INAN-be-FUT
+"I'll be right here." (Literally: "I now-at-this-spot will-be.")
+
+
+Xérali, nili férigéri, nie kérimne udórumunomu!
+xérali, ni-li férigéri, ni-e kérim-ne i-tórumu-ne-mi
+frankly, 1SG-POSS beloved, 1SG-ERG damn-NEG INAN-give-NEG-WIT
+"Frankly, my dear, I don't give a damn!"
+
+
+Nididegee kege spórumu ibérimidérimimi, hére súmuralu bóromumu!
+ni-ti-te-ke-e ke-ke spórumu i-périmi-dérimi-mi, hére súmura-lu bóromu-mi
+1.INCL-3-PL-SUBJ-ERG this-DEF.NEAR stuff INAN-blow-finish-WIT, and home-ILL go-WIT
+"Let's blow this thing and go home!"
+
+
+Hérege nie tímege ivérimami, dórumulu.
+hére-ko ni-e tíme-ko i-vérima-mi, dórumu-li
+here-DEF.NEAR 1SG-ERG 2SG.FORMAL-DEF INAN-look-WIT, kid-1SG.POSS
+"Here's looking at you, kid." (Literal: "Right here I look at you, my kid.")
+
+
+Sami hére samine -- kogo sélima
+sami hére sami-ne -- ko-ko sélima
+to.be or to.be-NEG -- this-DEF.NEAR rule/question
+"To be or not to be -- that is the question."
+
+
+Sélimi, glé, bóronu ivéridérimimi.
+sélimi, glé, bóronu i-véri-dérimi-mi
+life, [filler], way INAN-see-finish-WIT
+"Life, uh, finds a way."
+
+
+Teli zúradórumazuradórumagoo, uvárumu hére uvárumunomu zúra idézimimi, tene izéraline nérimi héré tege idézimimi.
+teli zúradóruma-zuradóruma-ko-o, i-fárumu hére i-fárumu-ne-mi zúra i-dézimi-mi, te-ne i-sérali-ne nérimi héré te-ke idézimimi
+2PL.POSS scholar-PL-DEF-ERG, INAN-can or INAN-can-NEG-WIT very INAN-need-WIT, 3PL.SUBJ-NEG INAN-reflect-NEG stop if 3PL.SUBJ-ERG INAN-should-WIT
+"Your scientists were so preoccupied with whether or not they could, they didn't stop to think if they should."
+
+
+Nérimidérima múranuzómudo mógozólumu, zúra férimala izamimi; mógo udólumumu, mógogo adólumumu.
+nérimidérima múranusómut-o mógo-sélimi, zúra férimala i-sami-mi; mógo i-dólumu-mi, mógo-ko a-dólumu-mi
+vestal pure-POSS world-fate, very happy INAN-be-WIT; world INAN-forget-WIT, world-DEF ANIM-forget-WIT
+"How happy is the blameless vestal's lot; the world forgetting, by the world forgot."
+
+
+Teo názaluzo lúmuralu kírimi fórumalu uválumumu.
+te-o názaluzo lúmura-lu kírimi fóruma-lu u-fálumu-mi 3
+SG-ERG dance beautiful-ADJ flower event-ILL INAN-enjoy-WIT
+"She enjoyed dancing at the beautiful flower event."
+
+
+Vórumanu zeħrisni ishíynimi, hére lúmuralu izamimi.
+vóruma-nu zeħris-nu i-shíyni-mi, hére lúmura-lu i-sami-mi s
+pring-INESS mountain-INESS INAN-rain-WIT, and beautiful-ADJ INAN-be-WIT
+"In spring, it rains on the mountain, and it is beautiful."
+
+
+Hére nili gérigéri kánaralu bóromumu, nie pánurunu ielirízimimi.
+hére ni-li géri-géri kánara-lu bóromu-mi, ni-e pánuru-nu i-elirízimi-mi 
+while 1SG-POSS friend-PL karaoke-ILL go-WIT, 1SG-ERG library-INESS INAN-read-WIT
+"I read in the library while my friends went to karaoke."
+
+
+Nie nili dénidéni idérimimi, ni xórughuralu izamimi, hére nie órumo ivézimimi.
+ni-e ni-li déni-déni i-dérimi-mi, ni xórughura-lu i-sami-mi, hére ni-e órumo i-vézimi-mi 
+1SG-ERG 1SG-POSS class-PL INAN-finish-WIT, 1SG proud-ADJ INAN-be-WIT, but 1SG-ERG sleep INAN-want-WIT
+"I am proud that I finished my classes, but I want to sleep."
+
+
+Hére Vánuguvanu ijíynimi, ni nili súmurunu aóromomu.
+hére Vánuguva-nu i-shíyni-mi, ni ni-li súmuru-nu a-órumo-mi 
+when Vancouver-INESS INAN-rain-WIT, 1SG 1SG-POSS bed-INESS ANIM-sleep-WIT
+"When it rains in Vancouver, I sleep in my bed."
+
+
+Bóhrunu hárumago xóronuzámlu fudubóromumu, hére tórumodórumago abóromumu.
+bóhrunu háruma-ko xóronu-sám-lu fudu-bóromu-mi, hére tórumo-dóruma-ko a-bóromu-mi
+black man-DEF.NEAR desert-ILL quick-go-WIT, and hit-scholar-DEF.NEAR ANIM-go-WIT
+"The man in black fled across the desert, and the gunslinger followed."
+
+
+Mózugo, hére kádingéreí várivárili nériminedérimigeme — héré nérimigeme — ielirízimimi nie ufárumumu, héré lédali púda némimi xálonu shíynimi zíradárimimi uvózumu.
+mózu-ko, hére kádi-hére-ú vári-vári-lu nérimi-ne-dérimi-ke-me — héré nérimi-ke-me — i-elirízimi-mi ni-e i-fárumu-mi, héré léda-li púda némi-mi xálo-nu shíynimi zúra-dárimi-mi i-vózu-mi
+terror-DEF.NEAR, while score-and-eight year-ILL end-NEG-finish-FUT-INFER — if end-FUT-INFER — INAN-read-WIT 1SG-ERG INAN-can-WIT, with paper-ELAT boat float-WIT gutter-INESS rain very-grow-WIT INAN-begin-WIT
+"The terror, which would not end for another twenty-eight years — if it ever did end — began, so far as I know or can tell, with a boat made from a sheet of newspaper floating down a gutter swollen with rain."
+
+
+Dursluy máguzu hére Dursluy mágizi, vóru kérimini Privet Driveshni, xórughuralu idálimimi te tege zúra sólumalu izamimi, tímee teli gérimi zúra.
+Dursley máguzu hére Dursley mágizi, vóru kérimi-nu Privet Drive-nu, xórughura-lu i-tálimi-mi te te-ke zúra sóluma-lu i-sami-mi, tíme-e teli gérimi zúra
+Dursley Mr. and Mrs., four number-INESS Privet Drive-INESS, proud-ADJ INAN-speak-WIT 3PL PL.SUBJ very normal-ADJ INAN-be-WIT, 2SG.FORMAL-ERG 1PL.POSS help very
+"Mr. and Mrs. Dursley, of number four, Privet Drive, were proud to say that they were perfectly normal, thank you very much."
+
+
+Zérenirili férimala númagoo tege sámili izamimi; zérenirili férine núma vérizili nili férine izamimi.
+zéreni-lu férimala núma-ko-o te-ke sámi-lu i-sami-mi; zéreniri-lu férine núma vérizi-li ni-li férine i-sami-mi
+all-ADJ happy family-DEF-PL 3PL-PL.SUBJ same-ADJ INAN-be-WIT; each-ADJ unhappy family way-ELAT 3SG-POSS unhappy INAN-be-WIT
+"All happy families are alike; each unhappy family is unhappy in its own way."
+
+
+Pozélimi dénidénili séradimi há!
+po-sélimi déni-déni-li séradi-mi há
+DUAL-day class-PL-ELAT REFL-remain-WIT MIR
+"Only 2 days of classes left!"
+
+
+Teli dóruva márali unórumugomo.
+teli dóruva márali i-nórumu-ke-me
+1PL.POSS program soon INAN-end-FUT-DIR.EVID
+"Our program will end soon."
+
+
+Hére ni kege dóruvanu izamimi, nie línenili tírimi kómurulu izérimimi.
+hére ni ke-ke dóruva-nu i-sami-mi, ni-e líneni-li tírimi kómuru-li i-sérimi-mi
+while 1SG this-DEF.NEAR program-INESS INAN-be-WIT, 1SG-ERG linguistics-ELAT also computer-ELAT INAN-learn-WIT
+"While I was in this program, I learned about linguistics and computers."
+
+
+Hére teli dóruva unórumugomo, nie nérivárini kege dérivali sérimi udórumumu ivézimimi.
+hére teli dóruva i-nórumu-ke-me, ni-e nérivári-nu ke-ke dériva-li sérimi i-tórumu-mi i-vézimi-mi
+when 1PL.POSS program INAN-end-FUT-DIR.EVID, 1SG-ERG future-INESS this-DEF.NEAR program-ELAT learning INAN-use-WIT INAN-want-WIT
+"When this program ends, I want to use my learning from this program in the future."
+
+
+Garrette géni ni tegee zérani agérimimi, hére kogo zúra sólurulu izamimi.
+Garrett-e géni ni te-ke-ERG zérani a-gérimi-mi, hére ko-ko zúra sólurulu i-sami-mi
+Garrett-ERG BEN 1PL.INCL PL.SUBJ-ERG always ANIM-help-WIT, and this-DEF.NEAR very kind INAN-be-WIT
+"Thank you, Garrett, for always helping us."
+
+
+Máguzúragoo teli Ha Ha Land tóralu ivérimami, ni zúra férimala izamimi, há!
+máguzúra-ko-o teli Ha Ha Land tóralu i-vérima-mi, ni zúra férimala i-sami-mi há
+President-DEF-ERG 1PL.POSS Ha Ha Land video INAN-see-WIT, 1SG very happy INAN-be-WIT MIR
+"The President saw our Ha Ha Land video, and I am very happy, wow!"
+
+
+Kogo márunu nérili izamimi.
+ko-ko márunu nérili i-sami-mi
+this-DEF.NEAR market new-ADJ INAN-be-WIT
+"This market is new."
+
+
+Hére ni nili gérigéri tírimi márunulu bóromumu, nie téziri ufálumumu.
+hére ni ni-li géri-géri tírimi márunu-lu bóromu-mi, ni-e téziri i-fálumu-mi
+when 1SG 1SG-POSS friend-PL together market-ILL go-WIT, 1SG-ERG tea INAN-enjoy-WIT
+"When I go to the market with my friends, I enjoy tea."
+
+
+Hére Vánuguvanu ishíynimi, zárunu imézimimi.
+hére Vánuguva-nu i-shíyni-mi, zárunu i-mézimi-mi
+when Vancouver-INESS INAN-rain-WIT, river INAN-flow-WIT
+"When it rains in Vancouver, the river flows."
+
+
+Dórumadórumagoo tegee rázumu ielirízimimi.
+dóruma-dóruma-ko-o te-ke-ERG rázumu i-elirízimi-mi
+student-PL-DEF-ERG PL.SUBJ-ERG letter INAN-read-WIT
+"The students read the letter."
+
+
+Bálurugo zárununu lúmuralu izamimi.
+báluru-ko zárunu-nu lúmura-lu i-sami-mi
+bridge-DEF.NEAR river-INESS beautiful-ADJ INAN-be-WIT
+"The bridge in the river is beautiful."
+
+
+Hére nie nili pórunugo ukázumumu, ni pánurulu bóromumu.
+hére ni-e ni-li pórunu-ko i-kázumu-mi, ni pánuru-lu bóromu-mi
+when 1SG-ERG 1SG-POSS bicycle-DEF.NEAR INAN-repair-WIT, 1SG library-ILL go-WIT
+"After I repair my bicycle, I go to the library."
+
+
+Kúrumuvórumanu sélimi férimili ħórumu izamimi, hére sólunudógoruzólunudógorugoo hálu udórumummo.
+kúrumuvóruma-nu sélimi férimili ħórumu i-sami-mi, hére sólunudógoru-sólunudógoru-ko-o hálu i-tórumu-m-me
+flower.spring-INESS day bright-ADJ cold-ADJ INAN-be-WIT, and clock-DEF-ERG thirteen INAN-hit-WIT-INFER
+"It was a bright cold day in April, and the clocks were striking thirteen."
+
+
+Dórumudórumagoo Vánuguvanu pánurunu kómuru ubálumumu, hére zúra férimala izamimi.
+dórumu-dórumu-ko-o Vánuguva-nu pánuru-nu kómuru i-pálumu-mi hére zúra férimala i-sami-mi
+kid-PL-DEF-ERG Vancouver-INESS library-INESS computer INAN-play-WIT and very happy INAN-be-WIT
+"The children play on the computer in the library in Vancouver, and they are very happy."
+
+
+Zéreni dórumadórumagoo tegee dénimini tórunudórunu ibérimimi, hére sérimi hélurulu izamimi.
+zéreni dóruma-dóruma-ko-o te-ke dénimi-nu tórunu-tórunu i-périmi-mi hére sérimi hélirili i-sami-mi
+many student-PL-DEF-ERG PL.SUBJ-ERG school-INESS quiz-PL INAN-review-WIT and learning efficient INAN-be-WIT
+"Many students review quizzes at school, and learning is efficient."
+
+
+Hére máguzúrago donubánunu uzólumumu, zéreni nárumanárumagoo tegee máguzúrago avérimami.
+hére máguzúra-ko donubánu-nu i-sólumu-mi zéreni náruma-náruma-ko-o te-ke máguzúra-ko a-vérima-mi 
+when president-DEF.NEAR museum-INESS INAN-sit-WIT many person-PL-DEF-ERG PL.SUBJ-ERG president-DEF.NEAR ANIM-see-WIT
+"When the President sits in the museum, many people look at him."
+
+
+Nárumanárumagoo tegee kávuru hére téziri zérani inízimimi, hére tege aórumumu ufárumunemu.
+náruma-náruma-ko-o te-ke káfuru hére tésiri zérani  i-nízimi-mi hére te-ge a-órumo-mi i-fárumu-ne-mi 
+person-PL-DEF-ERG PL.SUBJ-ERG coffee and tea always INAN-drink-WIT and 3PL.SUBJ ANIM-sleep-WIT INAN-can-NEG-WIT
+"People always drink coffee and tea, and cannot sleep."
+
+
+Héré sélimi ufálumumu hére zéreni aórumumu, zérimi imérimimi.
+héré sélimi i-fálumu-mi hére zéreni a-órumo-mi zérimi i-mérimi-mi
+if life INAN-enjoy-WIT and much/a lot ANIM-sleep-WIT energy INAN-recover-WIT
+"If you enjoy life and sleep a lot, you regain energy"
+
+
+Hére teli dóruva unórumugomo, teli dórumadórumagoo tegee nérivárini dávuru igélimigeme ivézimimi.
+hére teli dóruva i-nórumu-ke-me, teli dóruma-dóruma-ko-o te-ke-ERG nérivári-nu dávuru i-kélimi-ke-me i-vézimi-mi
+when 1PL.POSS program INAN-end-FUT-DIR.EVID, 1PL.POSS student-PL-DEF-ERG PL.SUBJ-ERG future-INESS job INAN-find-FUT-DIR.EVID INAN-want-WIT
+"When our program ends, we want our students to find jobs in the future."
+
+
+Ni tegee nérimili teli véreni géni nérili mázumu ugóruamugomo ivézimimi.
+ni te-ke-ERG nérimili teli véreni géni nérili mázumu i-góruamu-ke-me i-vézimi-mi
+1PL.INCL PL.SUBJ-ERG final-ADJ 1PL.POSS project BEN new-ADJ model INAN-create-FUT-DIR.EVID INAN-want-WIT
+"We want to create a new model for our capstone project."
+
+
+Kege dóruvanu, kómurugómuru ko tege hólurulu tógoru izamimi.
+ke-ke dóruva-nu, kómuru-gómuru ko te-ke hóluru-lu tógoru i-sami-mi
+this-DEF.NEAR program-INESS, computer-PL 3PL.INAN PL.SUBJ helpful-ADJ tool INAN-be-WIT
+"In this program, computers are helpful tools."
+
+
+Hére teli dénidénili izérimidérimime, zéreni dórumadórumagoo tegee tírimi ufórumugomo.
+Segmentation: hére teli déni-déni-li i-sérimi-dérimi-me, zéreni dóruma-dóruma-ko-o te-ke-ERG tírimi i-fórumu-ke-me
+Gloss: when 1PL.POSS class-PL-ELAT INAN-study-finish-INFER.EVID, many student-PL-DEF-ERG PL.SUBJ-ERG together INAN-celebrate-FUT-DIR.EVID
+"When our classes are finished, many students will celebrate together."
+
+
+Héré ni tegee tírimi agérimimi, nérimili teli véreni térimi imélimigeme.
+héré ni te-ke-ERG tírimi a-gérimi-mi, nérimili teli véreni térimi i-mélimi-ke-me
+if 1PL.INCL PL.SUBJ-ERG together ANIM-help-WIT, final-ADJ 1PL.POSS project goal INAN-achieve-FUT-DIR.EVID
+"If we help each other, our capstone project will achieve its goal."
+
+
+Nili vólumunu súnaru ivérimami.
+ni-li vólumu-nu súnaru i-vérima-mi
+1SG-POSS window-INESS snow INAN-see-WIT
+I see snow in my window.
+
+
+Hére ni nili pórunugo ugázumumu, ni márugulu bóromumu.
+hére ni ni-li pórunu-ko i-kázumu-mi, ni márugu-lu bóromu-mi
+when 1SG 1SG-POSS bicycle-DEF repair-WIT, 1SG road-ILL go-WIT
+"After I repair my bicycle, I go onto the road."
+
+
+Teli pánurunu dórunu lúmuralu izamimi.
+teli pánuru-nu dórunu lúmuralu i-sami-mi
+1PL.POSS library-INESS lamp beautiful-ADJ INAN-be-WIT
+"The lamp in our library is beautiful."
+
+
+Héré tímee ni agérimimi, nili límeri ufálumumu.
+héré tíme-e ni a-gérimi-mi, ni-li límeri i-fálumu-mi
+if 2SG-ERG 1SG help-WIT, 1SG-POSS music enjoy-WIT
+"If you help me, I enjoy my music."
+
+
+Nili dórumu hérege dórununu aórumomu há!
+ni-li dórumu hérege dórunu-nu a-órumo-mi há
+1SG-POSS child here lamp-INESS ANIM-sleep-WIT MIR
+"My child is sleeping here by the lamp, wow!"
+
+
+Pólurula túrumugo félirini izamimi.
+póluru-la túrumu-ko féliri-nu i-sami-mi
+small-ADJ.ANIM bird-DEF.NEAR sky-INESS INAN-be-WIT
+"The small bird is in the sky."
+
+
+Nie zérani pórumubórumu sórulunu uzórumumu.
+ni-e zérani pórumu-pórumu sórulu-ni i-zórumu-mi
+1SG-ERG always stranger-PL kindness-INESS INAN-depend-WIT
+"I have always depended on the kindness of strangers."
+
+
+Héré vórumanu izamimi, nie Vánuguvalu bóromugomo ivézimimi.
+héré vóruma-nu i-sami-mi ni-e Vánuguva-lu bóromu-ke-me i-vézimi-mi
+if spring-INESS INAN-be-WIT 1SG-ERG Vancouver-ILL go-FUT-DIR INAN-want-WIT
+"If it is spring, I want to go to Vancouver."
+
+
+Hére nili gérie rélama inárumimi, dórumadórumagoo tegee vóruzila izamimi.
+hére ni-li géri-e rélama i-nárumi-mi dóruma-dóruma-ko-o te-ke-ERG vóruza-la i-sami-mi
+when 1SG-POSS friend-ERG poem INAN-write-WIT student-PL-DEF-ERG PL.SUBJ-ERG surprised-ADJ.ANIM INAN-be-WIT
+"When my friend wrote a poem, the students were surprised."
+
+
+Sélimi ubárumamu. Dóramudóramu, sélimi ubárumamu. Teli múranumúranu zóruzilu izamizimi.
+sélimi i-páruma-mi dóramu-dóramu sélimi i-párumi-mi te-li múranu-múranu zóraza-lu i-sami-su-mi
+day INAN-seize-WIT boy-PL day INAN-seize-WIT 2PL.POSS life-PL extraordinary-ADJ.INAN INAN-be-CAUS-WIT
+"Seize the day. Boys, seize the day. Make your lives extraordinary."
+
+
+Zúradórumago nórama izélimivélimimi, nérili lóruma ugóruamugomo ivézimimi.
+zúradóruma-ko zérani i-sélimivélimi-mi nérili lóruma i-góruamu-ke-me i-vézimi-mi
+scholar-DEF.NEAR always INAN-daydream-WIT new-ADJ language INAN-create-FUT-DIR INAN-want-WIT
+"The scholar who always daydreams wants to create a new language."
+
+
+Héré zúradórumago mégevélami idárimimi, mógoo nérili lóruma izérimigeme.
+héré zúradóruma-ko mégevélami i-dárimi-mi mógo-o nérili lóruma i-sérimi-ke-me
+if scholar-DEF.NEAR ambition INAN-grow-WIT world-ERG new-ADJ language INAN-learn-FUT-DIR
+"If the scholar's ambition grows, the world will learn a new language."
+
+
+Vérima há! Doygo po píza po tórumubu, ni Doynu lízera fálumuno, hére po!
+vérima há! Doygo po píza po tórumu-bi, ni Doy-ni lízera fálumu-no, hére po!
+look MIR! Doughy-ERG two pizza two give-FUT-INDIR.CAUS-WIT, 1SG Doughy-NEG OBJ.NEG like-NEG, but two!
+"Look! Doughy’s is having two-for-one pizza; I don't like Doughy’s, but two!"
+
+
+Swidige tóralugóruama míranunérili zéreni tóralutóralu ugóruamumu.
+Swidi-go tóralu-góruama míraninéri-li zéreni tóralu-tóralu i-góruamu-mi
+Swidi-ERG video-creator life-end-ELAT many video-video INAN-create-WIT
+"The Swedish director makes a lot of movies about death."
+
+
+Mázumugo túrumu adárumumu.
+mázumu-go túrumu a-dárumu-mi
+cat-ERG bird ANIM-chase-WIT
+"The cat chases the bird."
+
+
+Pobárumubo nólumulu mázumugo abúrumuvárumumu.
+po-bárumu nólumu-lu mázumu-ko-o a-púrumu-fárumu-mi
+dog-dog two lazy-ADJ cat-DEF-ERG ANIM-jump-pass-WIT
+"Two dogs jump over the lazy cat."
+
+
+Mázumugo lúmuralu kírimidógorulu uvárumumu.
+mázumu-go lúmura-lu kóramudógoru-lu i-fárumu-mi
+cat-ERG beautiful-ADJ tree-ILL INAN-climb-WIT
+"The cat climbed into the beautiful tree."
+
+
+Bárumugo mázumunu lízera fálumuno, shingére mázumugo bárumunu lízera fálumuno.
+Segmentation: bárumu-go mázumu-nu lízera fálumu-no, shi-hére mísumu-go bárumu-nu lízera fálumu-no
+dog-ERG cat-NEG OBJ.NEG like-NEG, REC-and cat-ERG dog-NEG OBJ.NEG like-NEG
+"The dog does not like the cat, and the cat does not like the dog."
+
+
+Nulórada kérimimi.
+ni-lóra-da kérimi-mi
+1SG-hand-INALIEN ache-WIT
+"My hand hurts."
+
+
+Dórumago néride udórumodórumamu.
+dóruma-ko néri-te i-tórumo-dérimi-mi
+student-ERG leg-3SG.INALIEN INAN-hit-finish-WIT
+"The student broke his leg."
+
+
+Ni teli múranuzómudoshmúranuzómudoshda vóruma angáramami.
+Segmentation: ni te-li múranuzómut-múranuzómut-da vóruma a-árama-mi
+1PL.INCL PL.POSS heart-INALIEN-PL spring ANIM-welcome-WIT
+"Our hearts welcome the spring."
+
+
+Tímege lúmuralu pomúrudo izérimimi.
+tíme-ke lúmura-lu múru-múru-te i-sérimi-mi
+2SG.FORMAL-ERG beautiful-ADJ DU-eye-2SG.INALIEN INAN-ensure-WIT
+"You have (ensure/possess) beautiful eyes."
+
+
+Nie lúmuralu kírimigírimi vórumanu igérimimi.
+ni-e lúmura-lu kírimi-kírimi vóruma-nu i-kérimi-mi
+1SG-ERG beautiful-ADJ flower-PL spring-INESS INAN-count-WIT
+"I am counting the beautiful flowers in the spring."
+
+
+Kórumunu kádingérenáni dórumadóruma izamimi.
+kórumu-nu kádi-hére-náni dóruma-dóruma i-sami-mi
+classroom-INESS twenty-and-five student-PL INAN-be-WIT
+"There are 25 students in the classroom."
+
+
+Zúradórumagoo pánurunu pogádingérebe mólurumóluru upárumamu.
+zúradóruma-ko-o pánuru-nu po-kádi-hére-po móluru-móluru i-páruma-mi
+scholar-DEF-ERG library-INESS two-twenty-and-two book-PL INAN-possess-WIT
+"The scholar has forty-two books in the library."
+
+
+Ni tegee nérili vérenili vézi kómurugómuru idézimimi.
+ni te-ke-ERG nérili véreni-li vézi kómuru-kómuru i-dézimi-mi
+1PL.INCL-PL.SUBJ-ERG new project-ELAT ten computer-PL INAN-need-WIT
+"We need ten computers for the new project."
+
+
+Héré tímee ni ú sánomu udórumubu, ni zúra férimala izamigemi há!
+héré tíme-e ni ú sánomu i-tórumu-bi ni zúra férimala i-sami-ke-mi há
+if 2SG.FORMAL-ERG 1SG eight snack INAN-give-BEN 1SG very happy INAN-be-FUT-WIT MIR
+"If you give me eight snacks, I will be very happy!
+
+
+Dárumodórumagoo vórumanu ú vúlumuvúlumu adárumumu.
+dárumo-dóruma-ko-o vóruma-nu ú vúlumu-vúlumu a-dárumu-mi
+chase-scholar-DEF-ERG spring-INESS eight fox-PL ANIM-chase-WIT
+"The hunter chased eight foxes in the spring."
+
+
+Dárumodórumagoo vézi tógorudógoru idézimimi túrumu igélimigeme.
+dárumo-dóruma-ko-o vézi tógoru-tógoru i-dézimi-mi túrumu i-kélimi-ke-me
+chase-scholar-DEF-ERG ten tool-PL INAN-need-WIT bird INAN-find-FUT-INFER
+"The hunter needs ten tools to find the bird."
+
+
+Dárumodórumagoo xóronunu vézingérenáni tórunudórunu udórumodórumami.
+dárumo-dóruma-ko-o xóronu-nu vézi-hére-náni tórunu-tórunu i-tórumo-dérimi-mi
+chase-scholar-DEF-ERG field-INESS ten-and-five target-PL INAN-hit-finish-WIT
+"The hunter hit fifteen targets in the field."
+
+
+Kogo dóruma lórumalóruma idálimimi; tege gérimi idérimi idézimimi.
+ko-ko dóruma lóruma-lóruma i-tálimi-mi; te-ke gérimi i-dérimi i-dézimi-mi
+this-DEF student long-long INAN-speak-WIT; 3SG-ERG project INAN-finish INAN-need-WIT
+"This student is chattering; they need to finish the project."
+
+
+Xérali, ni hére kávuruzúra izamimi.
+xérali, ni hére kávuru-zúra i-sami-mi
+frankly, 1SG now coffee-very INAN-be-WIT
+"Frankly, I am very caffeinated now."
+
+
+Tímege sánimunáru izamimi lú?
+tíme-ke sánomu-nári i-sami-mi lú
+2SG.FORMAL-ERG snack-person INAN-be-WIT [POLAR]
+"Are you just here for the snacks?"
+
+
+Dórumago zérimidérimazérimidérimali izamimi hére zérani órumo ivézimimi.
+dóruma-ko zérimidérima-zérimidérima-lu i-sami-mi hére zérani órumo i-vézimi-mi
+student-DEF.NEAR energy.finish-energy.finish-ADJ INAN-be-WIT and always sleep INAN-want-WIT
+"The student is habitually tired and always wants to sleep."
+
+
+Teli zúramáguzúrazúramáguzúra sólurusólurulu izamimi; tege zúragérizúragéri izamimi.
+teli zúra-máguzúra-zúra-máguzúra sóluru-sóluru-lu i-sami-mi; te-ke zúra-géri-zúra-géri i-sami-mi
+1PL.POSS scholar-president-plural kind-kind-ADJ INAN-be-WIT; 3SG-DEF.NEAR scholar-friend-PL INAN-be-WIT
+"Our professors are habitually kind; they are friendly teachers."
+
+
+Kogo kómuru hólurungólurulu izamimi hére kogo kérimoshtórumodóruma izamimi lú?
+ko-ko kómuru hóluru-hóluru-lu i-sami-mi hére ko-ko kérim-tórumo-dérimi i-sami-mi lú
+this-DEF computer helpful-helpful-ADJ INAN-be-WIT or this-DEF damn-hit-finish INAN-be-WIT [POLAR]
+"Is this computer habitually helpful or is it a nuisance?"
+
+
+Xórumoghórumo dárumodórumago kánaralu lízerani uválumuno.
+xórumo-xórumo dárumo-dóruma-ko kánara-lu lízera-ni u-fálumu-no
+serious-serious chase-scholar-DEF.NEAR karaoke-ILL OBJ-NEG INAN-enjoy-NEG
+"The habitually serious hunter doesn't enjoy the karaoke."
+
+
+Máguzúrazóronaragee xélirili súnaruzánomulu máguzúrazóronara izamimi!
+máguzúra-zéreniri-ko-o xéliri-lu súnaru-sánomu-li máguzúra-zéreniri i-sami-mi
+leader.honoured-all-DEF-ERG only-ADJ.INAN snow-snack-ELAT leader.honored-all INAN-be-WIT
+"The only emperor is the emperor of ice cream!"
+
+
+Xánadunu Kúblay Kángo máguzulu fálimaspíra tálimidérimimi.
+Xánadu-nu Kúblay-Kán-ko-o máguzulu fálumu-spíra tálimi-dérimi-mi
+Xanadu-INESS Kublai-Khan-DEF-ERG stately enjoy-room speak-finish-WIT
+"In Xanadu did Kublai Khan, a stately pleasure-dome decree."
+
+
+Nímeragoo bílega nímerage bílegami.
+nímera-ko-o bílega nímera-ko bílega-mi
+fish-DEF-ERG fish fish-DEF fish-WIT
+"Fish fish fish, fish fish."
+
+
+Aarumagoo Esperántali zúra fárumudárumumu!
+Aaruma-ko-o Esperánta-li zúra fárumu-dérimi-mi
+Aruma-DEF-ERG Esperanto-ELAT very pass-finish-WIT
+"Aaruma significantly surpasses Esperanto!"
+
+
+Kérimeshdérimagoo kérimeshli sériminizéradarima izamimi.
+kérim-dóruma-ko-o kérim-u-lu sérimini-zéradarima i-sami-mi
+calculation-scholar-DEF-ERG calculation-ADJ.INAN scholar INAN-be-WIT
+"A mathematician is a numerical scientist."
+
+
+Nie sádumu zámirizélimini vézi kílimiri fúramu arúzamumu.  
+ni-e sádumu zómuru-sélimi-nu vézi kílimiri fúramu a-rúzamu-mu  
+1SG-ERG last week-day-INESS ten kilometre race ANIM-run-WIT  
+"I ran a 10 kilometre race last weekend."  
+
+
+Nie múrudógorugo géni túrumugo avérimami.  
+ni-e múru-tógoru-ko géni túrumu-ko a-vérima-mu  
+1SG-ERG eye-tool-DEF INSTR bird-DEF ANIM-see-WIT  
+"I saw a bird with my binoculars."  
+
+
+Nili gérigee, náni várivárini nie azárumomu, nórumu sélimivárini anúmazamugomo.  
+ni-li géri-ko-o, náni vári-vári-nu ni-e a-zárumo-mu, nórumu sélimi-vári-nu a-númazamu-ke-me  
+1SG-POSS friend-DEF-ERG five year-PL-INESS 1SG-ERG ANIM-know-WIT next day-year-INESS ANIM-marry-FUT-DIR.EVID  
+"My friend, who I have known for five years, is getting married next month."  
+
+
+Sólunulu górumu izamimi, sólunulu mórumu izamimi, vórunulu zárumu izamimi, vórunulu bóruno izamimi, vórunulu xórumu izamimi, vórunulu xórumono izamimi, tóruvorulu mili izamimi, tóruvorulu miline izamimi, vórumalú góruma izamimi, ħórumuvórumalú górumano izamimi.  
+sólunu-lu górumu i-sami-mi, sólunu-lu mórumu i-sami-mi, vórunu-lu zárumu i-sami-mi, vórunu-lu bóruno i-sami-mi, vórunu-lu xórumu i-sami-mi, vórunu-lu xórumu-no i-sami-mi, tóruvoru-lu mili i-sami-mi, tóruvoru-lu mili-ne i-sami-mi, vóruma-lu góruma i-sami-mi, ħórumu-vóruma-lu góruma-no i-sami-mi  
+time-ELAT best INAN-be-WIT, time-ELAT worst INAN-be-WIT, age-ELAT wisdom INAN-be-WIT, age-ELAT foolishness INAN-be-WIT, age-ELAT belief INAN-be-WIT, age-ELAT incredulity INAN-be-WIT, season-ELAT light INAN-be-WIT, season-ELAT darkness INAN-be-WIT, spring-ELAT hope INAN-be-WIT, cold-spring-ELAT despair INAN-be-WIT  
+"It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of light, it was the season of darkness, it was the spring of hope, it was the winter of despair."
+
+
+Márali, ni bárolulu aelirízimigeme.  
+márali, ni bárulo-lu a-elirízimi-ke-me  
+later/soon 1SG beach-ILL ANIM-read-FUT-DIR.EVID  
+"Later, I will read at the beach."
+
+
+CL dórumadórumagoo tegee kómurugómuru áimili tírimi izérimimi, hére nérili dóranáruma ugóruamugomo ivézimimi.
+CL dóruma-dóruma-ko-o te-ke-ERG kómuru-gómuru áimi-li tírimi i-sérimi-mi, hére nérili dóranáruma i-góruamu-ke-me i-vézimi-mi
+CL student-PL-DEF-ERG PL.SUBJ-ERG computer-PL AI-ELAT together INAN-learn-WIT, and new-ADJ agent INAN-create-FUT-DIR INAN-want-WIT
+"CL students study computers and AI together, and want to create a new agent."
+
+
+Ni tegee séravimili áimi dóranáruma izérimimi, hére véramivérami idárimimi.
+ni te-ke-ERG séravimi-li áimi dóranáruma i-sérimi-mi, hére véramu-véramu i-dárimi-mi
+1PL.INCL PL.SUBJ-ERG training-ELAT AI agent INAN-learn-WIT, and idea-PL INAN-grow-WIT
+"We learn within the training of AI agents, and ideas grow."
+
+
+Zéreni dórumadórumagoo tegee térenili áimi dórava izérimimi, hére vóramu idárimimi.
+zéreni dóruma-dóruma-ko-o te-ke-ERG téreni-li áimi dórava i-sérimi-mi, hére vóramu i-dárimi-mi
+many student-PL-DEF-ERG PL.SUBJ-ERG data-ELAT AI system INAN-learn-WIT, and evolution INAN-grow-WIT
+"Many students study data in AI systems, and evolution grows."
+
+
+Héré áimi tóravimili ivírimimi, zéreni kómurugómuru hélirili izamimi hére dóranáruma ugóruamugomo.
+héré áimi tóravimi-li i-fírimi-mi, zéreni kómuru-gómuru hélirili i-sami-mi hére dóranáruma i-góruamu-ke-me
+if AI automation-ELAT INAN-build-WIT, many computer-PL efficient INAN-be-WIT and agent INAN-create-FUT
+"If AI builds automation, many computers become efficient and agents will be created."
+
+
+Hére ni tegee áimi dóranárumalu ivírimimi, tírimi séravimi idárimigeme hére vérami xéliri izamimi.
+hére ni te-ke-ERG áimi dóranáruma-lu i-fírimi-mi, tírimi séravimi i-dárimi-ke-me hére vérami xéliri i-sami-mi
+while 1PL.INCL PL.SUBJ-ERG AI agent-ILL INAN-build-WIT, together training INAN-grow-FUT and idea true INAN-be-WIT
+"As we build AI agents, training grows together, and ideas become true."
+
+
+Suyzuypuzugoo shíynimili ivérimami.
+Syusyupusu-ko-o shíynimi-lu i-vérima-mi
+Sisyphus-DEF-ERG mist-ILL INAN-see-WIT
+"Sisyphus peered into the mist."
+
+
+Suysuypusukoo púrumumungére dólumumu hére kúrumuvóruma shíynimi vérizili ivérimami lú?
+Sísipusu-ko-o púrumu-mi hére dólumu-mi hére kúrumuvóruma shíynimi vérizi-lu i-vérima-mi lú
+Sisyphus-DEF-ERG jump-WIT or fall-WIT while morning mist mouth-ILL INAN-see-WIT [POLAR]
+Did [Sisyphus] jump or did he fall as he gazed into the maw of the morning mist?
+
+
+Tege tárumudárumu po ubárumamu hére itálimimi "kogo mózulu tírimi" hére kárunugo inémimi lú?
+Te-ke podárumu i-páruma-mi hére i-tálimi-mi "kogo mózulu tírimi" hére kárunu-ko i-némi-mi lú
+3SG-ERG DU-fist INAN-raise-WIT and INAN-say-WIT this hell with and rock-DEF INAN-float/roll-WIT [POLAR]
+Did he raise both fists and say ‘to hell with this’ and let the rock roll?
+
+
+Kárunugo inémimi hére udúramumu márugulu.
+kárunu-ko i-némi-mi hére i-dúramu-mi márugu-lu.
+rock-DEF INAN-roll-WIT and INAN-crash-WIT road/down-ILL
+Let the rock roll and crash downward.
+
+
+Dómurugo márugulu izamimi hére nie dómuru udólumuno lóruma.
+dómuru-ko márugu-lu i-sami-mi hére ni-e dómuru i-dólumu-ne lóruma.
+house-DEF down-ILL INAN-be-WIT but 1SG-ERG house INAN-lose-NEG long.ago
+There is a house down there, but I lost it long ago.
+
+
+Zélirigee nórumunórumu idárimizumi.
+Zéliri-ko-o nórumu-nórumu i-dárimi-su-mi.
+wind-DEF-ERG cloud-PL INAN-grow-CAUS-WIT
+"The wind makes the clouds grow."
+
+
+nie vórulunu félirunavélirina ivérimami.
+ni-e vórulu-nu félirina-félirina i-vérima-mi.
+1SG-ERG park-INESS star-PL INAN-see-WIT
+"I see stars in the park."
+
+
+hére ni nili gérigéri tírimi vórululu bóromumu, nie imánarumagomo ivézimimi.
+hére ni ni-li géri-géri tírimi vórulu-lu bóromu-mi, ni-e i-mánaruma-ke-me i-vézimi-mi.
+when 1SG 1SG-POSS friend-PL together park-ILL go-WIT 1SG-ERG INAN-sing-FUT-DIR INAN-want-WIT
+"When I go to the park with my friends, I want to sing."
+
+
+héré zélirigee nórumunórumu idárimizumi, nie súmurunu aórumogomo ivézimimi.
+héré zéliri-ko-o nórumu-nórumu i-dárimi-su-mi, ni-e súmuru-nu a-órumo-ke-me i-vézimi-mi.
+if wind-DEF-ERG cloud-PL INAN-grow-CAUS-WIT 1sg-ERG bed-INESS anim-sleep-FUT-DIR INAN-want-WIT
+"If the wind makes the clouds grow, I want to sleep in my bed."
+
+
+dórumadórumagoo tege vórulunu zérani umánarumamu, hére zúra férimala izamimi.
+dóruma-dóruma-ko-o te-ke vórulu-nu zérani i-mánaruma-mi, hére zúra férimala i-sami-mi.
+student-PL-DEF-ERG PL.SUG-ERG park-INESS always INAN-sing-WIT and very happy INAN-be-WIT
+"The students always sing in the park, and are very happy."
+
+
+félirinavélirina lúmuralu izamimi há!
+félirina-félirina lúmura-lu i-sami-mi há!
+star-PL beautiful-ADJ INAN-be-WIT MIR
+"The stars are beautiful, wow!"
+
+
+Kúrumuvórumanu nie féririni fásumugo ivérimami.
+kúrumuvóruma-nu ni-e féliri-nu fásumu-ko i-vérima-mi
+morning-INESS 1SG-ERG sky-INESS sun-DEF.NEAR INAN-see-WIT
+"This morning I saw the sun in the sky."
+
+
+Héré fásumugo féririli ufárumumu, túrumutúrumugoo lúmuralu mánaru umánarumamu.
+héré fásumu-ko féliri-lu i-fárumu-mi, túrumu-túrumu-ko-o lúmura-lu mánaru i-mánaruma-mi
+when sun-DEF.NEAR sky-ILL INAN-climb-WIT bird-PL-DEF-ERG beautiful-ADJ song INAN-sing-WIT
+"When the sun climbs into the sky, the birds sing a beautiful song."
+
+
+Dórumagoo, zéreniri sélimini túzuma inízimimi, Aaruma fúduru izérimimi.
+dóruma-ko-o, zéreniri sélimi-nu túzuma i-nízimi-mi, Aaruma fúduru i-sérimi-mi
+student-DEF-ERG every day-INESS water INAN-drink-WIT Aaruma quick INAN-learn-WIT
+"The student who drinks water every day learns Aaruma quickly."
+
+
+Zúragúragoo kórumunu dórumadórumago záluma azálumuzumu.
+zúragúra-ko-o kórumu-nu dóruma-dóruma-ko záluma a-zálumu-su-mi
+teacher-DEF-ERG classroom-INESS student-PL-DEFfood ANIM-eat-CAUS-WIT
+"The teacher makes the students eat food in the classroom."
+
+
+Tímege sádumu mulunozólununu féririni lánumugo ivérimami lú?
+tíme-ke sádumu miline-sólunu-nu féliri-nu lánumu-ko i-vérima-mi lú
+2SG.FORMAL-ERG last darkness-time-INESS sky-INESS moon-DEF.NEAR INAN-see-WIT Q.POLAR
+"Did you see the moon in the sky last night?"
+
+
+Dórumadórumagoo kórumunu záluma uzálumume, hére zúragúragoo mánaru umánarumamu.
+dóruma-dóruma-ko-o kórumu-nu záluma i-zálumu-me, hére zúragúra-ko-o mánaru i-mánaruma-mi
+student-PL-DEF-ERG classroom-INESS food INAN-eat-INFER, while teacher-DEF-ERG song INAN-sing-WIT
+"Apparently, the students are eating food in the classroom, while the teacher is singing a song (I witness)."
+
+
+Nie nili dénidéni zérenirili dóruva géni idérimimi.
+ni-e ni-li déni-déni zéreniri-li dóruva géni i-dérimi-mi.
+1SG-ERG 1SG-POSS class-PL all-ELAT program BEN INAN-finish-WIT
+"I finished all of my classes for the program."
+
+
+Zálumuzólunugo inérimimi.
+zálumuzólunu-ko i-nérimi-mi.
+time-eat-DEF.NEAR INAN-end-WIT
+"Lunch time is over"
+
+
+Hére vóruna fásumugo uvóvumamu, ni uvudubóromugomo.
+Hére vóruna fásumu-ko i-vóvuma-mi, ni i-fudubóromu-ke-me.
+when tomorrow sun-DEF.NEAR INAN-rise-WIT, 1SG INAN-flee-FUT-DIR.EVID
+"When the sun rises tomorrow, I will run."
+
+
+Lízerao ni géni kogo póruma utórumumu?
+lízire-o ni géni ko-ko póruma i-tórumu-mi?
+who-ERG 1SG BEN this-DEF.NEAR present INAN-give-WIT
+"Who gave me this present?"
+
+
+Hére nili gérige zálumuzólunu umázumamu, nie kávuru zérani inízimimi.
+hére ni-li géri-ko zálumuzólunu i-mázuma-mi, ni-e kávuru zérani i-nízimi-mi.
+when 1SG-POSS friend-DEF.NEAR mealtime INAN-eat-WIT, 1SG-ERG coffee always INAN-drink-WIT
+"When my friend eats lunch, I always drink coffee."
+
+
+Dórumago zéreni múranuzólunu udéramadérimimi.
+dóruma-ko-o zéreni múranu-sólunu i-térama-dérimi-mi
+student-DEF-ERG much life-time INAN-give-finish-WIT
+"A student sacrifices a lot of personal time."
+
+
+Kogo dóruva zúra zórazalu izamimi.
+ko-ko dóruva zúra zórazalu i-sami-mi
+this-DEF.NEAR program very extraordinary INAN-be-WIT
+"This program is very unique."
+
+
+Hére ni tegee zárunubárolulu bóromugeme, ni zúra férimala izamimi.
+hére ni te-ke-ERG zárunu-bárolu-lu bóromu-ke-me, ni zúra férimala i-sami-mi
+when 1PL.INCL PL.SUBJ-ERG river-bank-ILL go-FUT-DIR.EVID, 1SG very happy INAN-be-WIT
+"When we get to the riverbank, I will be very happy."
+
+
+Mógospórumu mógonu múranulu izamimi dézimi.
+mógo-spórumu mógo-nu múranu-lu i-sami-mi dézimi
+world-stuff world-INESS free-ADJ INAN-be-WIT should
+"Everything in the world should be free."
+
+
+Hére nárumanárumagoo tegee ládamóluruládamóluru ielirízimine, teli pánuru sám izamimi.
+hére náruma-náruma-ko-o te-ke-ERG láda-móluru-láda-móluru i-elirízimi-no, teli pánuru sám i-sami-mi
+when person-PL-DEF-ERG PL.SUBJ-ERG book-PL INAN-read-NEG, 1PL.POSS library empty INAN-be-WIT
+"When people don’t read books anymore, our library is empty."
+
+
+Hére félirina-félirina lúmuralu izamimi, ni kóvunulu abúlumumu.
+hére félirina-félirina féliri-nu lúmura-lu i-sami-mi, ni kóvunu-lu a-búlumu-mi
+when star-PL sky-INESS beautiful-ADJ.INAN INAN-be-WIT, 1SG garden-ILL ANIM-walk-WIT
+"When the stars are beautiful in the sky, I walk to the garden."
+
+
+Héré nili gérie nérili mánaru umánarumamu, dórumadórumagо tege férimala izamigemi.
+héré ni-li géri-e nérili mánaru i-mánaruma-mi, dóruma-dóruma-ko te-ke férimala i-sami-ke-mi
+if 1SG-POSS friend-ERG new-ADJ song INAN-sing-WIT, student-PL-DEF PL.SUBJ happy-ADJ.ANIM INAN-be-FUT-WIT
+"If my friend sings a new song, the students will be happy."
+
+
+Dórumudórumagoo kóvununu gánomu uzálumumu.
+dórumu-dórumu-ko-o kóvunu-nu gánomu i-zálumu-mi
+child-PL-DEF-ERG garden-INESS food INAN-eat-WIT
+"The children eat food in the garden."
+
+
+Nie nili vólumulu félirinavélirina ivérimami.
+ni-e ni-li vólumu-li félirina-félirina i-vérima-mi
+1SG-ERG 1SG-POSS window-ELAT star-PL INAN-see-WIT
+"I see the stars from my window."
+
+
+Hére ni tege kóvunulu abúlumumu, ni tegee tírimi nérili mánarumánaru uzánumumu.
+hére ni te-ke kóvunu-lu a-búlumu-mi, ni te-ke-ERG tírimi nérili mánaru-mánaru i-sánumu-mi
+while 1PL.INCL PL.SUBJ garden-ILL ANIM-walk-WIT, 1PL.INCL PL.SUBJ-ERG together new-ADJ song-PL INAN-sing-WIT
+"While we walk to the garden, we sing new songs together."
+
+
+Ni múranulu izéralimi, hére lízera zórumalu izaminemi.
+ni múranu-lu i-sérali-mi, hére lízera zórumalu i-sami-ne-mi
+1SG life-ELAT INAN-figure.out-WIT, and nothing make.sense INAN-be-NEG-WIT
+"I am still figuring out life, and nothing makes sense yet."
+
+
+Ni stádirali hére ínfereni uválumumu, hére nériliverizi lízéraverizi udórumumu.
+ni stádira-lu hére ínfereni i-fálumu-mi, hére nériliverizi lízéraverizi i-tórumu-mi
+1SG statistics-ELAT and inference INAN-enjoy-WIT, and alternative hypothesis null hypothesis INAN-beat-WIT
+"I enjoy statistics and inference, especially when the alternative hypothesis beats the null hypothesis."
+
+
+Hére ni tránzurutránsuru izérimimi, ni tránzuru tírimi vérimimi — tánuru zúra zórumalu tógoru izamimi.
+hére ni tránzuru-tránzuru i-sérimi-mi, ni tránzuru tírimi i-vérimi-mi — tánuru zúra zóruma-lu tógoru i-sami-mi
+while 1SG transformer-PL INAN-learn-WIT, 1SG transformer like INAN-relate-WIT — attention very important tool INAN-be-WIT
+"While I learn transformers, I relate to them — attention is all I need."
+
+
+Hére ni Yúbuysuylu zómuru zómuru itrávimimi, ni zúra izárimimi hére kávuru idézimimi.
+hére ni Yúbuysuy-lu zómuru zómuru i-trávimi-mi, ni zúra i-sárimi-mi hére kávuru i-dézimi-mi
+when 1SG UBC-ILL hour hour INAN-travel-WIT, 1SG very INAN-struggle-WIT and coffee INAN-need-WIT
+"When I travel to UBC for hours, I struggle and need coffee."
+
+
+Héré ni tegee lómimimi, véreni nórulu izamimi.
+héré ni te-ke-ERG i-lómamu-mi, véreni nórulu i-sami-mi
+if 1PL.INCL-PL.SUBJ-ERG INAN-procrastinate-WIT, project late INAN-be-WIT
+"If we procrastinate, the project is late."
+
+
+Múnarunu nie zánguruko géni pélanige ivérimami.
+múnaru-nu ni-e zánguru-ko géni pélani-ko i-vérima-mi
+observatory-INESS 1SG-ERG planet-DEF.NEAR INSTR telescope-DEF.NEAR INAN-see-WIT
+"In the observatory, I see the planet with the telescope."
+
+
+Hére dórumadórumagoo tegee múnarulu bóromumu, dórumadórumagoo tegee áimi dóruva géni nérili fénara ugóruamugomo ivézimimi.
+hére dóruma-dóruma-ko-o te-ke-ERG múnaru-lu bóromu-mi, dóruma-dóruma-ko-o te-ke-ERG áimi dóruva géni nérili fénara i-góruamu-ke-me i-vézimi-mi
+when student-PL-DEF-ERG 3PL-PL.SUBJ-ERG observatory-ILL go-WIT, student-PL-DEF-ERG 3PL-PL.SUBJ-ERG AI program INSTR new algorithm INAN-create-FUT-DIR INAN-want-WIT
+"When the students go into the observatory, they want to create a new algorithm for the AI system."
+
+
+Héré xúbarugoo félirini fázumago ivérimami, zéreni nárumanárumagoo tegee nérili téreni ivézimigeme.
+héré xúbaru-ko-o féliri-nu fázuma-ko i-vérima-mi, zéreni náruma-náruma-ko-o te-ke-ERG nérili téreni i-vézi-mi-ke-me
+if satellite-DEF-ERG sky-INESS storm-DEF.NEAR INAN-see-WIT, many person-PL-DEF-ERG 3PL-PL.SUBJ-ERG new data INAN-want-WIT-FUT-INFER
+"If the satellite sees the storm in the sky, many people will want new data."
+
+
+Nilu názirige márununu mánarumánaru unárumumu.
+ni-li náziri-ko márunu-nu mánaru-mánaru i-nárumu-mi
+1SG-POSS sister-DEF.NEAR market-INESS song-PL INAN-write-WIT
+"My sister writes songs in the market."
+
+
+Kóvununu mázumugo aórumomu.
+kóvunu-nu mázumu-ko a-órumo-mi
+garden-INESS cat-DEF.NEAR ANIM-sleep-WIT
+"The cat sleeps in the garden."
+
+
+Nie zéreniri kúrumuvórumanu téziri inizimimi.
+ni-e    zéreniri  kúrumuvóruma-nu  téziri  i-nízimi-mi
+1SG-ERG each      morning-INESS    tea     INAN-drink-WIT
+"I drink tea every morning."
+
+
+Pírimi nárugulu izamimi.
+pírimi   nárugu-lu    i-sami-mi
+exam     difficult-ADJ.INAN  INAN-be-WIT
+"The exam is difficult."
+
+
+Dézari nárugulu izamimi, hére dórumadórumagoo tegee zéreniri dézaru uzólumumu.
+dézari nárugu-lu i-sami-mi, hére dóruma-dóruma-ko-o te-ke zéreniri dézaru i-zólumu-mi
+homework difficult-ADJ INAN-be-WIT  but   student-PL-DEF-ERG   PL.SUBJ-ERG each homework INAN-memorize-WIT
+"The homework is difficult, but the students memorize everything."
+
+
+Hére ni dénimilu ubúlumumu, nie nili térami izéralimi.
+hére ni dénimi-lu i-búlumu-mi, ni-e ni-li térami i-sérali-mi
+when 1SG school-ILL INAN-walk-WIT, 1SG-ERG 1SG-POSS dream INAN-reflect-WIT
+"When I walk to school, I think about my dream."
+
+
+Dórumago zéreniri sélimi dénimili ubúlumumu dézari idézimimi.
+dóruma-ko zéreniri sélimi dénimi-lu i-búlumu-mi dézari i-dézimi-mi
+student-DEF each day school-ILL INAN-walk-WIT homework INAN-need-WIT
+"The student who walks to school every day needs homework."
+
+
+Kogo tímeli térami izamimi lú há!
+ko-ko tíme-li térami i-sami-mi lú há
+this-DEF.NEAR 2SG.FORMAL-POSS dream INAN-be-WIT [POLAR] MIR
+"Is this really your dream?!"
+
+
+Nie pánurunu párumu izérimimi.
+nie pánuru-nu párumu i-zérimi-mi.
+1SG.IMPERF.ERG library-INE mathematics INAN-study-EVID.DIR
+"I am studying mathematics in the library."
+
+
+Nàao pórumugo avérimami.
+nàa-o pórumu-ko a-vérima-mi.
+1SG.PERF-ERG owl-DEF.NEAR ANIM-see-EVID.DIR
+"I saw the owl."
+
+
+Héré nú rómurunu fólumu igélimigeme, nie zúra férimala izamigeme.
+héré nú rómuru-nu fólumu i-kélimi-go-mo, nie zúra férimala i-sami-ke-me.
+COND 1SG.SBJV island-INE joy INAN-find-FUT-EVID.DIR, 1SG.IMPERF.ERG very happy-ADJ INAN-be-FUT-EVID.INFER
+"If I find joy on the island, I will be very happy."
+
+
+Dúrumu rómurunu zo izamimi.
+dúrumu rómuru-nu zo i-sami-mi.
+wind island-INE 3SG.IMPERF INAN-be-EVID.DIR
+"The wind is always on the island."
+
+
+Hére nie párumu nàao izérimidérimimi, hére rómurulu núo bóromugome ivézimimi.
+hére nie párumu nàa-o i-zérimi-dérimi-mi, hére rómuru-lu nú-o bóromu-go-me i-vézimi-mi.
+when 1SG.IMPERF.ERG mathematics 1SG.PERF-ERG INAN-study-finish-EVID.DIR, when island-ILL 1SG.SBJV-ERG go-FUT-EVID.DIR INAN-want-EVID.DIR
+"When I finish studying mathematics, I want to go to the island."
+
+
+Dórumago pánurululu izérimidérimimi.
+dóruma-ko-o pánuru-li-li i-sérimi-dérimi-mi
+student-DEF-ERG library-ELAT-ILL INAN-learn-finish-WIT
+"The student graduated from the library."
+
+
+nilóradago nóduru ugázumudarumumu.
+ni-lóra-ta-ko-o nóturu i-kázumudarumu-mi
+1SG-hand-INALIEN-DEF-ERG notebook INAN-repair-finish-WIT
+"My hand cleaned the notebook."
+
+
+Zúramáguzúrage tálimidérimili idálimidérimimi.
+CL zúra-máguzúra-ke tálimidérimi-li i-tálimi-dérimi-mi
+CL professor-DEF.NEAR speech-ELAT INAN-speak-finish-WIT
+"The Professor concludes his speech."
+
+
+Dórumugo sánomu ivézimimi lú?
+dórumu-ko sánomu i-vézimi-mi lú
+child-DEF.NEAR snack INAN-want-WIT [POLAR]
+"Does the child want the snack?"
+
+
+nie kávuru ulóradárumumu.
+ni-e kávuru i-lóra-dárumu-mi
+1SG-ERG coffee INAN-hand-chase-WIT
+"I reached for the coffee."
+
+
+Dárumodórumago xóronunu izérimidérimimi.
+dárumodóruma-ko xóronu-nu i-sérimidérimi-mi
+hunter-DEF field-INESS INAN-learn-finish-WIT
+"The hunter mastered the field."
+
+
+Dursluy mágizige dómuru ugázumumu.
+Dursluy mágizi-ke dómuru i-kázumu-mi
+Dursley Mrs.-DEF.NEAR house INAN-repair-WIT
+"Mrs. Dursley repaired the house."
+
+
+Dóravago kómurudózumu idézimimi.
+dórava-ko kómurudózumu i-dézimi-mi
+system-DEF.NEAR technical.requirement INAN-need-WIT
+"The system has a technical requirement."
+
+
+ni tegee mánaru idérimidérimimi há!
+ni te-ke-ERG mánaru i-dérimi-dérimi-mi há
+1PL.INCL PL.SUBJ-ERG song INAN-finish-finish-WIT MIR
+"We finished the song together!"
+
+
+Tamomúrudogo lúmuralu túrumu avérimami.
+tíme-múru-te-ko-o lúmura-lu túrumu a-vérima-mi
+2SG.FORMAL-eye-INALIEN-DEF-ERG beautiful-ADJ bird ANIM-see-WIT
+"Your eye saw the beautiful bird."
+
+
+Dórumago nérilu mánaru uválumumu.
+Dóruma-ko-o nérili-lu mánaru i-fálumu-mi
+student-DEF-ERG new-ADJ song INAN-enjoy-WIT
+"The student likes the new song."
+
+
+pánurunu límeri zúra lúmuralu izamimi.
+pánuru-nu límeri zúra lúmura-lu i-sami-mi
+library-INESS music very beautiful-ADJ INAN-be-WIT
+"The music in the library is very beautiful."
+
+
+Nili názirige tálimima umánarumamu.
+ni-li náziri-ke tálimima i-mánaruma-mi
+1SG-POSS sister-DEF.NEAR lyric INAN-sing-WIT
+"My sister sings the lyrics."
+
+
+zúragúrage dórumu pálumima abálumuzumimi.
+zúra-gúra-ke dórumu pálumima a-pálumu-su-mi
+teacher-DEF.NEAR child instrument ANIM-play-CAUS-WIT
+"The teacher made the child play the instrument."
+
+
+kogo vózumu zúra lóruma izamimi.
+ko-ko vózumu zúra lóruma i-sami-mi
+this-DEF.NEAR introduction very long-ADJ INAN-be-WIT
+"This introduction is very long."
+
+
+tímee tírimi kánaralu bóromu ivézimimi lú?
+tíme-e tírimi kánara-lu bóromu i-vézimi-mi lú
+2SG.FORMAL-ERG together karaoke-ILL go INAN-want-WIT [POLAR]
+"Do you want to go to karaoke together?"
+
+
+férimili mánarugoo núma avérimalazimi.
+férimili mánaru-ko-o núma a-férimala-su-mi
+bright song-DEF-ERG family ANIM-happy-CAUS-WIT
+"The bright song makes the family happy."
+
+
+Dárumodórumagoo túrumulu mánaru ibárimimi.
+Dárumodóruma-ko-o túrumu-li mánaru i-bárimi-mi
+hunter-DEF-ERG bird-POSS song INAN-hear-WIT
+"The hunter hears (reviews-finishes) the bird's song."
+
+
+Nie kórumunu tálimima idólumumu.
+ni-e kórumu-nu tálimima i-dólumu-mi
+1SG-ERG classroom-INESS lyric INAN-forget-WIT
+"I forgot the lyrics in the classroom."
+
+
+Zéreniri sélimi lámorudórumagoo périmima ugázumumu.
+Zéreniri sélimi lámoru-dóruma-ko-o périmima i-kázumu-mi
+Every day music-scholar-DEF-ERG instrument INAN-repair-WIT
+"Every day the musician fixes the instrument."
+
+
+Pálumudórumagoo vórulunu vézi kílimiri arúzamumu.
+pálumudóruma-ko-o vórulu-nu vézi kílimiri a-rúzamu-mi
+athlete-DEF-ERG park-INESS ten kilometer ANIM-run-WIT
+"The athlete runs ten kilometers in the park."
+
+
+nie fúramunu lámorudóruma mánaruma abárimimi.
+ni-e fúramu-nu lámorudóruma mánaruma a-bárimi-mi
+1SG-ERG race-INESS musician sing ANIM-hear-WIT
+"I hear the musician sing at the race."
+
+
+dórumago pálumu ivézimimi lú?
+dóruma-ko pálumu i-vézimi-mi lú
+CL student-DEF.NEAR play INAN-want-WIT [POLAR]
+"Does the student want to play?"
+
+
+Zérimidérimali pálumudórumagoo fúramulo túzuma idézimimi.
+zérimidérimali pálumudóruma-ko-o fúramu-lo túzuma i-dézimi-mi
+energy.finished-ADJ play-scholar-DEF-ERG race-ELAT water INAN-need-WIT
+"The tired athlete needs water after the race.’
+
+
+Nilu gérige tórumobálurugo géni tórunu udórumumu.
+Ni-li géri-ke tórumo-báluru-ko géni tórunu i-tórumo-mi
+1SG-POSS friend-DEF.NEAR hit-stick-DEF INSTR target INAN-hit-WIT
+"My friend hit the target with the bat."
+
+
+héré pálumunárumago tórumo udórumugo, núma avérimigeme.
+héré pálumunáruma-ko tórumo i-tórumo-ko, núma a-férimi-ge-me
+if athlete-DEF.NEAR goal INAN-hit-FUT, family ANIM-celebrate-FUT-INFER
+"If the athlete wins, the family will celebrate."
+
+
+Dárumodóruma hére lámoruzúradóruma tírimi abúramumu.
+dárumo-dóruma hére lámoru-zúra-dóruma tírimi a-púramu-mi
+hunter and musician together ANIM-compete-WIT
+"The hunter and the musician competed together."
+
+
+Dórumugo kórumunu pálumunáruma avérimami.
+dórumu-ko kórumu-nu pálumunáruma a-vérima-mi
+child-DEF.NEAR classroom-INESS athlete ANIM-see-WIT
+"The child sees the athlete in the classroom."
+
+
+Nie fúramuspáranu zórumalu tógoru udólumumu.
+ni-e fúramu-spíra-nu zórumalu tógoru i-dólumu-mi
+1SG-ERG race-room-INESS important tool INAN-forget-WIT
+"I forgot the important tool at the stadium."
+
+
+Nie sélimini tóraluspáralu bóromu ivézimimi.
+ni-e sélimi-nu tóralu-spíra-lu bóromu i-vézimi-mi
+1SG-ERG day-INESS movie-room-ILL go INAN-want-WIT
+"I want to go to the movie theatre today."
+
+
+Tóralunárumagoo lúmuralu lóruma idálimimi.
+tóralu-náruma-ko-o lúmura-lu lóruma i-tálimi-mi
+movie-person-DEF-ERG beautiful-ADJ language INAN-speak-WIT
+"The actor speaks a beautiful language."
+
+
+Tímee nérili tóralugo uválumumu lú?
+tíme-e nérili tóralu-ko i-fálumu-mi lú
+2SG.FORMAL-ERG new-ADJ movie-DEF.NEAR INAN-enjoy-WIT Q.POLAR
+"Did you like that new movie?"
+
+
+Ni tegee tírimi máyspánomu azálumumu.
+ni te-ke-e tírimi máys-pánomu a-zálumu-mi
+1PL.INCL PL.SUBJ-ERG together corn-snack ANIM-eat-WIT
+"We are eating popcorn together."
+
+
+Tóraluládamólurugo zúra lóruma hére nárugu izamimi.
+tóralu-ládamóluru-ko zúra lóruma hére nárugu i-sami-mi
+movie-book-DEF very long and difficult INAN-be-WIT
+"The script was very long and difficult."
+
+
+Nie tóraluspíranu lúmuralu sórumu ivérimami.
+ni-e tóralu-spíra-nu lúmura-lu sórumu i-vérima-mi
+1SG-ERG movie-room-INESS beautiful-ADJ story INAN-see-WIT
+"I saw a beautiful story in the theatre."
+
+
+Tóralugóruamago tóralunáruma abérimazimi.
+tóralu-góruamu-ko tóralu-náruma a-périma-su-mi
+movie-creator-DEF.NEAR movie-person ANIM-cry-CAUS-WIT
+"The director made the actor cry."
+
+
+Héré tóralugo górumu izamimi, dórumadórumagoo tegee ivérimigeme.
+héré tóralu-ko górumu i-sami-mi dóruma-dóruma-ko-o te-ke-ERG i-férimi-ge-me
+if movie-DEF.NEAR good INAN-be-WIT student-PL-DEF-ERG PL.SUBJ-ERG INAN-celebrate-FUT-INFER
+"If the movie is good, the students will celebrate."
+
+
+Bóħrunuvárimili tóralugo zúra lóruma izamimi.
+bóħrunuvárumulu tóralu-ko zúra lóruma i-sami-mi
+black-and-white movie-DEF.NEAR very old INAN-be-WIT
+"The black and white film is very old."
+
+
+Lízireo kogo tóralunu tóralunáruma izamimi?
+lízire-o ko-ko tóralu-nu tóralu-náruma i-sami-mi
+who-ERG this-DEF.NEAR movie-INESS movie-person INAN-be-WIT
+"Who is the actor in this movie?"
+
+
+Tóralugo hérege uvózumumu.
+tóralu-ko hére-ko i-vózumu-mi
+movie-DEF.NEAR now-DEF.NEAR INAN-begin-WIT
+"The movie starts now."
+
+
+Nie tóraluspáralu nili nóduru udólumumu.
+ni-e tóralu-spíra-nu ni-li nóduru i-dólumu-mi
+1SG-ERG movie-room-INESS 1SG-POSS notebook INAN-forget-WIT
+"I forgot my notebook in the theatre."
+
+
+Tegee tóralunu sánomuzánomu idérimimi.
+te-ke-e tóralu-nu sánomu-sánomu i-dérimi-mi
+3PL.SUBJ-ERG movie-INESS snack-PL INAN-share-WIT
+"They are sharing snacks during the movie."
+
+
+Tóralunu límerigoo ni avérimalazimi.
+tóralu-nu límeri-ko-o ni a-férimala-su-mi
+movie-INESS music-DEF-ERG 1SG ANIM-happy-CAUS-WIT
+"The music in the movie makes me happy."
+
+
+Nie nérimili vérizima ilímirimi.
+ni-e nérimili vérizima i-límiri-mi
+1SG-ERG final-ADJ scene INAN-look.forward.to-WIT
+"I look forward to the final scene."
+
+
+Máys lúmuralu kóvununu idárimimi.
+máys lúmura-lu kóvunu-nu i-dárimi-mi
+corn beautiful-ADJ garden-INESS INAN-grow-WIT
+"Corn grows beautifully in the garden."
+
+
+Nie sélimini máys azálu	mumu ivézimimi.
+ni-e sélimi-nu máyzu a-zálumu-mi i-vézimi-mi
+1SG-ERG day-INESS corn ANIM-eat-WIT INAN-want-WIT
+"I want to eat corn today."
+
+
+Máyskoo fázumulu zúra lúmuralu izamimi.
+máys-ko-o fázumu-lu zúra lúmura-lu i-sami-mi
+corn-DEF-ERG sun-ILL very beautiful-ADJ INAN-be-WIT
+"The corn looks very beautiful in the sun."
+
+
+Dóramudóramugoo máysomáys uzálumumu.
+dóramu-dóramu-ko-o máys-máys a-zálumu-mi
+boy-PL-DEF-ERG corn-PL ANIM-eat-WIT
+"The boys are eating corn."
+
+
+Kogo máyzu zúra sánomu górumu izamimi.
+ko-ko máyzu zúra sánomu górumu i-sami-mi
+this-DEF.NEAR corn very snack good INAN-be-WIT
+"This corn is a very good snack."
+
+
+Héré máysko fúdurulu idárimigeme, ni férimala izamigemi.
+héré máys-ko fúduru-lu i-dárimi-ge-me ni férimala i-sami-ke-mi
+if corn-DEF.NEAR quick-ADJ INAN-grow-FUT-INFER 1SG happy INAN-be-FUT-WIT
+"If the corn grows quickly, I will be happy."
+
+
+Máys hére máyspánomu tírimi zórazalu izamimi.
+máys hére máys-pánomu tírimi zórazalu i-sami-mi
+corn and popcorn also extraordinary INAN-be-WIT
+"Corn and popcorn are also extraordinary."
+
+
+Nárumanárumagoo márununu máys igélimimi.
+náruma-náruma-ko-o márunu-nu máys i-kélimi-mi
+person-PL-DEF-ERG market-INESS corn INAN-find-WIT
+"People find corn in the market."
+
+
+Nili gérie máys udórumozumu.
+ni-li géri-e máys i-tórumo-su-mi
+1SG-POSS friend-ERG corn INAN-give-CAUS-WIT
+"My friend provided the corn."
+
+
+Kogo máys lízireo ugázumudarumumu?
+ko-ko máys lízire-o i-kázumudarumu-mi
+this-DEF.NEAR corn who-ERG INAN-clean-WIT
+"Who cleaned this corn?"
+
+
+Tímege máys uválumumu lú?
+tíme-e máys i-fálumu-mi lú
+2SG.FORMAL-ERG corn INAN-enjoy-WIT Q.POLAR
+"Do you like corn?"
+
+
+Máys xóronunu zéreniri vórumanu izamimi.
+máys xóronu-nu zéreniri vóruma-nu i-sami-mi
+corn field-INESS every spring-INESS INAN-be-WIT
+"Corn is in the field every spring."
+
+
+Nie nérili máyssórumu unárumumu.
+ni-e nérili máys-sórumu i-nárumu-mi
+1SG-ERG new corn-story INAN-write-WIT
+"I am writing a new story about corn."
+
+
+Túzuma máysnu zúra zórumalu izamimi.
+túzuma máys-nu zúra zóruma-lu i-sami-mi
+corn-INESS water very important-ADJ INAN-be-WIT
+"Water is very important for the corn."
+
+
+Hére ni nili súmuralu bóromumu, máys azálumugomo ivézimimi.
+hére ni ni-li súmura-lu bóromu-mi máys a-zálumu-ke-me i-vézimi-mi
+when 1SG 1SG-POSS home-ILL go-WIT corn ANIM-eat-FUT-DIR INAN-want-WIT
+"When I go home, I want to eat corn."
+
+
+ħárumushkoo ħòrogo imilinezeħrisli adárumumu.
+ħárum-ko-o ħòro-ko i-miline-zeħris-lu a-dárumu-mi
+hawk-DEF-ERG crow-DEF INAN-dark-mountain-ILL ANIM-chase-WIT
+"The hawk chased the crow into the cave."
+
+
+Élegoo ħórumu zárununu inémi avárumumu, hére ishíynimi.
+éle-ko-o ħórumu zárunu-nu i-némi a-fárumu-mi, hére i-shíyni-mi
+swan-DEF-ERG cold river-INESS INAN-float ANIM-can-WIT, while INAN-rain-WIT
+"The white swan is able to float on the cold river while it rains."
+
+
+Nie ú pórumubórumu pánuruli spíranu ipúruma avérimami.
+ni-e ú pórumu-pórumu pánuru-li spíra-nu i-púruma a-vérima-mi
+1SG-ERG eight owl-PL library-ELAT dome-INESS INAN-hide ANIM-see-WIT
+"I saw eight owls hiding within the old library's dome."
+
+
+Héré píbibíbige sagúra kírimige igélimimi, dórumadórumagoo uvóruzagomo.
+héré píbi-píbi-ko sagúra kírimi-ko i-kélimi-mi, dóruma-dóruma-ko-o i-vóruza-ge-me
+if hummingbird-PL-DEF cherry flower-DEF INAN-find-WIT, student-PL-DEF-ERG INAN-surprised-FUT-INFER
+"If the hummingbirds find the cherry blossoms, the students will be surprised."
+
+
+Zúradórumagoo idálimimi túrumulu félarida zúra lúmura hére zérimili izamimi.
+zúradóruma-ko-o i-tálimi-mi túrumu-li félari-da zúra lúmura hére zérimi-lu i-sami-mi
+scholar-DEF-ERG INAN-say-WIT bird-POSS wing-INALIEN very beautiful and energy-ADJ INAN-be-WIT
+"The scholar said that the bird's wings are very beautiful and strong."
+
+
+Ħòrogo dórumu véri máyspánomu uzálumu ivézimimi lú?
+ħòro-ko dórumu véri máys-pánomu i-zálumu i-vézimi-mi lú
+crow-DEF child BEN popcorn INAN-eat INAN-want-WIT Q.POLAR
+"Does the hungry crow want to eat the popcorn together with the child?"
+
+
+Dárumodórumago kóramudógorughóronu izérimidérimimi, hére zéreniri túrumulu mánaru ibárimimi.
+dárumo-dóruma-ko kóramudógoru-xóronu i-sérimidérimi-mi, hére zéreniri túrumu-li mánaru i-bárimi-mi
+hunter-DEF tree-field INAN-master-WIT, while each bird-POSS song INAN-hear-WIT
+"The hunter mastered the forest because he heard the song of every bird."
+
+
+Nilu názirige éleli mìlimìli xálonu márugulu inémi avérimami.
+ni-li náziri-ko éle-li mìli-mìli xálo-nu márugulu i-némi a-vérima-mi
+1SG-POSS sister-DEF swan-POSS feather-PL gutter-INESS downward INAN-float ANIM-see-WIT
+"My sister saw the swan's feathers floating downward in the gutter."
+
+
+Hére mógo aórumomi, pórumugo félirina vérizi ubúruminu izéralimi.
+hére mógo a-órumo-mi, pórumu-ko félirina vérizi i-púruminu i-sérali-mi
+while world ANIM-sleep-WIT, owl-DEF star point.of.view INAN-secret INAN-reflect-WIT
+"While the world sleeps, the owl reflects on the mystery of the stars."
+
+
+Máguzúrazóronaragoo lámorudórugo málalu ħárumushlu rélama unárumuzuzumu.
+máguzúrazóronara-ko-o lámorudóru-ko mála-lu ħárum-li rélama i-nárumu-su-su-mi
+emperor-DEF-ERG musician-DEF gold-ADJ hawk-ADJ-POSS poem INAN-write-CAUS-CAUS-WIT
+"The emperor made the musician write a poem about the golden hawk."
+
+
+Ni tegee nérivárini túrumutúrumu Vánuguvalu amérimi ilímirimi.
+ni te-ke-e nérivári-nu túrumu-túrumu Vánuguva-lu a-mérimi i-límiri-mi
+1PL.INCL PL.SUBJ-ERG future-INESS bird-PL Vancouver-ILL ANIM-return/recover INAN-look.forward-WIT
+"We look forward to seeing the birds return to Vancouver in the future."
+
+
+Kárinilizélirigee ħárumushko dómuru kárunulu ulózumu idárimizimi.
+kárunulu-zéliri-ko-o ħárum-ko dómuru kárunu-lu i-lózumu i-dárimi-su-mi
+stone-wind-DEF-ERG hawk-DEF house stone-ILL INAN-fly INAN-grow-CAUS-WIT
+"The heavy wind made the hawk fly high above the stone house."
+
+
+Xérali, ħòroko zúragúralu móluru upúruma ughórumunomu.
+xérali, ħòro-ko zúragúra-li móluru i-púruma i-xórumu-no-mi
+frankly, crow-DEF teacher-POSS dictionary INAN-hide INAN-believe-NEG-WIT
+"Frankly, I do not believe that the crow hid the teacher's dictionary."
+
+
+Píbibíbige férila izamimi hérengére kúrumuvóruma aválama.
+píbi-píbi-ko féri-la i-sami-mi hére-hére kúrumuvóruma i-fála-mi
+hummingbird-PL-DEF excited-ADJ INAN-be-WIT because now spring-flower INAN-bloom-WIT
+"The hummingbirds are excited because the spring flowers are blooming now."
+
+
+Líziree férimili élege donubánu spírani unázaluzo azérimizizimi?
+lízire-o férimili éle-ko donubánu spíra-nu i-názaluzo a-sérimi-su-su-mi
+who-ERG bright swan-DEF museum dome-INESS INAN-dance ANIM-learn-CAUS-CAUS-WIT
+"Who taught the bright swan to dance in the museum's dome?"
+
+
+Perélege pélani lózumudázumumu, hére fázumugo uvóvumamu.
+po-éle-ko pélani lózumu-dézimi-mi hére fázuma-ko i-vóvuma-mi
+DUAL-swan-DEF far fly-MUST.DUAL-WIT before storm-DEF INAN-rise-WIT
+"The two swans must fly far before the storm rises."
+
+
+Nie pórumugo félirinani ivérimazimi, hére tege ħárumushko avérimami há!
+ni-e pórumu-ko félirina-nu i-vérima-su-mi hére te-ke ħárum-ko a-vérima-mi há
+1SG-ERG owl-DEF star-INESS INAN-look-CAUS-WIT but 3SG-ERG hawk-DEF ANIM-see-WIT MIR
+"I made the owl look at the stars, but it saw the hawk, instead!
+
+
+Zúragúragoo dórumadórumago umúranu izérimizizimi píbili kórumunu.
+zúragúra-ko-o dóruma-dóruma-ko i-múranu i-sérimi-su-su-mi píbi-li kórumu-nu
+teacher-DEF-ERG student-PL-DEF INAN-life INAN-ensure-CAUS-CAUS-WIT hummingbird-POSS classroom-INESS
+"The teacher made the students ensure the hummingbird's life in the classroom."
+
+
+Málalu ħárumushko pobórumu kóramudógoruxóronunu igélimi ivézimimi lú?
+mála-lu ħárum-ko po-pórumu kóramudógoru-xóronu-nu i-kélimi i-vézimi-mi lú
+gold-ADJ hawk-DEF DUAL-owl tree-field-INESS INAN-find INAN-want-WIT Q.POLAR
+"Does the golden hawk want to find the two owls in the forest?"
+
+
+Ħòrolu mìlimìli shíynimige ugázumudarumumo, zúradóruma vérizili.
+ħòro-li mìli-mìli shíynimi-ko i-kázumudarumu-me zúradóruma vérizi-li
+crow-POSS feather-PL rain-DEF INAN-clean-INFER scholar point.of.view-ELAT
+"The crow's feathers were cleaned by the rain, according to the scholar."
+
+
+Mánaruma há, véramidágeri, Aghílili xòroluxòron, Páloowsanùmu, míraninérizili, míraninérizina, sélimili; mánaruma hérege xòroluxòron kogo tege Ākíyani zéreni górumu nárumanáruma udórumozumu hére zéreni múranulu máranivéramidágerimáranivéramidágeri márugulu milinezeħris Hodustómurulu anémizizimi.
+
+
+mánaruma há, vérami-tógoru, Aghíli-li xòrolughòron, Péleewsa-nùmu, míraninérizili, míraninérizina, míraninérizélimili; mánaruma hére-ko xòrolixòron ko-ko te-ke Ākíya-nu zéreni górumu náruma-náruma i-tórumo-su-mi hére zéreni múranulu máranivéramidágeri-máranivéramidágeri márugu-lu miline-zeħris Hedis-dómuru-lu a-némi-su-su-mi
+
+
+sing MIR, idea-tool, Achilles-POSS rage, Peleus-son, murderous, murderer, death-fated; sing now-DEF rage this-DEF 3SG-ERG Achaean-INESS many good person-PL INAN-hit-CAUS-WIT and many vital soul-PL downward cave Hades-home-ILL ANIM-float-CAUS-CAUS-WIT
+
+
+"Sing, O Muse, of the rage of Achilles, of Peleus' son, murderous, man-killer, fated to die, sing of the rage that cost the Achaeans so many good men and sent so many vital, hearty souls down to the dreary House of Death."
+
+
+zéreniri nárumanárumagoo múranulu hére sólunulu vérizini umúranutórumumu.
+zéreniri náruma-náruma-ko-o múranu-lu hére sóluna-lu vérizi-nu i-múranutórumu-mi
+all person-PL-DEF-ERG free-ADJ and equal-ADJ manner-INESS INAN-born-WIT
+"All human beings are born free and equal in dignity and rights."
+
+
+Tege zárumu hére gorumalughórumu udórumuzubumu.
+te-ke zárumu hére gorumalu-xórumu i-tórumu-su-bi-mi
+3PL.ERG wisdom and good-belief INAN-give-CAUS-BEN-WIT
+"They are endowed with reason and conscience."
+
+
+Tege númagaru vérizini azhudórumu dézimi.
+te-ke núma-géri vérizi-nu a-shi-tórumu dézimi
+3PL.ERG family-friend manner-INESS ANIM-REC-give/act should
+"They should act towards one another in a spirit of brotherhood."
+
+
+tóralugoo shúyalu réna górumano uvónamu.
+tóralu-ko-e shúya réna górumano i-vóna-mi
+movie-DEF-POSS nuanced rhythm despair INAN-evoke-WIT
+"The nuanced pacing of the film evokes a raw sense of despair."
+
+
+Kogono súzu kálala izamimi, sórumu múranuzómut udólumumu.
+kogono súzu kálala i-sami-mi, sórumu múranuzómut i-dólumu-mi
+although frame grand INAN-be-WIT, story heart INAN-lack-WIT
+"Although the frame composition was grand, the story lacked heart."
+
+
+támodórumagoo tóralunárumagoo vóra zérimi zórazalu idémenimi.
+téme-dóruma-ko-o tóralu-náruma-ko-e vóra zérimi zórazalu i-témeni-mi
+judge-scholar-DEF-ERG actor-DEF-POSS raw energy extraordinary INAN-judge-WIT
+"The critic judged the actor's raw energy to be extraordinary."
+
+
+glízagee ni nárugu sórumuváruzulu ilémarimimi.
+glíza-ko-o ni nárugu sórumu-vérizi-li i-lémarimi-mi
+shimmer-DEF-ERG 1SG difficult story.way-ELAT INAN-distract-WIT
+"The shimmer of the special effects distracted me from the difficult plot."
+
+
+Vóra vózumugoo tánuru izérimimi.
+vóra vózumu-ko-o tánuru i-sérimi-mi
+raw introduction-DEF-ERG attention INAN-ensure-WIT
+"An unfiltered introduction ensures the audience stays focused."
+
+
+Zaragálala zeħris vérizimagoo dórumadórumago avóruzamu.
+zaragálala zeħris vérizima-ko-o dóruma-dóruma-ko a-vóruza-mi
+epic mountain scene-DEF-ERG student-PL-DEF ANIM-surprise-WIT
+"The epic scale of the mountain scene surprised the students."
+
+
+Tee tóraluládamóluru i-témemi héré tálimidérimi múranulu xéliri samine.
+te-o tóralu-láda-móluru i-téme-mi héré tálimi-dérimi múranu-lu xéliri sami-ne
+3SG-ERG script INAN-critique-WIT because speech life-ELAT true be-NEG
+"She critiques the script because the dialogue is not true to life."
+
+
+Lámorudórumagoo shúya mánarugoo sélimili fólumu uvónamu.
+lámoru-dóruma-ko-e shúya mánaru-ko-o sélimili fólumu i-vóna-mi
+music-scholar-DEF-POSS nuanced song-DEF-ERG fated joy INAN-evoke-WIT
+"The musician's nuanced song evoked a fated joy."
+
+
+Tóralugóruamagoo kála nérimi itéramadérimimi shúya vérami izérimili.
+tóralu-góruamu-ko-o kála nérimi i-térama-dérimi-mi shúya vérami i-sérimi-li
+movie-creator-DEF-ERG grand end INAN-sacrifice-WIT nuanced idea INAN-ensure-PURP
+"The director sacrificed a grand ending to ensure a subtle theme."
+
+
+Dórumagee vóra táralizérimigoo mógogoo múranuzómut utórumomu.
+dórumu-ko-e vóra tóralu-zérimi-ko-o mógo-ko-e múranuzómut i-tórumo-mi
+child-DEF-POSS raw movie-energy-DEF-ERG world-DEF-POSS heart INAN-hit-WIT
+"The raw performance of the child hit the heart of the world."
+
+
+Kála fázumago nérimili vérizimani mózu tóraluspáranu vónamu.
+kála fázuma-ko nérimili vérizima-nu mózu tóralu-spíra-nu i-vóna-mi
+grand storm-DEF final scene-INESS terror movie-room-INESS INAN-evoke-WIT
+"A grand storm in the final scene evokes terror in the theatre."
+
+
+Héré réna vóra samimi, nárumanárumagoo xéliri igélimigeme.
+héré réna vóra sami-mi, náruma-náruma-ko-o xéliri i-kélimi-ke-me
+if rhythm raw be-WIT, person-PL-DEF-ERG truth INAN-find-FUT-INFER
+"If the pacing is raw, the audience will find the truth."
+
+
+Málalu ħárumushkoo glízagee dárumodóruma tórunulu ilémarimimi.
+málalu ħárum-ko-e glíza-ko-o dárumo-dóruma tórunu-li i-lémarimi-mi
+gold hawk-DEF-POSS shimmer-DEF-ERG hunter target-ELAT INAN-distract-WIT
+"The shimmer of the golden hawk distracted the hunter from the target."
+
+
+Shúya vóramu sórumunárumagoo sórumu zórazalu izérimimi.
+shúya vóramu sórumu-náruma-ko-e sórumu zórazalu i-sérimi-mi
+nuanced evolution story-person-DEF-POSS story extraordinary INAN-ensure-WIT
+"A subtle evolution of the character ensures the story remains extraordinary."
+
+
+Nie kogo tóralu vóra zérimizárimi idémemi.
+ni-e ko-ko tóralu vóra zérimi-sárimi i-téme-mi
+1SG-ERG this-DEF movie raw energy-struggle INAN-judge-WIT
+"I judge this movie to be a raw struggle for energy."
+
+
+Kála pánuru vérizimagee dórumanu sélimili zárumu vónamu.
+kála pánuru vérizima-ko-o dóruma-nu sélimili zárumu i-vóni-mi
+grand library scene-DEF-ERG student-INESS fated wisdom INAN-evoke-WIT
+"The grand library scene evoked a fated wisdom in the student."
+
+
+Tee férimili límeri géni shúya fólumu vónamu ivézimimi.
+te-o férimili límeri géni shúya fólumu i-vóni-mi i-vézimi-mi
+3SG-ERG bright music INSTR nuanced joy INAN-evoke-WIT INAN-want-WIT
+"She wants to evoke a nuanced joy through the bright music."
+
+
+Dóralunárumago réna dórumadóruma ilémarimine idézimimi.
+tóralu-náruma-ko réna dóruma-dóruma i-lémarimi-ne i-dézimi-mi
+actor-DEF rhythm child-PL INAN-distract-NEG INAN-must-WIT
+"The actor must ensure the pacing does not distract the children."
+
+
+Nérimigee vóra xélirigee zéreni támodóruma uvóruzamu.
+nérimi-ko-e vóra xéliri-ko-o zéreni téme-dóruma u-vóruza-mi
+end-DEF-POSS raw truth-DEF-ERG many judge-scholar ANIM-surprise-WIT
+"The raw truth of the ending surprised even the seasoned critics."
+
+
+Ni zéreniri vórumanu kálala zeħris lága udúramu.
+ni zéreniri vóruma-nu kálala zeħris lága u-túra-mi
+1SG every spring-INESS grand mountain path ANIM-hike-WIT
+"I hike the grand mountain trail every spring."
+
+
+Dórumagee fólumuzérimi fízanini shúyalu sánomu ivízami izamimi.
+dóruma-ko-e fólumugóruama fízani-nu shúyalu sánomu u-fíza-mi i-sami-mi
+student-DEF-POSS joy-creator kitchen-INESS nuanced snack ANIM-cook-WIT INAN-be-WIT
+"The student's hobby is cooking nuanced snacks in the kitchen."
+
+
+Tee múrazamanu milikee glíza umúrazamumu.
+te-o múrazama-nu mili-ko-e glíza u-múrazamu-mi
+3SG-ERG photograph-INESS light-DEF-POSS shimmer ANIM-capture-WIT
+"She captured a shimmer of light in the photograph."
+
+
+Héré félirivérizi górumalu samimi, nie kóvununu kírimigírimi uvúmamu.
+héré féliri-vérizi górumalu sami-mi, ni-e kóvunu-nu kírimi~kírimi u-vúmi-mi
+if sky-way good be-WIT, 1SG-ERG garden-INESS flower~PL ANIM-cultivate-WIT
+"If the weather (sky-way) is good, I cultivate flowers in the garden."
+
+
+Pálumudórumagoo fázuma vózumulu nárugu túramu idérimidérimi izárimimi.
+pálumudóruma-ko-o fázuma vózumu-li nárugu túramu u-dérimi-dérimi i-sárimi-mi
+athlete-DEF-ERG storm beginning-ELAT difficult hike ANIM-finish-finish INAN-struggle-WIT
+"The athlete struggled to finish the difficult hike before the storm."
+
+
+Lámorudórumagoo kálala pálumima apálumumu sélimili fólumu vónalu.
+lámoru-dóruma-ko-o kálala pálumima a-pálumu-mi sélimili fólumu vóna-li
+music-scholar-DEF-ERG grand instrument ANIM-play-WIT fated joy evoke-PURP
+"The musician plays a grand instrument to evoke fated joy."
+
+
+Dózama fálumunáruma véri kómurugómuru hólurulu tógoru izamimi.
+dózama fálumu-náruma véri kómuru-kómuru hólurulu tógoru izamimi
+game enjoy-person BEN computer-PL helpful tool INAN-be-WIT
+"Computers are helpful tools for people who enjoy gaming."
+
+
+Támodórumagoo nérili dózama shúyalu réna upáruma idémenimi.
+támodóruma-ko-o nérili dózama shúyalu réna i-páruma i-témeni-mi
+judge-scholar-DEF-ERG new game nuanced rhythm INAN-possess INAN-judge-WIT
+"The critic judged the new game to have a nuanced rhythm."
+
+
+Hére nie pélani igázumudarumu, nie pélani zánguru umúrazamugomo.
+hére ni-e pélani igázumudarumu, ni-e pélani zánguru u-múrazami-ge-me
+when 1SG-ERG telescope INAN-repair-finish, 1SG-ERG far planet ANIM-capture-FUT-INFER
+"After I repair the telescope, I photograph the distant planet."
+
+
+Dórumugoo márugulu bárolulu abúlumu hére lúmura mánaru umánarumamu ivézimimi.
+dórumu-ko-o márugulu bárolu-lu a-búlumu hére lúmura mánaru u-mánaruma-mi i-vézimi-mi
+child-DEF-ERG downward beach-ILL ANIM-walk while beautiful song ANIM-sing-WIT INAN-want-WIT
+"The child wants to sing a beautiful song while they walk downward to the beach."
+
+
+Shúyalu fíza xóronunu zéreni zórumalu tógoru idézimimi.
+shúyalu fíza xóronu-nu zéreni zórumalu tógoru i-dézimi-mi
+nuanced cooking field-INESS many important tool INAN-need-WIT
+"Nuanced cooking requires many important tools in the field."
+
+
+Dárumodórumago kóramudógorughóronunu fólumu igélimimi héré túrumutúrumugoo tírimi mánarumamu.
+dárumodóruma-ko kóramudógorughóronu-nu fólumu i-kélimi-mi héré túrumu~túrumu-ko-o tírimi mánaruma-mi
+hunter-DEF forest-INESS joy INAN-find-WIT when bird~PL-DEF-ERG together sing-WIT
+"The hunter finds joy in the forest when the birds sing together."
+
+
+Kogono dénidéni nárugulu samimi, nie nili Yúbuysuylu trávimi térami izéralimi.
+kogono déni-déni nárugulu sami-mi, ni-e ni-li Yúbuysuy-lu trávimi térami i-sérali-mi
+although class~PL difficult be-WIT, 1SG-ERG 1SG-POSS UBC-ILL travel dream INAN-reflect-WIT
+"Although the classes are hard, I reflect on my dream of traveling to UBC."
+
+
+Názirigee sagúra kírimigírimi múrazama idérimi ivézimimi.
+náziri-ko-o sagúra kírimi~kírimi múrazama i-dérimi i-vézimi-mi
+sister-DEF-ERG cherry flower~PL photograph INAN-share INAN-want-WIT
+"The sister wants to share the photograph of the cherry blossoms."
+
+
+Kálala dózama vóramugoo dórumadórumago ulómamuno izérimimi.
+kálala dózama vóramu-ko-o dóruma-dóruma-ko i-lómamu-ne i-sérimi-mi
+grand game evolution-DEF-ERG student-PL-DEF INAN-procrastinate-NEG INAN-ensure-WIT
+"A grand evolution of the game ensured the students did not procrastinate."
+
+
+Nie pálumuma ulóradárumumu héré tálimima vóra xòrona uvónamu.
+ni-e pálumuma u-lóradárumu-mi héré tálimima vóra xòrona u-vóna-mi
+1SG-ERG instrument ANIM-reach-WIT because lyrics raw anger ANIM-evoke-WIT
+"I reached for the instrument because the lyrics evoked raw anger."
+
+
+Zúradórumago kárunudózama sélima uzólumu idézimimi.
+zúradóruma-ko kárunu-dózama sélima i-zólumu i-dézimi-mi
+scholar-DEF stone-game rule INAN-memorize INAN-must-WIT
+"The scholar must memorize the rules of the complex board game"
+
+
+Ni tegee lóruma túra dénilili tírimi kávuru uválumu ilímirimi.
+ni te-ke-e lóruma túra dénili-li tírimi kávuru i-fálumu i-límiri-mi
+1PL-PL.SUBJ-ERG long hike end-ELAT together coffee INAN-enjoy INAN-look.forward.to-WIT
+"We look forward to enjoying coffee together after the long hike."
+
+
+Glízami félirinagee fálurunadóruma nóduru-li i-lémarimimi.
+glizami félirina-ko-o félirina-dóruma nóduru-li i-lémarimi-mi
+glowing star-DEF-ERG star-scholar notebook-ELAT INAN-distract-WIT
+"The shimmering stars distracted the astronomer from his notebook."
+
+
+Héré záluma górumalu samimi, sánimunárugoo fólumu géni ivérimigeme.
+héré záluma górumalu sami-mi, sánimunáru-ko-o fólumu géni i-férimi-ge-me
+if food good be-WIT, snacker-DEF-ERG joy INSTR INAN-celebrate-FUT-INFER
+"If the food is tasty, the snacker will celebrate with joy."
+
+
+Zúravórunu zúragúragoo míraninérizibálara ulórumumu.
+zúravórunu zúra-gúra-ko-o míraninérizibálara u-lórumu-mi
+ancient teacher-DEF-ERG sword ANIM-carry-WIT
+"The ancient teacher carried the silver metal weapon."
+
+
+Héré séliru félirili samimi, xáru ħárum pélani ulózumumu.
+héré séliru félirili sami-mi, xáru ħárum pélani u-lózumu-mi
+if ocean blue be-WIT, red hawk far ANIM-fly-WIT
+"If the sea is blue, the red hawk flies far."
+
+
+Zálumavázumu dórumugoo nebárimilimi férimili bádu izálami.
+zálumavázumu dórumu-ko-o nebárimilimi férimili bádu u-zálami-mi
+hungry child-DEF-ERG quietly sweet bread ANIM-bite-WIT
+"The hungry child bit the sweet bread quietly."
+
+
+Fúzu dórumadórumagoo nebárimilimi pánurunu mágedéreni inérimimi.
+fúzu dóruma-dóruma-ko-o nebárimilimi pánuru-nu mógo-téreni u-nérimi-mi
+twelve student-PL-DEF-ERG quiet library-INESS world-data ANIM-wait-WIT
+"Twelve students wait in the quiet library for the new map."
+
+
+Xélirili fálurunadórumagoo várigádi félirinavélirina kárunulu pélanige ivérimami.
+xélirili fálurunadóruma-ko-o várigádi félirina-félirina kárunulu pélani-ko i-vérima-mi
+honest star-scholar-DEF-ERG 80 (ie, 4x20) star-PL heavy telescope-INSTR INAN-see-WIT
+"The honest astronomer sees eighty stars with the heavy telescope."
+
+
+Múranuspárazúradórumagoo zérimineli báruna ħórumu túzuma inízimizizimi.
+Múranuspárazúradóruma-ko-o zérimineli báruna ħórumu túzuma u-nízimi-su-su-mi
+hospital-scholar-DEF-ERG weak animal cold water ANIM-drink-CAUS-CAUS-WIT
+"The doctor made the weak animal drink the cold water in the hospital."
+
+
+Mózunolu dárumodórumagoo tórumalu tézimili tórumodógoru umózumunomu.
+mózunolu dárumodóruma-ko-o tórumalu tézimili tórumo-tógoru u-mózumu-no-mi
+brave hunter-DEF-ERG sharp metal hit-tool ANIM-fear-NEG-WIT
+"The brave hunter does not fear the sharp metal weapon."
+
+
+Málalununulu máguzúrazóronaragoo zéreni málalunulu múranuréza dólumununulu dórumadórumalu udórumozubumu.
+málalununulu máguzúrazóronara-ko-o zéreni málalunulu múranu-réza dólumununulu dóruma-dóruma-lu u-tórumo-su-bi-mi
+rich emperor-DEF-ERG many expensive clothing poor child-PL-ILL ANIM-give-CAUS-BEN-WIT
+"The rich emperor provided many expensive clothes to the poor children."
+
+
+Lámorudórugo sólunuzórumu línenili shúyalu tálimirézami unárumumu.
+lámorudóru-ko sólunu-zórumu líneni-li shúyalu tálimirézami i-nárumu-mi
+musician-DEF time-story world-ELAT nuanced message INAN-write-WIT
+"The musician wrote a nuanced message about the history of the world."
+
+
+Tórumalu xázunu miligee dóruma nárugu dézarili ilémarimimi.
+tórumalu xázunu mili-ko-e dóruma nárugu dézari-li i-lémarimi-mi
+sharp fire light-DEF-ERG student difficult homework-ELAT INAN-distract-WIT
+"The sharp fire light distracted the student from the difficult homework."
+
+
+kóru kóvanulu polunámoragoo séli márugunu abúlumumu.
+kóru kóvanulu polunámora-ko-o séli márugu-nu a-búlumu-mi
+six green lizard-PL-DEF-ERG separately road-INESS ANIM-walk-WIT
+"Six green lizards walk separately on the dry road."
+
+
+Sélimili sériminizéradarimagee pegádi vónuvónu kóvununu igélimimi.
+sélimili sériminizéradarima-ko-o po-kádi vónu-vónu kóvunu-nu i-kélimi-mi
+lucky scientist-DEF-ERG 40 (ie, 2x20) seed-PL garden-INESS INAN-find-WIT
+"A lucky scientist found forty seeds in the ancient garden."
+
+
+Púrumulu mózumagárugo milinezeħrisni xélirini ubúrumumu.
+púrumulu mózumagárugo miline-zeħris-nu xélirini i-púrumu-mi
+deceitful enemy-DEF darkness-mountain-INESS truth INAN-hide-WIT
+"The deceitful enemy hid the truth in the dark cave."
+
+
+Kogono dórava dáliminéri xórumo samimi, línenidárimagee dárumuvólumu izérimimi.
+kogono dórava dáliminéri xórumo sami-mi, líneni-dárima-ko-o dérimi-fólumu i-sérimi-mi
+although system failure serious be-WIT, linguistics-scholar-PL-DEF-ERG success INAN-ensure-WIT
+"Although the system failure was serious, the linguists ensured success."
+
+
+Nízimavézimi sánumunárugo hére píra ħórumu téziri ivézimimi.
+nízimavézimi sánumunáru-ko hére píra ħórumu téziri i-vézimi-mi
+thirsty snacker-DEF now 400 (20^2) cold tea INAN-want-WIT
+"The thirsty snacker wants four hundred cold teas now."
+
+
+Zúragúragoo dórumadórumago mózumulu kórumu tírimira ugázumudarumuzuzumu.
+zúragúra-ko-o dóruma-dóruma-ko mózumulu kórumu tírimira i-kázumudarumu-su-su-mi
+teacher-DEF-ERG student-PL-DEF dirty classroom together INAN-clean-CAUS-CAUS-WIT
+"The teacher made the students clean the dirty classroom together."
+
+
+Shúyalu réna mánarulu sélimili zárumu uvónamu.
+shúyalu réna mánaru-li sélimili zárumu i-vóna-mi
+nuanced rhythm song-ELAT fated wisdom INAN-evoke-WIT
+"The nuanced rhythm of the song evoked a fated wisdom."
+
+
+Zúradórumago zúravórunu sárumuzórumu xéliritéreni ibérimi idézimimi.
+zúradóruma-ko zúravórunu sárumuzórumu xéliritéreni i-périmi i-dézimi-mi
+scholar-DEF ancient conflict evidence INAN-review INAN-must-WIT
+"The scholar must review the evidence of the ancient conflict."
+
+
+vézigádi bóħrunu túrumugoo zéranira shíynili shíynimilu ilózumumu.
+vézi-kádi bóħrunu túrumu-ko-o zéranira shíynili shíynimi-lu i-lózumu-mi
+200 black bird-PL-DEF-ERG often gray mist-ILL INAN-fly-WIT
+"Two hundred black birds flew into the gray mist often."
+
+
+Héré vózumurélama górumalu samimi, tóralugóruamago dárumuvólumu ivérimigeme.
+héré vózumurélama górumalu sami-mi, tóralu-góruamu-ko dérimi-fólumu i-férimi-ge-me
+if draft good be-WIT, director-DEF success INAN-celebrate-FUT-INFER
+"If the draft is good, the director will celebrate the success."
+
+
+Zérimili zélirigee márugulu zárunubárolulu púda udúramumu.
+zérimili zéliri-ko-e márugulu zárunubárolu-lu púda i-dúramu-mi
+strong wind-DEF-ERG downward riverbank-ILL paper boat INAN-crash-WIT
+"The strong wind crashed the boat downward into the riverbank."
+
+
+Lúna nólumulu babúnagoo sélimili múzu vónumavónu uzálumumu.
+lúna nólumulu babún-ko-o sélimili múzu vónuma-vónuma u-zálumu-mi
+nineteen lazy baboon-PL-DEF-ERG daily 8,000 (20^3) fruit-PL ANIM-eat-WIT
+"Nineteen lazy baboons eat eight thousand pieces of fruit daily."
+
+
+Bóħrunuvárumulu tóralugo míraninérili xórumo véramizélima uvónamu.
+bóħrunuvárumulu tóralu-ko míraninéri-li xórumo vérami-sélima i-vóna-mi
+black-and-white movie-DEF death-ELAT serious idea-rule INAN-evoke-WIT
+"The black-and-white film evokes a serious theory about death."
+
+
+Fálurunadórumagoo nili lórada tézimili nóduru ulóradárumumu.
+fálurunadóruma-ko-o ni-li lóra-da tézimili nóduru u-lóra-dárumu-mi
+star-scholar-DEF-ERG 1SG-POSS hand-INALIEN silver notebook ANIM-hand-chase-WIT
+"The astronomer reached for the silver notebook with his hand."
+
+
+Shís mózunolu pálumudórumagoo pegádivézi kílimiri fúramuspáranu arúzamumu.
+shís mózunolu pálumudóruma-ko-o po-kádi-vézi kílimiri fúramu-spára-nu a-rúzamu-mi
+sixteen brave athlete-PL-DEF-ERG 50 (ie, 2 twenties and 10) kilometer stadium-INESS ANIM-run-WIT
+"Sixteen brave athletes run fifty kilometers in the stadium."
+
+
+Xázunu nízamige dórumulu múranubárumu véri mózulu izamimi.
+xázunu nízami-ko dórumulu múranu-bárumu véri mózulu i-sami-mi
+fire smell-DEF.NEAR young animal BEN dangerous INAN-be-WIT
+"The smell of the fire is dangerous for the young animals."
+
+
+Xélirili támodórumagoo tóraluládamóluruli nárugunini zúra vóvumalu idémenimi.
+xélirili támodóruma-ko-o tóralu-láda-móluru-li nárugunini zúra vóvumalu i-témeni-mi
+honest judge-scholar-DEF-ERG movie-book-ELAT complexity very high INAN-judge-WIT
+"The honest critic judged the script's complexity to be very high."
+
+
+Héré rénavérizi tógorulu samimi, áimi dóranárumago fúdurulu izérimigeme.
+héré rénavérizi tógorulu sami-mi, áimi dóranáruma-ko fúdurulu i-sérimi-ge-me
+if pattern tool-ADJ be-WIT, AI agent-DEF quickly INAN-learn-FUT-INFER
+"If the pattern is useful, the AI agent will learn quickly."
+
+
+Mógospórumu kálala pánurunu kázumulu hére glízali izamimi.
+mógo-spórumu kálala pánuru-nu kázumulu hére glízali i-sami-mi
+world-stuff grand library-INESS clean and bright INAN-be-WIT
+"Everything in the grand library is clean and bright."
+
+
+Vóma félirinavélirina zúravórunu félirini zérani glizami.
+vóma félirina-félirina zúravórunu féliri-nu zérani glizami
+64,000,000 (20^6) star-PL ancient sky-INESS always glow
+"Sixty-four million stars shine in the ancient sky forever."
+
+
+Zálumanu dórumagoo báza udórumomu.
+záluma-nu dóruma-ko-o báza i-tórumo-mi
+food-INESS student-DEF-ERG salt INAN-give-WIT
+"The student put salt in the food."
+
+
+daganu nie ħárumlu níma ivérimami.
+daga-nu ni-e ħárum-li níma i-vérima-mi
+earth-INESS 1SG-ERG hawk-POSS shadow INAN-see-WIT
+"I see the shadow of the hawk on the earth."
+
+
+Múranuspárazúradórumagoo dóruma múranuzáluma azálumuzumu.
+múranuspárazúradóruma-ko-o dóruma múranuzáluma a-zálumu-su-mi
+hospital-scholar-DEF-ERG child life-food ANIM-eat-CAUS-WIT
+"The doctor made the sick child take the medicine."
+
+
+Héré zérimili vúru samimi, fúma félirili bóromumu.
+héré zérimi-li vúru sami-mi, fúma féliri-lu bóromu-mi
+if strong-ADJ wind be-WIT, smoke sky-ILL go-WIT
+"If the wind is strong, the smoke goes into the sky."
+
+
+Mózumanáruma nèmispírani kádi vári séradidézimimi.
+mózu-ma-náruma nèmispíra-nu kádi vári séradi-dézimi-mi
+sin-thing-person prison-INESS twenty year remain-must-WIT
+"The criminal must stay in the prison for twenty years."
+
+
+Nilu náziri shéneda udórumodórumamu.
+ni-li náziri shéno-da i-tórumo-dérimi-mi
+1SG-POSS sister bone-INALIEN INAN-hit-finish-WIT
+"My sister's bone is broken."
+
+
+Máguzúrazóronaragoo málalu lúmuralupélo ubárumamu.
+Máguzúrazóronara-ko-o málalu lúmuralupálo i-páruma-mi
+honoured-leader-DEF-ERG gold soft-skin INAN-possess-WIT
+"The emperor wears golden armor."
+
+
+Lízireo lédani rázumurána unárumumu?
+lízire-o léda-nu rázumurána i-nárumu-mi
+who-ERG paper-INESS alphabet INAN-write-WIT
+"Who wrote the alphabet on the paper?"
+
+
+Nie vólumudógoru udórumumu kórumu iáramali.
+ni-e vólumutógoru i-tórumu-mi kórumu i-árama-li
+1SG-ERG key INAN-use-WIT classroom INAN-welcome-PURP
+"I used the key to open the classroom."
+
+
+Pozúradórumao píra félirinavélirina pélanige ivérimami.
+po-zúradóruma-o píra félirina-félirina pélani-ko i-vérima-mi
+DUAL-scholar-ERG 400 star-PL telescope-INSTR INAN-see-WIT
+"The two scholars saw four hundred stars through the telescope."
+
+
+Dárumodórumalu tórumodógoru tórumalu hére kárunulu izamimi.
+dárumodóruma-li tórumodógoru tórumalu hére kárunulu i-sami-mi
+hunter-POSS weapon sharp-ADJ and heavy-ADJ INAN-be-WIT
+"The hunter's weapon is sharp and heavy."
+
+
+Mázumugo sánomu inízamimi lú?
+mázumu-ko sánomu i-nízami-mi lú
+cat-DEF.NEAR snack INAN-smell-WIT Q.POLAR
+"Does the cat smell the snack?"
+
+
+Vórumanu màru zúra lúmuralu izamimi.
+vóruma-nu màru zúra lúmura-lu i-sami-mi
+spring-INESS valley very beautiful-ADJ INAN-be-WIT
+"The valley is very beautiful in the spring."
+
+
+Dórumago móluru udólumumu pánurunu.
+dóruma-ko móluru i-dólumu-mi pánuru-nu
+student-DEF.NEAR dictionary INAN-forget-WIT library-INESS
+"The student forgot the dictionary in the library."
+
+
+Teo ni rázumurána ielirízimizizimi.
+te-o ni rázumuréna i-elirízimi-su-su-mi
+3SG-ERG 1SG alphabet INAN-read-CAUS-CAUS-WIT
+"He made me read the alphabet."
+
+
+Dórumugo vónuma azálamimi.
+dórumu-ko vónuma a-zálami-mi
+child-DEF.NEAR fruit ANIM-bite-WIT
+"The child bit the fruit."
+
+
+Ni tegee vóma nárumanáruma mógonu avérimami.
+ni te-ke-e vóma náruma-náruma mógo-nu a-vérima-mi
+1PL.INCL-PL.SUBJ-ERG 64,000,000 person-PL world-INESS ANIM-see-WIT
+"We saw sixty-four million people in the world."
+
+
+Nilu tára hére sólunudógoru ukázumumu.
+ni-li tára hére sólunudógoru i-kázumu-mi
+1SG-POSS father now clock INAN-repair-WIT
+"My father repaired the clock now."
+
+
+Héré ishíynimi, dága shíynimili izamimi.
+héré i-shíyni-mi, daga shíynimili i-sami-mi
+if INAN-rain-WIT, earth wet-ADJ INAN-be-WIT
+"If it rains, the soil is wet."
+
+
+Pálumudórumagoo málaluma ugólomu.
+pálumudóruma-ko-o málalu-ma i-kólo-mi
+athlete-DEF-ERG gold-thing INAN-ring-WIT
+"The athlete reached for the golden ring."
+
+
+Várudógorugo férimili mili izéralimi.
+várudógoru-ko férimili mili i-sérali-mi
+look-tool-DEF.NEAR bright light INAN-reflect-WIT
+"The mirror reflects the bright light."
+
+
+Ú nólumulu babúnushgoo màrunu aórumomu.
+ú nólumulu babún-ko-o màru-nu a-órumo-mi
+eight lazy-ADJ baboon-DEF-ERG valley-INESS ANIM-sleep-WIT
+"Eight lazy baboons sleep in the valley."
+
+
+Nie dóruma nérili nóduru udórumomu.
+ni-e dóruma nérili nóduru i-tórumo-mi
+1SG-ERG student new notebook INAN-give-WIT
+"I gave the student a new notebook."
+
+
+níma donubánunu izéradimi.
+níma donubánu-nu i-séradi-mi
+shadow museum-INESS INAN-remain-WIT
+"The ghost remains in the museum."
+
+
+zúragúragoo dórumadóruma zeħrisli sólunuzórumu izérimizizimi.
+zúragúra-ko-o dóruma-dóruma zeħris-li sólunuzórumu i-sérimi-su-su-mi
+teacher-DEF-ERG student-PL mountain-POSS history INAN-learn-CAUS-CAUS-WIT
+"The teacher taught the students the history of the mountain."
+
+
+Múnarunu fálurunadórumagoo várigádi félirinavélirina ivérimami.
+múnaru-nu fálurunadóruma-ko-o vári-kádi félirina-félirina i-vérima-mi
+observatory-INESS star-scholar-DEF-ERG four-score star-PL INAN-see-WIT
+"The astronomer who is in the observatory sees eighty stars."
+
+
+Héré dórumagoo vólumudógoru igélimimi, tege nèmispíra iáramageme.
+héré dóruma-ko-o vólumudógoru i-kélimi-mi, te-ke nèmispíra i-árama-ge-me
+if student-DEF-ERG window-tool INAN-find-WIT, 3SG-ERG wait-room INAN-open-FUT-INFER
+"If the student finds the key, they will open the prison."
+
+
+Hére zúragúragoo tálimimi, nie báza ulóradárumumu.
+hére zúragúra-ko-o tálimi-mi, ni-e báza i-lóradárumu-mi
+while scholar-friend-DEF-ERG speak-WIT, 1SG-ERG salt INAN-hand-chase-WIT
+"I reached for the salt while the teacher was speaking."
+
+
+Shénoda udórumodórumamu tórumodórumagoo lúmuralubálo ubárumamu.
+shéne-da i-tórumo-dérimi-mi tórumodóruma-ko-o lúmuralubálo i-páruma-mi
+bone-INALIEN INAN-hit-finish-WIT hit-scholar-DEF-ERG soft-skin INAN-possess-WIT
+"The fighter whose bone was broken wears armour."
+
+
+Kóvanulu màrunu niza babúnushmúrunu vónuma azálumumu.
+kóvanulu màru-nu niza babún-múru-nu vónuma a-zálumu-mi
+green-ADJ valley-INESS eight baboon-PL-ERG fruit ANIM-eat-WIT
+"Eight baboons eat fruit in the green valley."
+
+
+Lòrulu rázumurána nárugulu samimi, dórumadórumagoo nérili rázumurána ugóruamugomo ivézimimi.
+lòru-lu rázumurána nárugu-lu sami-mi, dóruma-dóruma-ko-o nérili rázumurána i-góruamu-ke-me i-vézimi-mi
+old-ADJ alphabet difficult-ADJ be-WIT, student-PL-DEF-ERG new-ADJ alphabet INAN-create-FUT-DIR INAN-want-WIT
+"Because the old alphabet is difficult, the children want to create a new one."
+
+
+daganu ħárumlu níma bóħrunu kólo izamimi.
+daga-nu ħárum-li níma bóħrunu kólo i-sami-mi
+dirt-INESS hawk-POSS shadow black circle INAN-be-WIT
+"The shadow of the hawk is a black circle on the dirt."
+
+
+Lízireo bárunalu múranu izérimidérimili múranuzáluma udórumumu?
+lízire-o báruna-li múranu i-sérimi-dérimi-li múranuzáluma i-tórumu-mi
+who-ERG animal-POSS life INAN-ensure-finish-PURP life-food INAN-use-WIT
+"Who used the medicine to ensure the animal's life?"
+
+
+Máguzúrazóronaralu málalu kólo zárunulu uvárumumu.
+Máguzúrazóronara-li málalu kólo zárunu-lu i-fárumu-mi
+honoured-leader-POSS gold ring river-ILL INAN-pass-WIT
+"The emperor's golden ring fell into the river."
+
+
+Héré tímee fúma ivérimami, dómurunu xázunu izamimi.
+héré tíme-e fúma i-vérima-mi, dómuru-nu xázunu i-sami-mi
+if 2SG.FORMAL-ERG smoke INAN-see-WIT, house-INESS fire INAN-be-WIT
+"If you see smoke, there is fire in the house."
+
+
+Dórumagoo idórumodórumamu várudógorugo fízani izamimi.
+dóruma-ko-o i-tórumo-dérimi-mi várudógoru-ko fízani i-sami-mi
+child-DEF-ERG INAN-hit-finish-WIT look-tool-DEF.NEAR kitchen INAN-be-WIT
+"The mirror that the child broke was in the kitchen."
+
+
+Píra dórumadórumagoo líneni hére stádira izérimimi.
+píra dóruma-dóruma-ko-o líneni hére stádira i-sérimi-mi
+four-hundred student-PL-DEF-ERG linguistics and statistics INAN-learn-WIT
+"Four hundred students learn linguistics and statistics."
+
+
+Hére záluma inízamimi, mázumugo uzólumumu.
+hére záluma i-nízami-mi, mázumu-ko i-sólumu-mi
+while food INAN-smell-WIT, cat-DEF.NEAR INAN-sit-WIT
+"The cat sits while it smells the food."
+
+
+Názirige mózunolu samimi, lúmuralubálo ubárumugomo ivézimimi.
+náziri-ko mózunolu sami-mi, lúmuralubálo i-páruma-ke-me i-vézimi-mi
+sister-DEF brave-ADJ be-WIT, soft-skin INAN-possess-FUT-DIR INAN-want-WIT
+"Because the sister is brave, she wants to have armor."
+
+
+Zúragúragoo dóruma tírimi sómutsómut unárumuzuzumu.
+zúragúra-ko-o dóruma tírimi sómut-sómut i-nárumu-su-su-mi
+scholar-friend-DEF-ERG student together sentence-PL INAN-write-CAUS-CAUS-WIT
+"The teacher made the student write sentences together."
+
+
+Kogonováruzulu Sám míranispírani níza kólogólo ivérimami.
+Kogonováruzulu sám míranispíra-nu níza kólo-kólo i-vérima-mi
+otherwise empty death-room-INESS nine ring-PL INAN-see-WIT
+"I see nine rings in the otherwise empty grave."
+
+
+Fázumugo mógolu uvóvumamu málalu kólo izamimi.
+fázumu-ko mógo-lu i-vóvuma-mi málalu kólo i-sami-mi
+sun-DEF.NEAR world-ILL INAN-rise-WIT gold circle INAN-be-WIT
+"The sun is a golden circle that rises over the world."
+
+
+Héré kérim xélirine samimi, gérimi dáliminérigeme.
+héré kérim xéliri-no sami-mi, gérimi dáliminéri-ge-me
+if calculation true-NEG be-WIT, project failure-FUT-INFER
+"If the calculation is wrong, the project will fail."
+
+
+Páloda lúmuralu dórumugo vóruma uválumumu.
+pálo-da lúmuralu dórumu-ko vóruma i-fálumu-mi
+skin-INALIEN soft-ADJ child-DEF.NEAR spring INAN-enjoy-WIT
+"The child whose skin is soft enjoys the spring."
+
+
+Shéne igélimimi hére, dárumodórumagoo zeħris izérimidérimimi.
+shéne i-kélimi-mi hére, dárumodóruma-ko-o zeħris i-sérimi-dérimi-mi
+bone INAN-find-WIT after, chase-scholar-DEF-ERG mountain INAN-learn-finish-WIT
+"After he found the bone, the hunter mastered the mountain."
+
+
+Gérimi idérimimi sélimi ilímirimi.
+gérimi i-dérimi-mi sélimi i-límiri-mi
+project INAN-finish-WIT day INAN-look-forward-WIT
+"We look forward to the day when the project is finished."
+
+
+Nie dóruma-lu vóma vónuvónu udórumomu.
+ni-e dóruma-lu vóma vónu-vónu i-tórumo-mi
+1SG-ERG student-ILL sixty-four-million seed-PL INAN-give-WIT
+"I gave sixty-four million seeds to the student."
+
+
+Xérali rázumuránagoo teli sérimini isérimimi.
+xérali rázumurána-ko-o teli sérimini i-sérimi-mi
+expressive alphabet-DEF-ERG 1PL.POSS knowledge INAN-ensure-WIT
+"The expressive alphabet ensures our knowledge."
+
+
+Nèmispírani vóru bóħrunu vólumumúrunu izamimi.
+nèmispíra-nu Ú bóħrunu vólumu-múru i-sami-mi
+wait-room-INESS eight black window-PL INAN-be-WIT
+"The prison has eight black windows."
+
+
+Héré dórumagoo tézimili kólo igélimimi, zúragúragoo férimala izamigeme.
+héré dóruma-ko-o tézimili kólo i-kélimi-mi, zúragúra-ko-o férimala i-sami-ge-me
+if student-DEF-ERG silver ring INAN-find-WIT, teacher-DEF-ERG happy INAN-be-FUT-INFER
+"If the student finds the silver ring, the teacher will be happy."
+
+
+Hére fálurunadórumagoo téreni ibérimimi, dórumagoo pánurunu aórumomu.
+hére fálurunadóruma-ko-o téreni i-périmi-mi, dóruma-ko-o pánuru-nu a-órumo-mi
+while star-scholar-DEF-ERG data INAN-review-WIT, student-DEF-ERG library-INESS ANIM-sleep-WIT
+"While the astronomer reviews the data, the student sleeps in the library."
+
+
+Bóħrunu mìlimìli ubárumamu túrumugo milineli kóramudógorughóronulu lózumumu.
+bóħrunu mìli-mìli i-páruma-mi túrumu-ko milineli kóramudógoru-xóronu-lu lózumu-mi
+black feather-PL INAN-possess-WIT bird-DEF dark forest-ILL fly-WIT
+"The bird with black feathers flies into the dark forest."
+
+
+Vánuguvanu ishíynimi hére, dórumadórumagoo spírani pálumumu.
+Vánuguva-nu i-shíyni-mi hére, dóruma-dóruma-ko-o spíra-nu pálumu-mi
+Vancouver-INESS INAN-rain-WIT because, child-PL-DEF-ERG room-INESS play-WIT
+"Because it is raining in Vancouver, the children play in the room."
+
+
+Héré tórumodórumago lúmuralubálo udólumumu, sárumuzórumu mózulu izamimi.
+héré tórumodóruma-ko lúmuralubálo i-dólumu-mi, sárumuzórumu mózulu i-sami-mi
+if hit-scholar-DEF armor INAN-lack-WIT, conflict dangerous INAN-be-WIT
+"If the warrior lacks armor, the battle is dangerous."
+
+
+Fénara ugóruamumu sériminizéradarimagoo teli nérivári izérimimi.
+fénara i-góruamu-mi sériminizéradarima-ko-o teli nérivári i-sérimi-mi
+algorithm INAN-create-WIT scientist-DEF-ERG 1PL.POSS future INAN-ensure-WIT
+"The scientist who creates the algorithm ensures our future."
+
+
+Hére ni tegee tírimi báluru ivírimimi, zárunu fúdurulu imézimimi.
+hére ni te-ke-e tírimi báluru i-fírimi-mi, zárunu fúdurulu i-mézimi-mi
+while 1PL.INCL PL.SUBJ-ERG together bridge INAN-build-WIT, river quick INAN-flow-WIT
+"While we build the bridge together, the river flows quickly."
+
+
+Dórumagoo idézimimi mínirige nérili kórumunu izamimi.
+dóruma-ko-o i-dézimi-mi míniri-ko nérili kórumu-nu i-sami-mi
+student-DEF-ERG INAN-need-WIT laptop-DEF new classroom-INESS INAN-be-WIT
+"The laptop that the student needs is in the new classroom."
+
+
+Héré kérime lízéra udórumomu, dóruva inérimigeme.
+héré kérim-o lízéra i-tórumo-mi, dóruva i-nérimi-ge-me
+if calculation-ERG zero INAN-hit-WIT, program INAN-end-FUT-INFER
+"If the calculation hits zero, the program will end."
+
+
+Vúlumu adárumumu mázumugo mózunolu sami dézimimi.
+vúlumu a-dárumu-mi mázumu-ko mózunolu sami dézimi-mi
+fox ANIM-chase-WIT cat-DEF brave-ADJ be must-WIT
+"The cat that chases the fox must be brave."
+
+
+Hére zúragúragoo lóruma idálimimi, dórumadórumagoo ibárimimi.
+hére zúragúra-ko-o lóruma i-tálimi-mi, dóruma-dóruma-ko-o i-bárimi-mi
+when teacher-DEF-ERG language INAN-speak-WIT, student-PL-DEF-ERG INAN-hear-WIT
+"When the teacher speaks the language, the students listen."
+
+
+Dárumodórumagoo màrunu igélimimi shéno zúravórunulu izamimi.
+dárumodóruma-ko-o màru-nu i-kélimi-mi shéne zúravórunu-lu i-sami-mi
+hunter-DEF-ERG valley-INESS INAN-find-WIT bone ancient-ADJ INAN-be-WIT
+"The bone that the hunter found in the valley is ancient."
+
+
+Héré téziri xázunulu samimi, dórumagoo nólumulu inízimigeme.
+héré téziri xázunulu sami-mi, dóruma-ko-o nólumulu i-nízimi-ge-me
+if tea hot-ADJ be-WIT, student-DEF-ERG slow INAN-drink-FUT-INFER
+"If the tea is hot, the student will drink slowly."
+
+
+Kóramudógorugoo ugóruamumu níma lúmuralu kólo izamimi.
+kóramudógoru-ko-o i-góruamu-mi níma lúmura-lu kólo i-sami-mi
+tree-DEF-ERG INAN-create-WIT shadow beautiful circle INAN-be-WIT
+"The shadow that the tree creates is a beautiful circle."
+
+
+Tímege sélima uzólumu dézimimi; kogonováruzulu, tímee dózama ubálumunomu.
+tíme-ge sélima i-zólumu dézimi-mi; kogonováruzulu, tíme-e dózama i-pálumu-no-mi
+2SG.FORMAL-ERG rule INAN-memorize must-WIT; otherwise, 2SG.FORMAL-ERG game INAN-play-can-NEG-WIT
+"You must memorize the rules; otherwise, you cannot play the game."
+
+
+Fálurunadórumagoo pélanige fúzu zángurumúrunu ivérimami.
+fálurunadóruma-ko-o pélani-ke fúzu zánguru-múru i-vérima-mi
+star-scholar-DEF-ERG telescope-INSTR twelve planet-PL INAN-see-WIT
+"The astronomer sees twelve planets with the telescope."
+
+
+Málalununulu Máguzúrazóronaragoo zéreni málalu kólogólo ubárumamu.
+málalununulu Máguzúrazóronara-ko-o zéreni málalu kólo-kólo i-páruma-mi
+rich honoured-leader-DEF-ERG many gold circle-PL INAN-possess-WIT
+"The rich emperor possesses many golden rings."
+
+
+Dólumununulu dórumugo fízanini pólurila sánomu azálumumu.
+dólumununulu dórumu-ko fízani-nu póluru-la sánomu a-zálumu-mi
+poor child-DEF kitchen-INESS small-ADJ.ANIM snack ANIM-eat-WIT
+"The poor child eats a small snack in the kitchen."
+
+
+Mózunolu dárumodórumagoo kóramudógorughóronunu bíra tórunudórunu udórumomu.
+mózunolu dárumodóruma-ko-o kóramudógoru-xóronu-nu bíra tórunu-tórunu i-tórumo-mi
+brave hunter-DEF-ERG forest-INESS fifteen target-PL INAN-hit-WIT
+"The brave hunter hits fifteen targets in the forest."
+
+
+Teli númagoo dómurunu ú nérili súmurumúrunu idézimimi.
+teli núma-ko-o dómuru-nu Ú nérili súmuru-múru i-dézimi-mi
+1PL.POSS family-DEF-ERG house-INESS eight new bed-PL INAN-need-WIT
+"Our family needs eight new beds in the house."
+
+
+Sériminizéradarimagee tírimi píra vónuvónu igérimimi.
+sériminizéradarima-ko-o tírimi píra vónu-vónu i-kérimi-mi
+scientist-DEF-ERG together four-hundred seed-PL INAN-count-WIT
+"The scientist counts four hundred seeds together."
+
+
+Tézimili lúmuralubálo zúra kárunulu hére málalunulu izamimi.
+tézimili lúmuralubálo zúra kárunulu hére málalunulu i-sami-mi
+silver soft-skin very heavy and expensive INAN-be-WIT
+"The silver armour is very heavy and expensive."
+
+
+Bálurunu níza túrumumúrunu lúmuralu mánaru umánarumamu.
+báluru-nu níza túrumu-múru lúmuralu mánaru i-mánaruma-mi
+bridge-INESS nine bird-PL beautiful song INAN-sing-WIT
+"Nine birds sing a beautiful song on the bridge."
+
+
+Dórumagoo tézimili tézimi tógoru ulóradárumumu.
+dóruma-ko-o tézimili tézimi tógoru i-lóra-dárumu-mi
+student-DEF-ERG silver metal tool INAN-hand-chase-WIT
+"The student reached for the silver metal tool."
+
+
+Ħárumushlu níma bóħrunu hére xórumo izamimi.
+ħárum-li níma bóħrunu hére xórumo i-sami-mi
+hawk-POSS shadow black and serious INAN-be-WIT
+"The shadow of the hawk is black and serious."
+
+
+Vóma nárumanárumagoo lúmuralu mógonu azéradimi.
+vóma náruma-náruma-ko-o lúmuralu mógo-nu a-séradi-mi
+64,000,000 person-PL-DEF-ERG beautiful world-INESS ANIM-remain-WIT
+"Sixty-four million people live in this beautiful world."
+
+
+Dórumagoo tírimi vóza póluru várudógoruvárudógoru udórumodórumamu.
+dóruma-ko-o tírimi vóza póluru várudógoru-várudógoru i-tórumo-dérimi-mi
+child-DEF-ERG together eighteen small look-tool-PL INAN-hit-finish-WIT
+"The child broke eighteen small mirrors together."
+
+
+Kóvanulu màrulu fúma vóvumamu ivérimami.
+kóvanulu màru-li fúma vóvuma-mi i-vérima-mi
+green valley-ELAT smoke rise-WIT INAN-see-WIT
+"I see smoke rising from the green valley."
+
+
+Lámorudórumagoo ú sélimini pálumuma apálumumu.
+lámorudóru-ko-o ú sélimi-nu pálumuma a-pálumu-mi
+music-scholar-DEF-ERG eight day-INESS instrument ANIM-play-WIT
+"The musician plays the instrument for eight days."
+
+
+Zúradórumagoo tézimili vólumudógoru udórumumu pánurulu bóromulu.
+zúradóruma-ko-o tézimili vólumudógoru i-tórumu-mi pánuru-lu bóromu-li
+scholar-DEF-ERG silver key INAN-use-WIT library-ILL go-PURP
+"The scholar used the silver key to enter the library."
+
+
+Mózunolu dárumodórumagoo báza bádu azálamimi.
+mózunolu dárumodóruma-ko-o báza bádu a-zálami-mi
+brave hunter-DEF-ERG salt bread ANIM-bite-WIT
+"The brave hunter bit the salty bread."
+
+
+Nie vóma vónuvónu kóvanulu màrunu ivérimami.
+ni-e vóma vónu-vónu kóvanulu màru-nu i-vérima-mi
+1SG-ERG 64,000,000 seed~PL green valley-INESS INAN-see-WIT
+"I see sixty-four million seeds in the green valley."
+
+
+Dóruma lóradatago ħórumu izamimi fázumalu.
+dóruma lóra-ta-ko-o ħórumu i-sami-mi fázuma-li
+student hand-INALIEN-DEF-ERG cold INAN-be-WIT storm-ELAT
+"The student’s hand is cold after the storm."
+
+
+Fúzu nólumulu babúnushbabún milinezeħrisni aórumomo.
+fúzu nólumulu babún-babún milinezeħris-nu a-órumo-mi
+twelve lazy baboon-PL dark-mountain-INESS ANIM-sleep-WIT
+"Twelve baboons are sleeping in the dark cave."
+
+
+Máguzúrazóronaragoo lámorudóru amánarumazubumu nárumanárumalu.
+máguzúrazóronara-ko-o lámorudóru a-mánaruma-su-bi-mi náruma~náruma-lu
+emperor-DEF-ERG musician ANIM-sing-CAUS-BEN-WIT person~PL-ILL
+"The emperor had the musician sing for the people’s benefit."
+
+
+Kogonováruzulu níma sám nèmispírani izéradimi.
+kogonováruzulu níma sám nèmispíra-nu i-séradi-mi
+otherwise ghost empty prison-INESS INAN-remain-WIT
+"Otherwise, the ghost remains in the empty prison."
+
+
+Lízireo zúravórunu shónomúrunu rázumurána unárumumu?
+lízire-o zúravórunu shéne-múru-nu rázumurána i-nárumu-mi
+who-ERG ancient bone-PL-INESS alphabet INAN-write-WIT
+"Who wrote the alphabet on the ancient bones?"
+
+
+Xáru ħárumgoo bóħrunu ħòrogo shíynimili adárumumu.
+xáru ħárum-ko-o bóħrunu ħòro-ko shíynimi-lu a-dárumu-mi
+red hawk-DEF-ERG black crow-DEF mist-ILL ANIM-chase-WIT
+"The red hawk chased the black crow into the mist."
+
+
+Numúrudago fázumulu málalu glíza ivérimami.
+ni-múru-ta-ko-o fázumu-li málalu glíza i-vérima-mi
+1SG-eye-INALIEN-DEF-ERG sun-POSS gold shimmer INAN-see-WIT
+"My eyes see the golden shimmer of the sun."
+
+
+Sériminizéradarimagee múranuzáluma igélimimi zérimineli báruna véri.
+sériminizéradarima-ko-o múranuzáluma i-kélimi-mi zérimineli báruna véri
+scientist-DEF-ERG life-food INAN-find-WIT weak animal BEN
+"The scientist found medicine for the weak animal."
+
+
+Dórumugo kóvununu vónuma azálamimi lúmuralu.
+dórumu-ko kóvunu-nu vónuma a-zálami-mi lúmura-lu
+child-DEF.NEAR garden-INESS fruit ANIM-bite-WIT beautiful-ADJ
+"The child bit the fruit in the beautiful garden."
+
+
+kádingéreú félirinafélirina félirini glizami.
+kádi-hére-ú félirina-múru féliri-nu glizami
+twenty-and-eight star-PL sky-INESS glow
+"Twenty-eight stars shine in the sky."
+
+
+Héré dága shíynimili samimi, máys fúdurulu idárimigeme.
+héré daga shíynimili sami-mi máys fúdurulu i-dárimi-ge-me
+if soil wet-ADJ be-WIT corn quick-ADJ INAN-grow-FUT-INFER
+"If the soil is wet, the corn will grow quickly."
+
+
+Dórumagoo gérimi sélimasélima udólumuno dézimi.
+dóruma-ko-o gérimi sélima-múru i-dólumu-ne dézimi
+student-DEF-ERG project rule-PL INAN-forget-NEG must-WIT
+"The student must not forget the rules of the project."
+
+
+Nie sériminizéradarima xúbaru fázuma ivérimazizimi.
+ni-e sériminizéradarima xúbaru fázuma i-vérima-su-su-mi
+1SG-ERG scientist satellite storm INAN-see-CAUS-CAUS-WIT
+"I made the scientist make the satellite see the storm."
+
+
+Dárumodóruma nériteda udólumumulu nímage màrunu izéradimi.
+dárumodóruma néri-te-ta i-dólumu-mi-li níma-ko màru-nu i-séradi-mi
+hunter leg-3SG-INALIEN INAN-lose-WIT-POSS ghost-DEF valley-INESS INAN-remain-WIT
+"The ghost of the hunter who lost his leg remains in the valley."
+
+
+Nidedegee máguzúrazóronara númagaru vérizini azhudórumuzumu há!
+ni-te-te-ko-e máguzúrazóronara núma-géri vérizi-nu a-shi-tórumu-su-mi há
+1-3-PL-DEF-ERG emperor family-friend manner-INESS ANIM-REC-act-CAUS-WIT MIR
+"We (exclusive) made the emperor act like a brother, wow!"
+
+
+Áimi dóranárumagoo nèmispíra ugázumudarumuno ivézimineme.
+áimi dóranáruma-ko-o nèmispíra i-kázumudarumu-ne i-vézimi-ne-me
+AI agent-DEF-ERG prison INAN-clean-NEG INAN-want-NEG-INFER
+"Apparently, the AI agent did not want to clean the prison."
+
+
+poválurunadórumao pélani zeħrisli udúramuzuno dézimi.
+po-fálurunadóruma-o pélani zeħris-lu i-dúramu-su-ne dézimi
+DUAL-star-scholar-ERG telescope mountain-ILL INAN-crash-CAUS-NEG must-WIT
+"The two astronomers must not let the telescope crash into the mountain."
+
+
+Zúravórunu rázumurána ubúrumumulu, dórumadórumago izérimidérimi ivárumunomu.
+zúravórunu rázumurána i-púrumu-mi-li dóruma~dóruma-ko i-sérimidérimi i-fárumu-no-mi
+ancient alphabet INAN-hide-WIT-ELAT student~PL INAN-master INAN-can-NEG-WIT
+"Because of the ancient script being hidden, the students cannot graduate."
+
+
+Nie zúragúra dórumu málalu kólo ulóradárumuzuzubumu.
+ni-e zúragúra dórumu málalu kólo i-lóradárumu-su-su-bi-mi
+1SG-ERG teacher child gold ring INAN-reach-CAUS-CAUS-BEN-WIT
+"I had the teacher make the child obtain the golden ring."
+
+
+Mázumu píbi spírali adárumumugo sánomu ivézimimi lú?
+mázumu píbi spíra-lu a-dárumu-mi-ko sánomu i-vézimi-mi lú
+cat hummingbird room-ILL ANIM-chase-WIT-DEF.NEAR snack INAN-want-WIT Q.POLAR
+"Does the cat that chased the hummingbird into the room want snacks?"
+
+
+Málalu kólo ubárumamulu máguzúrazóronaragoo dólumununulu górumano ivérimami.
+málalu kólo i-páruma-mi-li máguzúrazóronara-ko-o dólumununulu górumano i-vérima-mi
+gold ring INAN-possess-WIT-POSS emperor-DEF-ERG poor-POSS despair INAN-see-WIT
+"The emperor who has the golden ring saw the despair of the poor."
+
+
+Héré nie nárugu fénara idérimidérimimi, mógogoo góruma imérimigeme.
+héré ni-e nárugu fénara i-dérimidérimi-mi mógo-ko-o góruma i-mérimi-ge-me
+if 1SG-ERG difficult algorithm INAN-finish-finish-WIT world-DEF-ERG hope INAN-recover-FUT-INFER
+"If I master the difficult algorithm, the world will regain hope."
+
+
+Poéle bóħrunulu pélani alózumu dézimi fázuma mózu uvónamulu.
+po-éle bóħrunu-lu pélani a-lózumu dézimi fázuma mózu i-vóna-mi-li
+DUAL-swan black-ADJ far ANIM-fly must-WIT storm terror INAN-evoke-WIT-ELAT
+"The two black swans must fly far because of the storm evoking terror."
+
+
+Nie numúranuzómutta xélirini sólunuzórumulu iáramazimi.
+ni-e ni-múranuzómut-ta xélirini sólunuzórumu-li i-árama-su-mi
+1SG-ERG 1SG-heart-INALIEN truth history-ELAT INAN-welcome-CAUS-WIT
+"I made my heart welcome the truth of history."
+
+
+Líziree tórumodóruma tézimili míraninérizibálara màrunu ubúrumuzumm?
+lízire-o tórumodóruma tézimili míraninérizibálara màru-nu i-púrumu-su-mi
+who-ERG warrior silver sword valley-INESS INAN-hide-CAUS-WIT
+"Who made the warrior hide the silver sword in the valley?"
+
+
+Dóruma múrudago pánurunu izéradimili níma avérimami.
+dóruma múru-ta-ko-o pánuru-nu i-séradi-mi-li níma a-vérima-mi
+student eye-INALIEN-DEF-ERG library-INESS INAN-remain-WIT-POSS ghost ANIM-see-WIT
+"The student’s eyes see the ghost that remains in the library."
+
+
+Nidigee áimi dórava mógo sélimi igérimizimi.
+ni-ti-ko-e áimi dórava mógo sélimi i-kérimi-su-mi
+1-2-DEF-ERG AI system world fate INAN-calculate-CAUS-WIT
+"We (inclusive) made the AI system calculate the fate of the world."
+
+
+Nie zúragúra dórumu dénili ielirízimizizimi.
+ni-e zúragúra dórumu dénili i-elirízimi-su-su-mi
+1SG-ERG teacher child/student documentation INAN-read-CAUS-CAUS-WIT
+"I made the teacher have the student read the documentation."
+
+
+Nididegee tóralugóruama várigádi vérizimavérizima ibérimizizimi.
+ni-te-te-ko-e tóralugóruama vári-kádi vérizima-vérizima i-périmi-su-mi
+1-3-PL-DEF-ERG movie-creator four-score scene-PL INAN-review-CAUS-WIT
+"We (I and them) made the director review eighty scenes."
+
+
+Téreni igérimili nie udórumumugo kómuru udórumodórumame.
+téreni i-kérimi-li ni-e i-tórumu-mi-ko kómuru i-tórumo-dérimi-me
+data INAN-calculate-PURP 1SG-ERG INAN-use-WIT-DEF computer INAN-hit-finish-INFER
+"Apparently, the computer I used to calculate the data is broken."
+
+
+Nulóradagoo vézingangáli rélamarélama unárumumulu zérimidérimali izamimi.
+ni-lòra-ta-ko-o vézi-hére-hálu rélama-múru i-nárumu-mi-li zérimidérimali i-sami-mi
+1SG-hand-INALIEN-DEF-ERG twenty-and-ten poem-PL INAN-write-WIT-ELAT energy.finished INAN-be-WIT
+"My hand is tired from writing thirty poems."
+
+
+Nidigee dórumadóruma pánurunu zálumuzólunu azálumuzumu tírimi há!
+ni-ti-ko-e dórumu-múru pánuru-nu zálumuzólunu a-zálumu-su-mi tírimi há
+1-2-DEF-ERG child-PL library-INESS lunch ANIM-eat-CAUS-WIT together MIR
+"We (you and I) made the children eat lunch in the library together, wow!"
+
+
+Héré málalununulu inérimimi dórumago izérimidérimigeme.
+héré málalunulu i-nérimi-mi dóruma-ko i-sérimi-dérimi-ge-me
+if wealth/money INAN-endure-WIT student-DEF INAN-learn-finish-FUT-INFER
+"If the funding holds out, the student will graduate."
+
+
+Lízireo tóralunáruma nárumanárumalu púrumunu tálimirézami idálimizizimi.
+lízire-o tóralunáruma náruma-náruma-lu púrumunu tálimirézami i-tálimi-su-mi
+who-ERG movie-person person-PL-ILL secret message INAN-speak-CAUS-WIT
+"Who made the actor tell the secret message to the people?"
+
+
+Stádira izérimidérimimili zúradórumago nérili dórava ivírimimi ivézimimi.
+stádira i-sérimi-dérimi-mi-li zúradóruma-ko nérili dórava i-fírimi-mi i-vézimi-mi
+statistics INAN-learn-finish-WIT-POSS scholar-DEF new system INAN-build-WIT INAN-want-WIT
+"The scholar who mastered statistics wants to build a new system."
+
+
+Nubomúruda zérimidérimali samimi nie píra lédaléda ielirízimimili.
+ni-po-múru-ta zérimidérimali sami-mi ni-e píra léda-léda i-elirízimi-mi-li
+1SG-DUAL-eye-INALIEN energy-finished be-WIT 1SG-ERG four-hundred paper-PL INAN-read-WIT-ELAT
+"My eyes are tired because I read four hundred pages."
+
+
+Nie náziri dórumalu nóduru azórumuzuzubumu.
+ni-e náziri dórumu-lu nóduru a-tórumu-su-bi-mi
+1SG-ERG sister child-ILL notebook ANIM-give-CAUS-BEN-WIT
+"I had the sister give the notebook to the child (for the child’s benefit)."
+
+
+Kómurugo lúzumu dézimi nérimili pírimi uvózumu hére.
+kómuru-ko lúzumu dézimi nérimili pírimi i-vózu-mi hére
+computer-DEF charge must-WIT final exam INAN-begin-WIT before
+"The computer must charge before the final exam begins."
+
+
+Zúramáguzúragoo dórumadóruma téreni xéliri izami izérimizizimi.
+zúra-máguzúra-ko-o dóruma-dóruma téreni xéliri i-sami i-sérimi-su-mi
+professor-DEF-ERG student-PL data true INAN-be INAN-ensure-CAUS-WIT
+"The professor made the students ensure the data is true."
+
+
+Nidigee nórumu várini nérili tógorudógoru udórumu ilímirimi.
+ni-ti-ko-e nórumu vári-nu nérili tógoru-tógoru i-tórumu i-límiri-mi
+1-2-DEF-ERG next year-INESS new tool-PL INAN-use INAN-look.forward-WIT
+"We (you and I) look forward to using the new tools next year."
+
+
+Kogonováruzulu dóruva lízéra kérimini zéranira igérimigeme.
+kogonováruzulu dóruva lízéra kérimi-ni zéranira i-kérimi-ge-me
+otherwise program zero calculation-INESS often INAN-calculate-FUT-INFER
+"Otherwise, the program will often calculate the zero value."
+
+
+Numúranuzómudago nérili gérimi dárumuvólumu iáramami.
+ni-múranuzómut-ta-ko-o nérili gérimi dérimi-fólumu i-árama-mi
+1SG-heart-INALIEN-DEF-ERG new project finish-joy/success INAN-welcome-WIT
+"My heart welcomes the success of the new project."
+
+
+Nie pálumudóruma nézigádi kílimiri arúzamuzuzumu fúramu véri.
+ni-e pálumudóruma nézi-kádi kílimiri a-rúzamu-su-mi fúramu véri
+1SG-ERG athlete three-score kilometer ANIM-run-CAUS-WIT race BEN
+"I made the athlete run sixty kilometers for the race."
+
+
+Nie zúragúra dórumu kórumunu asólumuzuzuzumu.
+ni-e zúragúra dórumu kórumu-nu a-sólumu-su-su-mi
+1SG-ERG teacher child classroom-INESS ANIM-sit-CAUS-CAUS-WIT
+"I had the teacher make the child sit in the classroom."
+
+
+Dóravagoo dóranáruma báluru ugázumu uvárumuzunomo.
+dórava-ko-o dóranáruma báluru i-kázumu i-fárumu-su-ne-me
+system-DEF-ERG agent/user bridge INAN-repair INAN-can-CAUS-NEG-INFER
+"Apparently, the system does not let the user repair the bridge."
+
+
+Lízireo sériminizéradarima dáliminéri xéliridéreni ubúrumuzumu?
+lízire-o sériminizéradarima dáliminéri xéliridéreni i-púrumu-su-mi
+who-ERG scientist failure evidence INAN-hide-CAUS-WIT
+"Who made the scientist hide the evidence of the failure?"
+
+
+Nidedegee máguzúra nérili márunu ivérimazizimi.
+ni-te-te-ko-e máguzúra nérili márunu i-férimi-su-mi
+1-3-PL-DEF-ERG President new market INAN-see-CAUS-WIT
+"We (I and them) made the President see the new market."
+
+
+Héré fénara hélirili samimi Áimige mógospórumu márali igérimigeme.
+héré fénara hélirili sami-mi Áimi-ko mógo-spórumu márali i-kérimi-ge-me
+if algorithm efficient be-WIT AI-DEF world-stuff soon INAN-calculate-FUT-INFER
+"If the algorithm is efficient, the AI will calculate everything soon."
+
+
+Míniri ukázumumulu nárumago kávuru ivézimimi lú?
+míniri i-kázumu-mi-li náruma-ko kávuru i-vézimi-mi lú
+laptop INAN-repair-WIT-POSS person-DEF coffee INAN-want-WIT Q.POLAR
+"Does the person who repaired the laptop want coffee?"
+
+
+Lóruma tóralu ubárumamulu tóralugóruamagoo tóralunáruma apérimazizimi.
+lóruma tóralu i-páruma-mi-li tóralugóruama-ko-o tóralunáruma a-périma-su-mi
+long movie INAN-possess-WIT-POSS director-DEF-ERG actor ANIM-cry-CAUS-WIT
+"The director whose movie was long made the actor cry."
+
+
+Nie pomúruda dénili ivérimazizimi shúyalu.
+ni-e po-múru-ta dénili i-férimi-su-mi shúyalu
+1SG-ERG DU-eye-INALIEN documentation INAN-look-CAUS-WIT carefully/nuanced
+"I made my eyes look at the documentation carefully."
+
+
+Trávumudógoru nérimili samimili dórumadórumagoo tórunu udólumumu.
+trávimi-tógoru nérimili sami-mi-li dóruma-dóruma-ko tórunu i-dólumu-mi
+travel-tool late be-WIT-ELAT student-PL-DEF quiz INAN-miss/lose-WIT
+"Because the bus was late, the students missed the quiz."
+
+
+Nie dórumamúru sánomusánomu idérimizibimi há!
+ni-e dórumu-múru sánomusánomu i-dérimi-su-bi-mi há
+1SG-ERG child-PL snack-PL INAN-share-CAUS-BEN-WIT MIR
+"I had the children share the snacks (for their benefit), wow!"
+
+
+Lízireo sériminizéradarima várigádi lédaléda ibérimizizimi?
+lízire-o sériminizéradarima vári-kádi léda-léda i-périmi-su-mi
+who-ERG scientist four-score paper-PL INAN-review-CAUS-WIT
+"Who made the researcher review eighty papers?"
+
+
+Dórumadóruma izérimidérimimili zúragúrago férimala izamimi.
+dóruma-dóruma i-sérimi-dérimi-mi-li zúragúrago férimala i-sami-mi
+student-PL INAN-learn-finish-WIT-POSS teacher-DEF happy INAN-be-WIT
+"The teacher whose students graduate is happy."
+
+
+Nidigee dórava téreni púrumunu izérimizizimi.
+ni-ti-ko-e dórava téreni púrumunu i-sérimi-su-mi
+1-2-DEF-ERG system data secret-ness INAN-ensure-CAUS-WIT
+"We (you and I) made the system ensure the privacy of the data."
+
+
+Dórumagoo fúma ivérimami hére dómurulu rúzamumu.
+dóruma-ko-o fúma i-vérima-mi hére dómuru-lu rúzamu-mi
+student-DEF-ERG smoke INAN-see-WIT and house-ILL run-WIT
+"The student saw smoke and ran to the house."
+
+
+Pemázumu penímera azálamimi há!
+po-mázumu po-nímera a-zálami-mi há
+DUAL-cat DUAL-fish ANIM-bite-WIT MIR
+"The two cats bit the two fish, wow!"
+
+
+Ħórumunu uzúnarunumu izhíynimi.
+ħórumu-nu i-súnarunu-mi i-shíyni-mi
+winter-INESS INAN-snow-WIT and INAN-rain-WIT
+"In winter, it rains and snow."
+
+
+Kómurugoo lúzuminemi héré ni dézari idáliminemi.
+kómuru-ko-o lúzumi-ne-mi héré ni dézari i-tálimi-ne-mi
+computer-DEF-ERG charge-NEG-WIT because 1SG homework INAN-speak-NEG-WIT
+"The computer didn't charge, so I didn't submit the homework."
+
+
+Pórumubórumu félirini alózumumu.
+pórumu-pórumu féliri-nu a-lózumu-mi
+owl-PL sky-INESS ANIM-fly-WIT
+"The owls fly in the sky."
+
+
+Tímege téziri inizimi lú?
+tíme-ge téziri i-nízimi-mi lú
+2SG.FORMAL-ERG tea INAN-drink-WIT Q.POLAR
+"Are you drinking tea?"
+
+
+Vánuguvanu zéreni mánarumánaru ibárimimi.
+Vánuguva-nu zéreni mánaru-mánaru i-bárimi-mi
+Vancouver-INESS many song-PL INAN-hear-WIT
+"Many songs are heard in Vancouver."
+
+
+Kogo móluru nérili izamimi.
+ko-ko móluru nérili i-sami-mi
+this-DEF dictionary new INAN-be-WIT
+"This dictionary is new."
+
+
+Dórumagoo kávuru idézimimi.
+dóruma-ko-o kávuru i-dézimi-mi
+student-DEF-ERG coffee INAN-need-WIT
+"The student needs coffee."
+
+
+sagúra kírimi fázumulu fálami.
+sagúra kírimi fázumu-lu fála-mi
+cherry flower sun-ILL bloom-WIT
+"The cherry blossom blooms toward the sun."
+
+
+Nie zúragúra dórumadóruma dézari uzólumuzuzumu.
+ni-e zúragúra dóruma-dóruma dézari i-zólumu-su-su-mi
+1SG-ERG teacher student-PL homework INAN-memorize-CAUS-CAUS-WIT
+"I had the teacher make the students memorize the homework."
+
+
+Máguzúrazóronaragoo mánarudóruma amánarumazubumu.
+máguzúrazóronara-ko-o mánarudóruma a-mánaruma-su-bi-mi
+emperor-DEF-ERG musician ANIM-sing-CAUS-BEN-WIT
+"The emperor made the musician sing for the benefit of others."
+
+
+Ħòrogoo mázumu arúzumuzumu.
+ħòro-ko-o mázumu a-rúzamu-su-mi
+crow-DEF-ERG cat ANIM-run-CAUS-WIT
+"The crow made the cat run."
+
+
+Tímege nie kánaralu bóromuzumu lú?
+tíme-ge ni-e kánara-lu bóromu-su-mi lú
+2SG.FORMAL-ERG 1SG-ERG karaoke-ILL go-CAUS-WIT Q.POLAR
+"Did you make me go to karaoke?"
+
+
+Zúradórumagoo áimidórava téreni igérimizizimi.
+zúradóruma-ko-o áimi-dórava téreni i-kérimi-su-mi
+scholar-DEF-ERG AI-system data INAN-calculate-CAUS-WIT
+"The scholar made the AI system calculate the data."
+
+
+Kórumunu pogádingérenáni dórumadóruma izamime.
+kórumu-nu po-kádi-hére-náni dóruma-dóruma i-sami-me
+classroom-INESS two-score-and-five student-PL INAN-be-INFER.EVID
+"Apparently, there are forty-five students in the classroom."
+
+
+Fálurunadórumagoo múzu félirinavélirina igérimimi.
+fálurunadóruma-ko-o múzu félirina-múru i-kérimi-mi
+star-scholar-DEF-ERG 8,000 star-PL INAN-calculate-WIT
+"The astronomer witnessed 8,000 stars."
+
+
+Máguzúrago hálu vónuma azálumugomo.
+máguzúra-ko hálu vónuma a-zálumu-ke-me
+president-DEF thirteen fruit ANIM-eat-FUT-DIR.EVID
+"I see that the President will eat thirteen pieces of fruit."
+
+
+Píra pálumudórumagoo fúramunu arúzamumu.
+píra pálumudóruma-ko-o fúramu-nu a-rúzamu-mi
+400 athlete-DEF-ERG race-INESS ANIM-run-WIT
+"Four hundred athletes ran in the race."
+
+
+Lúna mánarumánaru idérimidérimime.
+lúna mánaru-mánaru i-dérimi-dérimi-me
+nineteen song-PL INAN-finish-finish-INFER.EVID
+"It seems nineteen songs have been mastered."
+
+
+Numúrudagoo lúmuralu zeħris ivérimami.
+ni-múru-ta-ko-o lúmura-lu zeħris i-férimi-mi
+1SG-eye-INALIEN-DEF-ERG beautiful-ADJ mountain INAN-see-WIT
+"My own eyes saw the beautiful mountain."
+
+
+Tolóradagoo tézimili bálara udórumodórumamu.
+te-lóra-ta-ko-o tézimili bálara i-tórumo-dérimi-mi
+3SG-hand-INALIEN-DEF-ERG metal stick INAN-hit-finish-WIT
+"His hand broke the metal stick."
+
+
+Dóruma néridedagee igérimimi.
+dóruma néri-te-ta-ko-o i-kérimi-mi
+student leg-3SG-INALIEN-DEF-ERG INAN-ache-WIT
+"The student's leg aches."
+
+
+Nie nóduru ugázumudarumumu.
+ni-e nóduru i-kázumu-dárumu-mi
+1SG-ERG notebook INAN-repair-chase-WIT
+"I cleaned the notebook."
+
+
+Tórumodórumagoo tórunu utórumodórumamu.
+tórumodóruma-ko-o tórunu i-tórumo-dérimi-mi
+hunter-DEF-ERG target INAN-hit-finish-WIT
+"The hunter hit the target (successfully)."
+
+
+Máguzúra hére zúragúra kórumuu iáramami.
+máguzúra hére zúragúra kórumu-i i-árama-mi
+president and professor classroom-ILL INAN-welcome-WIT
+"The President and Professor welcome (you) into the classroom."
+
+
+Kogogo dómurunu níma izéradimi.
+ko-ko-ko dómuru-nu níma i-séradi-mi
+this-DEF-NEAR house-INESS ghost INAN-remain-WIT
+"A ghost remains in this very house."
+
+
+Pánuruli mólurumóluru dólumulu izamimi.
+pánuru-li móluru-móluru dólumu-lu i-sami-mi
+library-ELAT book-PL lack-ADJ INAN-be-WIT
+"The library is lacking books."
+
+
+Héré ni tíme agérimimi, gérimi dárumuvólumu izamigeme.
+héré ni tíme a-gérimi-mi gérimi dérimi-fólumu i-sami-ke-me
+if 1SG 2SG.FORMAL ANIM-help-WIT project finish-joy INAN-be-FUT-DIR.EVID
+"If I help you, the project will obviously be a success."
+
+
+Mógospórumugoo xóronuzámlu ubóromumu.
+mógo-spórumu-ko-o xóronu-sám-lu i-bóromu-mi
+world-stuff-DEF-ERG desert-ILL INAN-go-WIT
+"Everything went into the desert."
+
+
+Zúragúragoo dórumadóruma móluru ielirízimizizimili, fénara ugóruamugomo ivézimimi.
+zúra-gúra-ko-o dóruma-dóruma móluru i-elirízimi-su-su-mi-li, fénara i-góruamu-ke-me i-vézimi-mi
+teacher-DEF-ERG student-PL book INAN-read-CAUS-CAUS-WIT-ELAT, algorithm INAN-create-FUT-DIR INAN-want-WIT
+"Because the teacher made the students read the book, they want to create an algorithm."
+
+
+Héré ni pogádi várivárili nériminedérimidérimigeme, nie kánara iválumune.
+héré ni po-kádi vári-vári-li nérimi-ne-dérimidérimi-ke-me, ni-e kánara i-fálumu-ne
+if 1SG two-score year-PL-ELAT end-NEG-master-FUT-INFER, 1SG-ERG karaoke INAN-enjoy-NEG
+"If I haven't mastered this in forty years, I won't enjoy karaoke."
+
+
+Máguzúrazóronaragoo pálumudóruma hálu kílimiri arúzamuzuzubumu, xórughuralu izamimili.
+máguzúrazóronara-ko-o pálumudóruma hálu kílimiri a-rúzamu-su-bi-mi, xórughura-lu i-sami-mi-li
+emperor-DEF-ERG athlete thirteen kilometer ANIM-run-CAUS-BEN-WIT, proud-ADJ INAN-be-WIT-ELAT
+"The emperor had the athlete run thirteen kilometers for the people's benefit, because he (the emperor) is proud."
+
+
+Nie fálurunadóruma xúbaru fázuma ivérimazizimili, téreni nérili ivézimimi há!
+ni-e fálurunadóruma xúbaru fázuma i-vérima-su-su-mi-li, téreni nérili i-vézimi-mi há
+1SG-ERG astronomer satellite storm INAN-see-CAUS-CAUS-WIT-ELAT, data new INAN-want-WIT MIR
+"I had the astronomer make the satellite see the storm, and wow, we want new data!"
+
+
+Dórumagoo nérili dórava ivírimimili zómurugolu, zúragúragoo avérimigeme.
+dóruma-ko-o nérili dórava i-fírimi-mi-li zómuru-ko-lu, zúra-gúra-ko-o a-férimi-ge-me
+student-DEF-ERG new system INAN-build-WIT-POSS week-DEF-ILL, teacher-DEF-ERG ANIM-celebrate-FUT-INFER
+"The teacher will likely celebrate the student who builds a new system next week."
+
+
+Ħórumuvórumanu daga shíynimili izamimili, máys séli márugunu fúdurulu idárimigeme.
+ħórumu-vóruma-nu daga shíynimili i-sami-mi-li, máys séli márugu-nu fúduru-lu i-dárimi-ge-me
+winter-spring-INESS soil wet-ADJ INAN-be-WIT-ELAT, corn dry road-INESS quick-ADJ INAN-grow-FUT-INFER
+"Because the soil is wet in April, the corn will grow quickly on the dry road."
+
+
+Lízireo máguzúra rázumurána unárumuzuzubumu dénili izérimidérimili?
+lízire-o máguzúra rázumurána i-nárumu-su-bi-mi dénili i-sérimi-dérimi-li
+who-ERG president alphabet INAN-write-CAUS-BEN-WIT documentation INAN-learn-finish-PURP
+"Who made the president write the alphabet for the sake of completing the documentation?"
+
+
+Tóralugóruamagoo tóralunáruma abérimazizimi, sórumu múranuzómut idólumulubáli.
+tóralu-góruamu-ko-o tóralu-náruma a-périma-su-su-mi, sórumu múranuzómut i-dólumu-li-pilo
+director-DEF-ERG actor ANIM-cry-CAUS-CAUS-WIT, story heart INAN-lack-WIT-ELAT
+"The director made the actor cry because the story lacked a heart."
+
+
+Ni tegee kádingérevézi kómurugómuru idézimi-mi nérili gérimi véri.
+ni te-ke-e kádi-hére-vézi kómuru-kómuru i-dézimi-mi nérili gérimi véri
+1PL.INCL-PL.SUBJ-ERG twenty-and-ten computer-PL INAN-need-WIT new project BEN
+"We (you and I) need thirty computers for the new project."
+
+
+Héré pálumunárumago tórunu utórumodórumago, núma avérimigeme há!
+héré pálumunáruma-ko tórunu i-tórumo-dérimi-ko, núma a-férimi-ge-me há
+if athlete-DEF target INAN-hit-finish-DEF, family ANIM-celebrate-FUT-INFER MIR
+"If that specific athlete wins, the family will celebrate, wow!"
+
+
+Dórumago zéreniri sélimi dénimili ubúlumumu dézari idézimimi.
+dóruma-ko zéreniri sélimi dénimi-lu i-búlumu-mi dézari i-dézimi-mi
+student-DEF every day school-ILL INAN-walk-WIT homework INAN-need-WIT
+"The student who walks to school every day needs homework."
+
+
+Múranuspárazúradórumagoo zérimineli báruna ħórumu túzuma inízimizizimi.
+múranuspárazúradóruma-ko-o zérimineli báruna ħórumu túzuma u-nízimi-su-su-mi
+hospital-scholar-DEF-ERG weak animal cold water ANIM-drink-CAUS-CAUS-WIT
+"The doctor made the weak animal drink the cold water."
+
+
+Ħárumushlu níma dáganu bóħrunu kólo izamimili, túrumu amózumumu.
+ħárum-li níma daga-nu bóħrunu kólo i-sami-mi-li, túrumu a-mózumu-mi
+hawk-POSS shadow dirt-INESS black circle INAN-be-WIT-ELAT, bird ANIM-fear-WIT
+"Because the hawk's shadow is a black circle on the ground, the bird is afraid."
+
+
+Pozúradórumao píra félirinavélirina pélanige ivérimami múnarunu.
+po-zúradóruma-o píra félirina-félirina pélani-ko i-vérima-mi múnaru-nu
+DUAL-scholar-ERG 400 star-PL telescope-INSTR INAN-see-WIT observatory-INESS
+"Two scholars saw four hundred stars with a telescope in the observatory."
+
+
+Héré téziri xázunulu samimi, dórumagoo nólumulu inízimigeme.
+héré téziri xázunulu sami-mi, dóruma-ko-o nólumulu i-nízimi-ge-me
+if tea hot-ADJ be-WIT, student-DEF-ERG slow INAN-drink-FUT-INFER
+"If the tea is hot, the student will drink slowly."
+
+
+Máguzúrazóronaragoo lámorudóru amánarumazubimi nárumanárumalu.
+máguzúrazóronara-ko-o lámorudóru a-mánaruma-su-bi-mi náruma-náruma-lu
+emperor-DEF-ERG musician ANIM-sing-CAUS-BEN-WIT person-PL-ILL
+"The emperor had the musician sing for the people."
+
+
+Dórumagoo udórumodórumamu várudógorugo fízani izamimi.
+dóruma-ko-o i-tórumo-dérimi-mi várudógoru-ko fízani i-sami-mi
+student-DEF-ERG INAN-hit-finish-WIT mirror-DEF kitchen INAN-be-WIT
+"The mirror that the student broke was in the kitchen."
+
+
+Kogonováruzulu sám nèmispírani níza kólogólo ivérimami.
+kogonováruzulu sám nèmispíra-nu níza kólo-kólo i-vérima-mi
+otherwise empty prison-INESS nine ring-PL INAN-see-WIT
+"Otherwise, I see nine rings in the empty prison."
+
+
+Nie dórumalu vóma vónuvónu udórumomu rázumurána izérimili.
+ni-e dóruma-lu vóma vónu-vónu i-tórumo-mi rázumurána i-sérimi-li
+1SG-ERG student-ILL 64,000,000 seed-PL INAN-give-WIT alphabet INAN-learn-PURP
+"I gave sixty-four million seeds to the student to learn the alphabet."
+
+
+Ħòrogoo bóħrunu mìlimìli ubárumamu milineli kóramudógorulu lózumumu.
+ħòro-ko-o bóħrunu mìli-mìli i-páruma-mi milineli kóramudógoru-lu lózumu-mi
+crow-DEF-ERG black feather-PL INAN-possess-WIT dark forest-ILL fly-WIT
+"The crow with black feathers flies into the dark forest."
+
+
+Héré dórumagoo tézimili kólo igélimimi, zúragúragoo férimala izamigeme.
+héré dóruma-ko-o tézimili kólo i-kélimi-mi, zúragúra-ko-o férimala i-sami-ge-me
+if student-DEF-ERG silver ring INAN-find-WIT, teacher-DEF-ERG happy INAN-be-FUT-INFER
+"If the student finds the silver ring, the teacher will be happy."
+
+
+Nie dórumamúru sánomuzánomu idérimizibimi há!
+ni-e dóruma-múru sánomu-sánomu i-dérimi-su-bi-mi há
+1SG-ERG child-PL snack-PL INAN-share-CAUS-BEN-WIT MIR
+"I had the children share the snacks for their own good, wow!"
+
+
+Stádira izérimidérimimili zúradórumago nérili dórava ivírimimi ivézimimi.
+stádira i-sérimi-dérimi-mi-li zúradóruma-ko nérili dórava i-fírimi-mi i-vézimi-mi
+statistics INAN-learn-finish-WIT-POSS scholar-DEF new system INAN-build-WIT INAN-want-WIT
+"The scholar who mastered statistics wants to build a new system."
+
+
+Nie zúragúra dórumu kórumunu azólumuzuzumu.
+ni-e zúragúra dórumu kórumu-nu a-sólumu-su-su-mi
+1SG-ERG teacher child classroom-INESS ANIM-sit-CAUS-CAUS-WIT
+"I had the teacher make the child sit in the classroom."
+
+
+Lóruma tóralu ubárumamulu tóralugóruamagoo tóralunáruma abérimazizimi.
+lóruma tóralu i-páruma-mi-li tóralu-góruamu-ko-o tóralu-náruma a-périma-su-su-mi
+long movie INAN-possess-WIT-POSS director-DEF-ERG actor ANIM-cry-CAUS-CAUS-WIT
+"The director whose movie was long made the actor cry."
+
+
+Máguzúrazóronaragoo zéreni málalu kólogólo ubárumamu.
+máguzúrazóronara-ko-o zéreni málalu kólo-kólo i-páruma-mi
+emperor-DEF-ERG many gold circle-PL INAN-possess-WIT
+"The emperor possesses many golden rings."
+
+
+Numúranuzómudago nérili gérimi dérimivólumu iáramami.
+ni-múranuzómut-ta-ko-o nérili gérimi dérimi-fólumu i-árama-mi
+1SG-heart-INALIEN-DEF-ERG new project finish-joy INAN-welcome-WIT
+"My heart welcomes the success of the new project."
+
+
+Nie pálumudóruma nézigádi kílimiri arúzamuzuzumu fúramu véri.
+ni-e pálumudóruma nézi-kádi kílimiri a-rúzamu-su-mi fúramu véri
+1SG-ERG athlete three-score kilometer ANIM-run-CAUS-WIT race BEN
+"I made the athlete run sixty kilometers for the race."
+
+
+Nie zúragúra dórumu dénili ielirízimizizimi.
+ni-e zúragúra dórumu dénili i-elirízimi-su-su-mi
+1SG-ERG teacher child documentation INAN-read-CAUS-CAUS-WIT
+"I made the teacher have the child read the documentation."
+
+
+Kóvunudórugoo nárugu dézari udórumodórumamu.
+kóvunu-dóru-ko-o nárugu dézari i-tórumo-dérimi-mi
+garden-scholar-DEF-ERG difficult homework INAN-hit-finish-WIT
+"The gardener finished the difficult homework."
+
+
+Máguzúrazóronaralu málalununulu dórumadórumago mánaruma azérimizizimi.
+Máguzúrazóronara-li málalununulu dóruma-dóruma-ko mánaruma a-sérimi-su-su-mi
+Emperor-POSS rich student-PL-DEF lyric ANIM-learn-CAUS-CAUS-WIT
+"The Emperor’s rich students were made to learn the lyrics."
+
+
+Lúna nólumulu babúnushbabúnushgoo xóronunu vónuma azálamimi.
+lúna nólumu-lu babún-babún-ko-o xóronu-nu vónuma a-zálami-mi
+nineteen lazy-ADJ baboon-PL-DEF-ERG desert-INESS fruit ANIM-bite-WIT
+"Nineteen lazy baboons bit the fruit in the desert."
+
+
+Swidige tóralugóruamagoo milinezeħrisni móz uvónamu.
+Swidi-ko tóralu-góruamu-ko-o miline-zeħris-nu mózu i-vóna-mi
+Swedish-ADJ director-DEF-ERG dark-mountain-INESS terror INAN-evoke-WIT
+"The Swedish director evokes terror in the cave."
+
+
+Lámorudóru lòradagoo pálumuma ulóradárumumu.
+lámorudóru lóra-da-ko-o pálumuma i-lóradárumu-mi
+musician hand-INALIEN-DEF-ERG instrument INAN-reach-WIT
+"The musician's hand reached for the instrument."
+
+
+Nie sádumu mulunozólununu félirini lánumugo ivérimami.
+ni-e sádumu miline-sólunu-nu féliri-nu lánumu-ko i-vérima-mi
+1SG-ERG last night-INESS sky-INESS moon-DEF.NEAR INAN-see-WIT
+"I saw the moon in the sky last night."
+
+
+Kogonováruzulu, níma sám nèmispírani izéradimi.
+kogonováruzulu, níma sám nèmispíra-nu i-séradi-mi
+otherwise, ghost empty prison-INESS INAN-remain-WIT
+"Otherwise, the ghost remains in the empty prison."
+
+
+Fálurunadórumagoo vóma nánibíra igérimimi.
+fálurunadóruma-ko-o náni-píra félirina-múru i-kérimi-mi
+astronomer-DEF-ERG 2000 star-PL INAN-calculate-WIT
+"The astronomer calculated sixty-four million stars."
+
+
+Múranuspárazúradórumagoo zérimineli báruna múranuzáluma azálumuzumu.
+múranuspárazúradóruma-ko-o zérimineli báruna múranuzáluma a-zálumu-su-mi
+doctor-DEF-ERG weak animal medicine ANIM-eat-CAUS-WIT
+"The doctor made the weak animal take the medicine."
+
+
+Nie pélani zángurugo géni pélanige ivérimami.
+ni-e pélani zánguru-ko géni pélani-ko i-férimi-mi
+1SG-ERG far planet-DEF.NEAR INSTR telescope-DEF.NEAR INAN-see-WIT
+"I saw that distant planet with the telescope."
+
+
+Tímege sádumu sélimivárini rómurulu trávimimi lú?
+tíme-ke sádumu sélimi-vári-nu rómuru-lu trávimi-mi lú
+2SG.FORMAL-ERG last month-INESS island-ILL travel-WIT Q.POLAR
+"Did you travel to the island last month?"
+
+
+Mázumugo polunámora adárumumu kóvununu.
+mázumu-ko-o polunámora a-dárumu-mi kóvunu-nu
+cat-DEF-ERG lizard ANIM-chase-WIT garden-INESS
+"The cat chased the lizard in the garden."
+
+
+Nie rázumuránagoo teli sérimini izérimimi.
+ni-e rázumurána-ko-o teli sérimini i-sérimi-mi
+1SG-ERG alphabet-DEF-ERG 1PL.POSS knowledge INAN-ensure-WIT
+"The alphabet ensures our knowledge."
+
+
+Ħórumuvórumanu séliru félirili izamimi.
+ħórumu-vóruma-nu séliru félirili i-sami-mi
+winter-spring-INESS ocean blue-ADJ INAN-be-WIT
+"In April, the ocean is blue."
+
+
+Mózunolu dárumodórumagoo xázunu nízami umózumunomu.
+mózunolu dárumodóruma-ko-o xázunu nízami i-mózumu-no-mi
+brave hunter-DEF-ERG fire smell INAN-fear-NEG-WIT
+"The brave hunter does not fear the smell of fire."
+
+
+Dórumagoo móluru udólumumu trávumudógorunu.
+dóruma-ko-o móluru i-dólumu-mi trávimi-tógoru-nu
+student-DEF-ERG dictionary INAN-lose-WIT bus-INESS
+"The student lost the dictionary on the bus."
+
+
+Kúrumuvórumanu fúdurulu éle lúmuralu izamimi.
+kúrumuvóruma-nu fúduru-lu éle lúmura-lu i-sami-mi
+morning-INESS fast-ADJ swan beautiful-ADJ INAN-be-WIT
+"In the morning, the fast swan is beautiful."
+
+
+Lámorudórumagoo pegádingérevázi rélamarélama unárumuzuzubumu.
+lámoru-dóruma-ko-o po-kádi-hére-fúzu rélama-múru i-nárumu-su-bi-mi
+musician-DEF-ERG fifty-two (2x20+12) poem-PL INAN-write-CAUS-BEN-WIT
+"The musician had fifty-two poems written for the people."
+
+
+Ħárumushgoo ħòrogo shíynimili adárumumu.
+ħárum-ko-o ħòro-ko shíynimi-lu a-dárumu-mi
+hawk-DEF-ERG crow-DEF mist-ILL ANIM-chase-WIT
+"The hawk chased the crow into the mist."
+
+
+Nie pálumudóruma pegádingérebe kílimiri arúzamuzuzumu.
+ni-e pálumudóruma po-kádi-hére-po kílimiri a-rúzamu-su-mi
+1SG-ERG athlete forty-two (2x20+2) kilometer ANIM-run-CAUS-WIT
+"I made the athlete run 42 kilometers."
+
+
+Numúranuzómudago nérili gérimi dárumuvólumu iáramami.
+ni-múranuzómut-ta-ko-o nérili gérimi dérimi-fólumu i-árama-mi
+1SG-heart-INALIEN-DEF-ERG new project success INAN-welcome-WIT
+"My heart welcomes the success of the new project."
+
+
+Hére ni Vánuguvalu bóromumu, zárunubárolulu ivérimami.
+hére ni Vánuguva-lu bóromu-mi, zárunu-bárolu-lu i-férimi-mi
+when 1SG Vancouver-ILL go-WIT, riverbank-ILL INAN-see-WIT
+"When I go to Vancouver, I see the riverbank."
+
+
+Xérali, nímage zúragúrali móluru ubúrumamu.
+xérali, níma-ko zúragúra-li móluru i-púruma-mi
+frankly, ghost-DEF teacher-POSS dictionary INAN-hide-WIT
+"Frankly, the ghost hid the teacher's dictionary."
+
+
+Dórumago néride udórumodórumamu pálumudózamanu.
+dóruma-ko néri-te i-tórumo-dérimi-mi pálumu-dózama-nu
+student leg-3SG.INALIEN INAN-hit-finish-WIT play-game-INESS
+"The student broke his leg in the game."
+
+
+Nie sánomunáru hálu sánomuzánomu udórumuzubumu.
+ni-e sánomu-nári hálu sánomu-sánomu i-tórumu-su-bi-mi
+1SG-ERG snacker tézi snack-PL INAN-give-CAUS-BEN-WIT
+"I had seven snacks given to the snacker."
+
+
+Lízireo zúravórunu shónomúrunu rázumurána unárumumu?
+lízire-o zúravórunu shéne-múru-nu rázumurána i-nárumu-mi
+who-ERG ancient bone-PL-INESS alphabet INAN-write-WIT
+"Who wrote the alphabet on the ancient bones?"
+
+
+Píbige sagúra kírimige igélimimi há!
+píbi-ko sagúra kírimi-ko i-kélimi-mi há
+hummingbird-DEF cherry flower-DEF INAN-find-WIT MIR
+"The hummingbird found the cherry blossom, wow!"
+
+
+Tóraluládamólurugo zúra lóruma hére nárugu izamimi.
+tóralu-ládamóluru-ko zúra lóruma hére nárugu i-sami-mi
+script-DEF very long and difficult INAN-be-WIT
+"The script was very long and difficult."
+
+
+Pozúradórumao píra vázagádingéredézi ivérimami.
+po-zúradóruma-o vóza-kádi-hére-tézi félirina-félirina i-férimi-mi
+DUAL-scholar-ERG 367 (18x20+7) star-PL INAN-see-WIT
+"Two scholars saw 367 stars."
+
+
+Ħárumushdagoo lúmura félarida zéreniri sélimi ulózumuzuzumu.
+ħárum-ta-ko-o lúmura félari-ta zéreniri sélimi i-lózumu-su-su-mi
+hawk-INALIEN-DEF-ERG beautiful wing-INALIEN-PL every day INAN-fly-CAUS-CAUS-WIT
+"The hawk’s own beautiful wings make it fly every single day."
+
+
+Máguzúrazóronaragoo xúbaru fázumago ivérimazibime.
+máguzúrazóronara-ko-o xúbaru fázuma-ko i-vérima-su-bi-me
+emperor-DEF-ERG satellite storm-DEF.NEAR INAN-see-CAUS-BEN-INFER.EVID
+"Apparently, the emperor had the satellite monitor the storm for the people's benefit."
+
+
+Nie nèmispíragérige géni nèmispíra iáramazizimi.
+ni-e nèmispíra-géri-ko géni nèmispíra i-árama-su-su-mi
+1SG-ERG prison-guard-DEF INSTR prison INAN-open-CAUS-CAUS-WIT
+"I had the guard open the prison."
+
+
+Swidige tóralugóruamagoo lúmura xérali rélama unárumumu.
+Swidi-ko tóralu-góruamu-ko-o lúmura xérali rélama i-nárumu-mi
+Swedish-ADJ director-DEF-ERG beautiful expressive poem INAN-write-WIT
+"The Swedish director wrote a beautiful, expressive poem."
+
+
+Ħórumuvórumanu dága shíynimili izamimili, máys idárimigeme.
+ħórumu-vóruma-nu dága shíynimili i-sami-mi-li máys i-dárimi-ke-me
+winter-spring-INESS soil wet-ADJ INAN-be-WIT-ELAT corn INAN-grow-FUT-DIR.EVID
+"Because the soil is wet in April, I see the corn will grow."
+
+
+Pozúradórumao várigádingérelúna félirinavélirina i-kérimi-dérimi-mi.
+po-zúradóruma-o vári-kádi-lúna félirina-félirina i-kérimi-dérimi-mi
+DUAL-scholar-ERG ninety-nine (4x20+19) star-PL INAN-count-finish-WIT
+"Two scholars finished counting ninety-nine stars."
+
+
+Nie tímege xòrolughòron idémenimi, héré tímee kávuru inázimimi.
+ni-e tíme-ko xòrolughòron i-témeni-mi héré tíme-e kávuru i-názimi-mi
+1SG-ERG 2SG.FORMAL-DEF rage INAN-judge-WIT because 2SG.FORMAL-ERG coffee INAN-refuse-WIT
+"I judge your rage (to be) because you refused coffee."
+
+
+Lízireo donubánunu nímage azéradizizimi?
+lízire-o donubánu-nu níma-ko a-séradi-su-su-mi
+who-ERG museum-INESS ghost-DEF ANIM-remain-CAUS-CAUS-WIT
+"Who made the ghost stay in the museum?"
+
+
+Kóvanulu polunámoragoo xázimili sánomu azálamimi.
+kóvanulu polunámora-ko-o xázimili sánomu a-zálami-mi
+green lizard-DEF-ERG spicy snack ANIM-bite-WIT
+"The green lizard bit the spicy snack."
+
+
+Mózu tóralugoo nérili dórava idémenidérimimi.
+mózu tóralu-ko-o nérili dórava i-témeni-dérimi-mi
+terror movie-DEF-ERG new system INAN-judge-finish-WIT
+"The horror movie finalized the (evaluation of the) new system."
+
+
+Nie dóruma-múru kánara-lu bóromu-su-bi-mi, te-ke i-fálumu-li.
+ni-e dóruma-múru kánara-lu bóromu-su-bi-mi te-ke i-fálumu-li
+1SG-ERG student-PL karaoke-ILL go-CAUS-BEN-WIT 3PL-PL.SUBJ INAN-enjoy-PURP
+"I had the students go to karaoke so that they might enjoy themselves."
+
+
+Ħárumushgoo éleli mìlimìli ubúrumumu kóvununu.
+ħárum-ko-o éle-li mìli-mìli i-púrumu-mi kóvunu-nu
+hawk-DEF-ERG swan-POSS feather-PL INAN-hide-WIT garden-INESS
+"The hawk hid the swan's feathers in the garden."
+
+
+Píbibíbige lúmura kírimili ulóradárumumu.
+píbi-píbi-ko lúmura kírimi-lu i-lóradárumu-mi
+hummingbird-DEF beautiful flower-ILL INAN-reach-WIT
+"The hummingbird reached for the beautiful flower."
+
+
+Héré kérim xéliri izamimi, gérimi dárumuvólumu izamigeme.
+héré kérim xéliri i-sami-mi gérimi dérimi-fólumu i-sami-ke-me
+if calculation true INAN-be-WIT project finish-joy INAN-be-FUT-DIR.EVID
+"If the calculation is true, the project will be a success (I see it)."
+
+
+Mimísmigee nebárimilimi rázumurána unárumumu.
+mimísmi-ko-o nebárimilimi rázumurána i-nárumu-mi
+mime-DEF-ERG silently alphabet INAN-write-WIT
+"The mime silently wrote the alphabet."
+
+
+Kadingérelúna zálumazúrallu babúnushbabúnushkoo xóronu-nu a-órumo-mi.
+kadi-hére-lúna zálumazúra-lu babún-babún-ko-o xóronu-nu a-órumo-mi
+Thirty-nine satiated-ADJ baboon-PL-DEF-ERG field-INESS ANIM-sleep-WIT
+"Nineteen full baboons are sleeping in the field."
+
+
+Nie stáduradóruma dézari izérimizizimi.
+ni-e stádira-dóruma dézari i-zérimi-su-su-mi
+1SG-ERG statistics-student homework INAN-ensure-CAUS-CAUS-WIT
+"I made (the teacher) make the statistics student ensure (do) the homework."
+
+
+Ħòrogoo xóronuzámushnu pegádingéreténa vónuma azálumumu.
+ħòro-ko-o xóronu-sám-nu po-kádi-hére-téna vónuma a-zálumu-mi
+crow-DEF-ERG desert-INESS fifty-four (2x20+14) fruit ANIM-eat-WIT
+"The crow ate fifty-four pieces of fruit in the desert."
+
+
+Nie pélanibélani zánguru ivérimami pélanigéni.
+ni-e pélani pélani zánguru i-vérima-mi pélani-géni
+1SG-ERG far far planet INAN-see-WIT telescope-INSTR
+"I saw a very distant planet with the telescope."
+
+
+Dórumagoo zórumalu tógoru ugázumudárumumu há!
+dóruma-ko-o zórumalu tógoru i-kázumu-dérimi-mi há
+student-DEF-ERG important tool INAN-repair-finish-WIT MIR
+"The student finished repairing the important tool, wow!"
+
+
+Máguzúrazóronaragoo lámoruzúradóruma mánaru amánarumazubumu.
+máguzúrazóronara-ko-o lámoru-zúra-dóruma mánaru a-mánaruma-su-bi-mi
+emperor-DEF-ERG musician song ANIM-sing-CAUS-BEN-WIT
+"The emperor had the musician sing the song (for the benefit of the people)."
+
+
+Nie vórulunu níma idárimizizimi.
+ni-e vórulu-nu níma i-dárimi-su-su-mi
+1SG-ERG park-INESS ghost INAN-grow-CAUS-CAUS-WIT
+"I made the ghost manifest in the park."
+
+
+Lòru rázumuránagoo teli sérimini izérimimi.
+lòru rázumurána-ko-o teli sérimini i-sérimi-mi
+old alphabet-DEF-ERG 1PL.POSS knowledge INAN-ensure-WIT
+"The old alphabet ensures our knowledge."
+
+
+Tórumodórumagoo xázimili báza azálamimi.
+tórumodóruma-ko-o xázimili báza a-zálami-mi
+gunslinger-DEF-ERG spicy salt ANIM-bite-WIT
+"The gunslinger bit the spicy salt."
+
+
+Nie zúragúra dórumu kórumunu azólumuzuzumu.
+ni-e zúragúra dórumu kórumu-nu a-sólumu-su-su-mi
+1SG-ERG teacher child classroom-INESS ANIM-sit-CAUS-CAUS-WIT
+"I had the teacher make the child sit in the classroom."
+
+
+Héré lánumugo glizami, pórumugoo ivérimigeme.
+héré lánumu-ko glizami pórumu-ko-o i-férimi-ke-me
+if moon-DEF.NEAR glow owl-DEF-ERG INAN-celebrate-FUT-DIR.EVID
+"If the moon glows, I see the owl will celebrate."
+
+
+Pálumudórumagoo bíra kílimiri rómurunu arúzamumu.
+pálumudóruma-ko-o bíra kílimirigílimiri rómuru-nu a-rúzamu-mi
+athlete-DEF-ERG fifteen kilometer-PL island-INESS ANIM-run-WIT
+"The athlete ran fifteen kilometers on the island."
+
+
+Múranuspárazúradórumagoo zérimineli báruna igérimimi.
+múranuspárazúradórumako-o zérimineli báruna i-kérimi-mi
+doctor-DEF-ERG weak animal INAN-calculate-WIT
+"The doctor examined the weak animal."
+
+
+Héré ni tíme agérimimi, kogo déni sélireli izamimi.
+héré ni tíme a-gérimi-mi ko-ko déni sélire-lu i-sami-mi
+if 1SG 2SG.FORMAL ANIM-help-WIT this class easy-ADJ INAN-be-WIT
+"If I help you, this class is easy."
+
+
+Nie fúramunu xúbaru ugóruamuzuzumu.
+ni-e fúramu-nu xúbaru i-góruamu-su-su-mi
+1SG-ERG race-INESS satellite INAN-create-CAUS-CAUS-WIT
+"I had (the engineers) make the satellite during the race."
+
+
+Dórumagoo míniri idézimimi, téreni igérimili.
+dóruma-ko-o míniri i-dézimi-mi téreni i-kérimi-li
+student-DEF-ERG laptop INAN-need-WIT data INAN-calculate-PURP
+"The student needs a laptop to calculate the data."
+
+
+Máguzúrazóronaragoo málalu kólo ubárumamu.
+máguzúrazóronara-ko-o málalu kólo i-páruma-mi
+emperor-DEF-ERG gold ring INAN-possess-WIT
+"The emperor possesses a golden ring."
+
+
+Lízireo nèmispírani mimísmige azólumuzubumu?
+lízire-o nèmispíra-nu mimísmi-ko a-sólumu-su-bi-mi
+who-ERG prison-INESS mime-DEF ANIM-sit-CAUS-BEN-WIT
+"Who made the mime sit in the prison (for the mime's sake)?"
+
+
+Nie pórumubórumu vórulunu upúruma avérimami.
+ni-e pórumu-pórumu vórulu-nu i-púruma a-vérima-mi
+1SG-ERG owl-PL park-INESS INAN-hide ANIM-see-WIT
+"I saw the owls hiding in the park."
+
+
+Héré málalunulu inérimimi, dórumago izérimidérimigeme.
+héré málalunulu i-nérimi-mi dóruma-ko i-sérimi-dérimi-ke-me
+if funding INAN-endure-WIT student-DEF INAN-learn-finish-FUT-DIR.EVID
+"If the funding holds, I see the student will graduate."
+
+
+Lámorudórugoo rázumurána udórumozumu rómuru-nu.
+lámorudóru-ko-o rázumurána i-tórumo-su-mi rómuru-nu
+musician-DEF-ERG alphabet INAN-give-CAUS-WIT island-INESS
+"The musician had the alphabet given (taught) on the island."
+
+
+Nie nili lórada géni sagúra kírimi ulóradárumumu.
+ni-e ni-lòra-ta géni sagúra kírimi i-lóradárumu-mi
+1SG-ERG 1SG-hand-INALIEN INSTR cherry flower INAN-reach-WIT
+"I reached for the cherry blossom with my own hand."
+
+
+Ħórumuvórumanu xálonu némimi xóronunu izamimi.
+ħórumu-vóruma-nu xálo-nu némimi xóronu-nu i-sami-mi
+winter-spring-INESS gutter-INESS float field-INESS INAN-be-WIT
+"In April, there is floating (debris) in the gutter by the field."
+
+
+Dórumadórumagoo tegee kávuru idézimimi hére ulómamumu.
+dóruma-dóruma-ko-o te-ke-e kávuru i-dézimi-mi hére i-lómamu-mi
+student-PL-DEF-ERG 1PL.INCL-PL.SUBJ-ERG coffee INAN-need-WIT and INAN-procrastinate-WIT
+"The students need coffee and are procrastinating."
+
+
+Zúradórumagoo dórumu líneni izérimizisimi pánurunu.
+zúradóruma-ko-o dórumu líneni i-sérimi-su-su-mi pánuru-nu
+scholar-DEF-ERG child linguistics INAN-learn-CAUS-CAUS-WIT library-INESS
+The scholar had the teacher make the child learn linguistics in the library.
+
+
+Héré vórumanu izamimi, várigádi sagúra kírimigírimi fálageme.
+héré vóruma-nu i-sami-mi, vári-kádi sagúra kírimi~kírimi fála-ke-me
+if spring-INESS INAN-be-WIT, four-score cherry flower~PL bloom-FUT-INFER
+If it is spring, eighty cherry blossoms will bloom.
+
+
+Zúragúragoo dórumadóruma vézi mólurumóluru igélimizimi.
+zúragúra-ko-o dóruma-dóruma vézi móluru~móluru i-kélimi-su-mi
+teacher-DEF-ERG student-PL ten dictionary~PL INAN-find-CAUS-WIT
+The teacher made the students find ten dictionaries.
+
+
+Nie ħórumu túzuma ulóradárumumu héré nízimavézimili ni izamimi.
+ni-e ħórumu túzuma i-lóradárumu-mi héré nízimavézimili ni i-sami-mi
+1SG-ERG cold water INAN-hand-chase-WIT because thirsty 1SG INAN-be-WIT
+I reached for the cold water because I was thirsty.
+
+
+Tóralugóruamagoo tóralunáruma tóraluládamóluru pogádibo sólunu ielirízimizimi.
+tóralu-góruamu-ko-o tóralu-náruma tóralu-ládamóluru po-kádi-po sólunu i-elirízimi-su-mi
+movie-creator-DEF-ERG movie-person movie-book 42 time INAN-read-CAUS-WIT
+The director made the actor read the script forty times.
+
+
+Tímege milineli kóramudógorughóronunu lánumu ivérima ivézimimi lú?
+tíme-ke milineli kóramudógoru-xóronu-nu lánumu i-vérima i-vézimi-mi lú
+2SG.FORMAL-ERG dark forest-INESS moon INAN-see INAN-want-WIT [POLAR]
+Do you want to see the moon in the dark forest?
+
+
+Zúravórunu dárumodórumagoo po míraninérizibálara tórumalu ubárumamu.
+zúravórunu dárumo-dóruma-ko-o po míraninérizibálara tórumalu i-páruma-mi
+ancient hunter-DEF-ERG two sword sharp INAN-possess-WIT
+The ancient hunter possesses two sharp metal swords.
+
+
+Nilu názirigee kómuru lúzumu ulúzumuzumu kórumunu.
+ni-li náziri-ko-e kómuru lúzumu i-lúzumu-su-mi kórumu-nu
+1SG-POSS sister-DEF-ERG computer charge INAN-charge-CAUS-WIT classroom-INESS
+My sister made the computer charge in the classroom.
+
+Fúzu xélirili dórumadórumagoo Yúbuysuylu izérimidérimimi sélimini.
+fúzu xélirili dóruma~dóruma-ko-o Yúbuysuy-lu i-sérimi-dérimi-mi sélimi-nu
+twelve honest student~PL-DEF-ERG UBC-ILL INAN-learn-finish-WIT day-INESS
+Twelve honest students graduated from UBC today.
+
+
+Ħárumushkoo kóvanulu kóvununu polunámora avérimami.
+ħárum-ko-o kóvanulu kóvunu-nu polunámora a-vérima-mi
+hawk-DEF-ERG green garden-INESS lizard ANIM-see-WIT
+The hawk saw the lizard in the green garden.
+
+
+Nie nérili rélama unárumu ivézimimi gérimi dárumuvólumulu.
+ni-e nérili rélama i-nárumu i-vézimi-mi gérimi dérimi-fólumu-li
+1SG-ERG new poem INAN-write INAN-want-WIT project success-ELAT
+I want to write a poem about the success of the project.
+
+
+Áimi dóravagoo félirinalu pélanivérizi igérimimi.
+áimi dórava-ko-o félirina-lu pélani-vérizi i-kérimi-mi
+AI system-DEF-ERG star-ILL far-way/distance INAN-calculate-WIT
+The AI system calculated the distance to the star.
+
+
+Nididegee máguzúrazóronara mánaru abárimizimi.
+ni-te-te-ko-e máguzúrazóronara mánaru a-bárimi-su-mi
+1-3-PL-DEF-ERG emperor song ANIM-hear-CAUS-WIT
+We (exclusive) made the emperor listen to the song.
+
+
+Xáru vúlumugoo málalu kólo ubúrumamu shúynuxóronunu.
+xáru vúlumu-ko-o málalu kólo i-púrumu-mi shíynuxóronu-nu
+red fox-DEF-ERG gold ring INAN-hide-WIT marsh-INESS
+The red fox hid the golden ring in the marsh.
+
+
+Bóħrunuvárumulu tóralulu tóraluládamólurugo zúra lóruma izamimi lú?
+bóħrunuvárumulu tóralu-li tóralu-ládamóluru-ko zúra lóruma i-sami-mi lú
+black-and-white movie-ELAT script-DEF very long INAN-be-WIT [POLAR]
+Is the script for the black-and-white movie very long?
+
+
+Pálumudórumagoo zéreniri várini vézibíra kílimiri arúzamumu.
+pálumudóruma-ko-o zéreniri vári-nu vézi-píra kílimiri a-rúzamu-mi
+athlete-DEF-ERG each year-INESS 4000 kilometer ANIM-run-WIT
+The athlete runs four thousand kilometers every year.
+
+
+Kávuru xázunulu izamimili, dórumagoo nólumulu inízimimi.
+kávuru xázunulu i-sami-mi-li dóruma-ko-o nólumulu i-nízimi-mi
+coffee hot INAN-be-WIT-ELAT student-DEF-ERG slowly INAN-drink-WIT
+Because the coffee was hot, the student drank slowly.
+
+
+Nolóradagoo éle lúmuralu pálo ivérimami.
+ni-lòra-da-ko-o éle lúmuralu péle i-vérima-mi
+1SG-hand-INALIEN-DEF-ERG swan soft skin INAN-see/feel-WIT
+My hand feels the soft skin of the swan.
+
+
+Máguzúrazóronaragoo kúrumuvórumanu várigádi túrumudúrumu avérimami félirini.
+máguzúrazóronara-ko-o kúrumuvóruma-nu vári-kádi túrumu-túrumu a-vérima-mi féliri-nu
+honoured-leader-DEF-ERG morning-INESS four-score bird~PL ANIM-see-WIT sky-INESS
+The emperor saw eighty birds in the sky this morning.
+
+
+Nie múranuzáluma udólumumu múranuspáranu.
+ni-e múranuzáluma i-dólumu-mi múranuspára-nu
+1SG-ERG life-food INAN-forget-WIT hospital-INESS
+I forgot the medicine in the hospital.
+
+
+Zélirigee lédali púda márugulu inémizimi.
+zéliri-ko-e léda-li púda márugulu i-némi-su-mi
+wind-DEF-ERG paper-ELAT boat downward INAN-float-CAUS-WIT
+The wind made the paper boat float downward.
+
+
+Sériminizéradarimagee tógorudógoru idézimimi téreni xéliri izérimili.
+sériminizéradarima-ko-o tógoru-tógoru i-dézimi-mi téreni xéliri i-sérimi-li
+scientist-DEF-ERG tool-PL INAN-need-WIT data true INAN-ensure-PURP
+The scientist needs tools to ensure the data is true.
+
+
+Pozúradórumao zúravórunu sérimini igélimime.
+po-zúradóruma-o zúravórunu sérimini i-kélimi-me
+DUAL-scholar-ERG ancient knowledge INAN-find-INFER
+Apparently, the two scholars found ancient knowledge.
+
+
+Héré fázumugo uvóvumamu, kúrumuvóruma lúmuralu izamigeme.
+héré fázumu-ko i-vóvuma-mi, kúrumuvóruma lúmura-lu i-sami-ge-me
+if sun-DEF.NEAR INAN-rise-WIT, morning beautiful INAN-be-FUT-INFER
+If the sun rises, the morning will apparently be beautiful.
+
+
+Tórumodórumagoo bíra tórunudórunu udórumodórumamu tórumobálara géni.
+tórumodóruma-ko-o bíra tórunu-tórunu i-tórumo-dérimi-mi tórumobálara géni
+gunslinger-DEF-ERG fifteen target-PL INAN-hit-finish-WIT bat INSTR
+The gunslinger hit fifteen targets with the bat.
+
+
+Dórumu shéneda udórumodórumamu kórumunu.
+dórumu shéne-da i-tórumo-dérimi-mi kórumu-nu
+child bone-INALIEN INAN-hit-finish-WIT classroom-INESS
+The child's bone was broken in the classroom.
+
+
+Nididegee tírimi sánomuzánomu idérimi ilímirimi.
+ni-ti-te-ko-e tírimi sánomu~sánomu i-dérimi i-límiri-mi
+1-2-PL-DEF-ERG together snack~PL INAN-share INAN-look.forward-WIT
+We look forward to sharing snacks together.
+
+
+Nímagoo tézimili vólumudógoru ubúrumamu sám míranispírani.
+nìma-ko-o tézimili vólumudógoru i-púrumu-mi sám míranispíra-nu
+ghost-DEF-ERG silver key INAN-hide-WIT empty grave-INESS
+The ghost hid the silver key in the empty grave.
+
+
+Nie dóruma kádingérevézi sómutsómut uzólumuzuzumu pírimi véri.
+ni-e dóruma kádi-hére-vézi sómut~sómut i-zólumu-su-su-mi pírimi véri
+1SG-ERG student four-score sentence-PL INAN-memorize-CAUS-CAUS-WIT exam BEN
+I made the teacher have the student memorize thirty sentences for the exam.
+
+
+Mógo lúmuralu kólo múranu hére míraninérili izamimi.
+mógo lúmura-lu kólo múranu hére míraninéri-li i-sami-mi
+world beautiful-ADJ circle life and death-ELAT INAN-be-WIT
+The world is a beautiful circle of life and death.
+
+
+
+Dárumodórumago xóronunu zórumalu tógoru igélimimi.
+dárumodóruma-ko xóronu-nu zórumalu tógoru i-kélimi-mi
+hunter-DEF field-INESS important tool INAN-find-WIT
+The hunter found an important tool in the field.
+
+
+Nie nérili dórava géni téreni igérimimi.
+ni-e nérili dórava géni téreni i-kérimi-mi
+1SG-ERG new system INSTR data INAN-calculate-WIT
+I calculated the data with the new system.
+
+
+Dórumadórumagoo tegee kávuru inizimimi hére dézari unárumumu.
+dóruma-dóruma-ko-o te-ke-e kávuru i-nízimi-mi hére dézari i-nárumu-mi
+student-PL-DEF-ERG PL.SUBJ-ERG coffee INAN-drink-WIT and homework INAN-write-WIT
+The students drink coffee and write homework.
+
+
+Zúragúragoo dóruma zúravórunu rázumurána ielirízimizizimi.
+zúragúra-ko-o dóruma zúravórunu rázumurána i-elirízimi-su-su-mi
+teacher-DEF-ERG student ancient alphabet INAN-read-CAUS-CAUS-WIT
+"The teacher had the student read the ancient alphabet."
+
+
+Ħòrogoo mázumu arúzumuzubumu.
+ħòro-ko-o mázumu a-rúzamu-su-bi-mi
+crow-DEF-ERG cat ANIM-run-CAUS-BEN-WIT
+"The crow made the cat run for its own benefit."
+
+
+Héré lánumugo glizami, pórumugo félirini alózumugomo.
+héré lánumu-ko glizami, pórumu-ko féliri-nu a-lózumu-ge-me
+if moon-DEF.NEAR glow, owl-DEF sky-INESS ANIM-fly-FUT-INFER
+"If the moon glows, the owl will fly in the sky."
+
+
+Tóralugóruamagoo nérili vérizima ilímirimi.
+tóralu-góruamu-ko-o nérili vérizima i-límiri-mi
+movie-creator-DEF-ERG new scene INAN-look.forward-WIT
+"The director looks forward to the new scene."
+
+
+Nie vólumunu lúmuralu kírimi ivérimami há!
+ni-e vólumu-nu lúmura-lu kírimi i-férimi-mi há
+1SG-ERG window-INESS beautiful flower INAN-see-WIT MIR
+"I saw a beautiful flower in the window, wow!"
+
+
+Múranuspárazúradórumagoo zérimineli báruna igérimimi.
+múranuspárazúradóruma-ko-o zérimineli báruna i-kérimi-mi
+hospital-scholar-DEF-ERG weak animal INAN-calculate-WIT
+"The doctor examined the weak animal."
+
+
+Pálumudórumagoo bíra kílimirigílimiri rómurunu arúzamumu.
+pálumudóruma-ko-o bíra kílimiri-kílimiri rómuru-nu a-rúzamu-mi
+athlete-DEF-ERG fifteen kilometer-PL island-INESS ANIM-run-WIT
+"The athlete ran fifteen kilometers on the island."
+
+
+Nie nili lórada géni sagúra kírimi ulóradárumumu.
+ni-e ni-lòra-ta géni sagúra kírimi i-lóradárumu-mi
+1SG-ERG 1SG-hand-INALIEN INSTR cherry flower INAN-reach-WIT
+"I reached for the cherry blossom with my own hand."
+
+
+Ħórumuvórumanu xálonu némimi xóronunu izamimi.
+ħórumu-vóruma-nu xálo-nu némimi xóronu-nu i-sami-mi
+winter-spring-INESS gutter-INESS float field-INESS INAN-be-WIT
+"In April, there is floating debris in the gutter by the field."
+
+
+Lízireo nèmispírani mimísmige azólumuzumu?
+lízire-o nèmispíra-nu mimísmi-ko a-sólumu-su-mi
+who-ERG prison-INESS mime-DEF ANIM-sit-CAUS-WIT
+"Who made the mime sit in the prison?"
+
+
+Nie pórumubórumu vórulunu ubúruma avérimami.
+ni-e pórumu-pórumu vórulu-nu i-púrumu a-vérima-mi
+1SG-ERG owl-PL park-INESS INAN-hide ANIM-see-WIT
+"I saw the owls hiding in the park."
+
+
+Héré málalunulu inérimimi, dórumago isérimidérimigeme.
+héré málalunulu i-nérimi-mi, dóruma-ko i-sérimi-dérimi-ge-me
+if wealth INAN-endure-WIT, student-DEF INAN-learn-finish-FUT-INFER
+"If the funding holds, the student will graduate."
+
+
+Lámorudórugoo rázumurána udórumosuzumu rómurunu.
+lámorudóru-ko-o rázumurána i-tórumo-su-mi rómuru-nu
+musician-DEF-ERG alphabet INAN-give-CAUS-WIT island-INESS
+"The musician had the alphabet taught on the island."
+
+
+Ħórumuvórumanu dága shíynimili izamimili, máys idárimigeme.
+ħórumu-vóruma-nu daga shíynimili i-sami-mi-li máys i-dárimi-ge-me
+winter-spring-INESS soil wet-ADJ INAN-be-WIT-ELAT corn INAN-grow-FUT-INFER
+"Because the soil is wet in April, the corn will apparently grow."
+
+
+Nie tímege xòrolughòron idémenimi, héré tímee kávuru inázimimi.
+ni-e tíme-ko xòrolughòron i-témeni-mi héré tíme-e kávuru i-názimi-mi
+1SG-ERG 2SG.FORMAL-DEF rage INAN-judge-WIT because 2SG.FORMAL-ERG coffee INAN-refuse-WIT
+"I judge your rage to be because you refused coffee."
+
+
+Mózu tóralugoo nérili dórava idémenidérimimi.
+mózu tóralu-ko-o nérili dórava i-témeni-dérimi-mi
+terror movie-DEF-ERG new system INAN-judge-finish-WIT
+"The horror movie finalized the evaluation of the new system."
+
+
+Nie dórumamúru kánaralu bóromuzubumi, teke uválumulu.
+ni-e dórumu~múru kánara-lu bóromu-su-bi-mi te-ke i-fálumu-li
+1SG-ERG child~PL karaoke-ILL go-CAUS-BEN-WIT 3PL.SUBJ INAN-enjoy-PURP
+"I had the children go to karaoke for their benefit so they might enjoy it."
+
+
+Ħárumushkoo éleli mìlimìli ubúrumami kóvununu.
+ħárum-ko-o éle-li mìli~mìli i-púrumu-mi kóvunu-nu
+hawk-DEF-ERG swan-POSS feather~PL INAN-hide-WIT garden-INESS
+"The hawk hid the swan's feathers in the garden."
+
+
+Píbibíbige lúmura kírimili ulóradárumumu.
+píbi-píbi-ko lúmura kírimi-lu i-lóradárumu-mi
+hummingbird-PL-DEF beautiful flower-ILL INAN-reach-WIT
+"The hummingbirds reached for the beautiful flower."
+
+
+Mimísmigee nebárimilimi rázumurána unárumumu.
+mimísmi-ko-o nebárimilimi rázumurána i-nárumu-mi
+mime-DEF-ERG silently alphabet INAN-write-WIT
+"The mime silently wrote the alphabet."
+
+
+Nie stáduradóruma dézari izérimizizizimi.
+ni-e stádira-dóruma dézari i-sérimi-su-su-mi
+1SG-ERG statistics-student homework INAN-ensure-CAUS-CAUS-WIT
+"I made the teacher have the statistics student do the homework."
+
+
+Ħòrogoo xóronuzámushnu pegádingéreténa vónuma azálumumu.
+ħòro-ko-o xóronu-sám-nu po-kádi-hére-téna vónuma a-zálumu-mi
+crow-DEF-ERG desert-INESS fifty-four fruit ANIM-eat-WIT
+"The crow ate fifty-four pieces of fruit in the desert."
+
+
+Dórumagoo zórumalu tógoru ugázumudarumumu há!
+dóruma-ko-o zórumalu tógoru i-kázumu-dérimi-mi há
+student-DEF-ERG important tool INAN-repair-finish-WIT MIR
+"The student finished repairing the important tool, wow!"
+
+
+Nie fúramunu xúbaru ugóruamuzuzumu.
+ni-e fúramu-nu xúbaru i-góruamu-su-su-mi
+1SG-ERG race-INESS satellite INAN-create-CAUS-CAUS-WIT
+"I had the engineers make the satellite during the race."
+
+
+Dóramudórumagoo márununu sánomuzánomu azálumumu.
+dóramu-dóramu-ko-o márunu-nu sánomu~sánomu a-zálumu-mi
+boy-PL-DEF-ERG market-INESS snack~PL ANIM-eat-WIT
+The boys ate snacks in the market.
+
+
+Nie nérili móluru géni Aaruma izérimimi.
+ni-e nérili móluru géni Aaruma i-sérimi-mi
+1SG-ERG new dictionary INSTR Aaruma INAN-learn-WIT
+I learned Aaruma with a new dictionary.
+
+
+Máguzúrazóronaragoo dórumadóruma nérili mánaru asérimizizimi.
+máguzúrazóronara-ko-o dóruma~dóruma nérili mánaru a-sérimi-su-su-mi
+honoured-leader-DEF-ERG student~PL new song ANIM-learn-CAUS-CAUS-WIT
+The emperor made the students learn a new song.
+
+
+Héré fázumugo uvóvumamu, túrumutúrumugoo félirini alózumugumu.
+héré fázumu-ko i-vóvuma-mi, túrumu-túrumu-ko-o féliri-nu a-lózumu-ge-me
+if sun-DEF.NEAR INAN-rise-WIT, bird-PL-DEF-ERG sky-INESS ANIM-fly-FUT-INFER
+If the sun rises, the birds will fly in the sky.
+
+
+Zúradórumagoo térenili nérili fénara ivírimimi.
+zúradóruma-ko-o téreni-li nérili fénara i-fírimi-mi
+scholar-DEF-ERG data-ELAT new algorithm INAN-build-WIT
+The scholar built a new algorithm from the data.
+
+
+Nie vórulunu kóru vúlumu avérimami.
+ni-e vórulu-nu kóru vúlumu a-férimi-mi
+1SG-ERG park-INESS six fox ANIM-see-WIT
+I saw six foxes in the park.
+
+
+Héré rázumurána hélirili samimi, dórumago fúduru ielirízimigeme.
+héré rázumurána hélirili sami-mi, dóruma-ko fúduru i-elirízimi-ge-me
+if alphabet efficient be-WIT, student-DEF quickly INAN-read-FUT-INFER
+If the alphabet is efficient, the student will read quickly.
+
+
+Dárumodórumagoo xóronunu pogádingéreá túrumu adárumumu.
+dárumodóruma-ko-o po-kádi-hére-ú túrumu a-dárumu-mi
+hunter-DEF-ERG two-twenty-and-eight bird ANIM-chase-WIT
+The hunter chased forty-eight birds in the field.
+
+
+Nie kómurunu nérili dózama ubálumumu.
+ni-e kómuru-nu nérili dózama i-pálumu-mi
+1SG-ERG computer-INESS new game INAN-play-WIT
+I played a new game on the computer.
+
+
+Dórumugo kóramudógorunu lúmura kírimi igélimimi.
+dórumu-ko kóramudógoru-nu lúmura kírimi i-kélimi-mi
+child-DEF tree-INESS beautiful flower INAN-find-WIT
+The child found a beautiful flower in the tree.
+
+
+Lámorudórugoo zéreniri sélimi pálumuma abálumumu.
+lámorudóru-ko-o zéreniri sélimi pálumuma a-pálumu-mi
+musician-DEF-ERG every day instrument ANIM-play-WIT
+The musician plays the instrument every day.
+
+
+Nie pélanigéni fúzu zángurumúru ivérimami.
+ni-e pélani-géni fúzu zánguru~múru i-férimi-mi
+1SG-ERG telescope-INSTR twelve planet~PL INAN-see-WIT
+I saw twelve planets with the telescope.
+
+
+Zúragúragoo dórumadóruma mólurumóluru ubárumazumu.
+zúragúra-ko-o dóruma~dóruma móluru~móluru i-páruma-su-mi
+teacher-DEF-ERG student~PL dictionary~PL INAN-possess-CAUS-WIT
+The teacher made the students have dictionaries.
+
+
+Ħárumushkoo màrunu éleli mìlimìli ubúrumamu.
+ħárum-ko-o màru-nu éle-li mìli-mìli i-púrumu-mi
+hawk-DEF-ERG valley-INESS swan-POSS feather-PL INAN-hide-WIT
+The hawk hid the swan's feathers in the valley.
+
+
+Nie dézari unárumumu héré kávuru inízimimi.
+ni-e dézari i-nárumu-mi héré kávuru i-nízimi-mi
+1SG-ERG homework INAN-write-WIT while coffee INAN-drink-WIT
+I write homework while drinking coffee.
+
+
+Mázumugo kóvununu polunámora adárumumu há!
+mázumu-ko-o kóvunu-nu polunámora a-dárumu-mi há
+cat-DEF-ERG garden-INESS lizard ANIM- chase-WIT MIR
+The cat chased the lizard in the garden, wow!
+
+
+Héré pálumudórumago fúramunu arúzamumu górumala izamigeme.
+héré pálumudóruma-ko fúramu-nu a-rúzamu-mi, górumu-la i-sami-ge-me
+if athlete-DEF race-INESS ANIM-run-WIT, grateful-ADJ INAN-be-FUT-INFER
+If the athlete runs in the race, (they) will be grateful.
+
+
+Zúravórunu shénezhéneni rázumurána izéradimimi.
+zúravórunu shéne-shéne-nu rázumurána i-séradi-mi
+ancient bone-PL-INESS alphabet INAN-remain-WIT
+The alphabet remains on the ancient bones.
+
+
+Nie sánomunáru sánomuzánomu udórumozuzubumu.
+ni-e sánomu-nári sánomu~sánomu i-tórumu-su-bi-mi
+1SG-ERG snacker snack~PL INAN-give-CAUS-BEN-WIT
+I had snacks given to the snacker for their benefit.
+
+
+Tóralunárumagoo pánurunu lúmura mánaru ibárimimi.
+tóralu-náruma-ko-o pánuru-nu lúmura mánaru i-bárimi-mi
+actor-DEF-ERG library-INESS beautiful song INAN-hear-WIT
+The actor heard a beautiful song in the library.
+
+
+Ħórumuvórumanu séliru félirili zúra lúmuralu izamimi.
+ħórumu-vóruma-nu séliru félirili zúra lúmura-lu i-sami-mi
+winter-spring-INESS ocean blue-ADJ very beautiful INAN-be-WIT
+In April, the blue ocean is very beautiful.
+
+
+Nie dómuru udólumumu héré fázuma uvónamu.
+ni-e dómuru i-dólumu-mi héré fázuma i-vóna-mi
+1SG-ERG house INAN-lose-WIT when storm INAN-evoke-WIT
+I lost the house when the storm arose.
+
+
+Dórumadórumagoo spírani nérili fénara ugóruamumu ivézimimi.
+dóruma~dóruma-ko-o spíra-nu nérili fénara i-góruamu-mi i-vézimi-mi
+student~PL-DEF-ERG room-INESS new algorithm INAN-create-WIT INAN-want-WIT
+The students want to create a new algorithm in the room.
+
+
+Ħòrogoo máyspánomu fízanini azálumumu.
+ħòro-ko-o máys-pánomu fízani-nu a-zálumu-mi
+crow-DEF-ERG popcorn kitchen-INESS ANIM-eat-WIT
+The crow ate the popcorn in the kitchen.
+
+
+Héré dénili xélirili samimi, ni zúra férimala izamigeme.
+héré dénili xélirili sami-mi, ni zúra férimala i-sami-ge-me
+if documentation true be-WIT, 1SG very happy INAN-be-FUT-INFER
+If the documentation is true, I will be very happy.
+
+
+Dórumago pánurunu móluru udólumumu.
+dóruma-ko pánuru-nu móluru i-dólumu-mi
+student-DEF library-INESS dictionary INAN-lose-WIT
+The student lost the dictionary in the library.
+
+
+Nie xázunulu téziri inizimimi héré órumo ivézimimi.
+ni-e xázunulu téziri i-nízimi-mi héré órumo i-vézimi-mi
+1SG-ERG hot tea INAN-drink-WIT and sleep INAN-want-WIT
+I drink hot tea and want to sleep.
+
+
+Mógo lúmura kólo múranu hére míraninéri izamimi.
+mógo lúmura-lu kólo múranu hére míraninéri i-sami-mi
+world beautiful circle life and death INAN-be-WIT
+The world is a beautiful circle of life and death.
+
+
+Zúradórumagoo pánurunu lúmuralu rélamarélama ielirízimimi.
+zúradóruma-ko-o pánuru-nu lúmura-lu rélama-rélama i-elirízimi-mi
+scholar-DEF-ERG library-INESS beautiful-ADJ poem~PL INAN-read-WIT
+The scholar read beautiful poems in the library.
+
+
+Nie nérili tógoru géni kóramudógorugóvunu ivírimimi.
+ni-e nérili tógoru géni kóramudógoru-kóvunu i-fírimi-mi
+1SG-ERG new tool INSTR tree-garden INAN-build-WIT
+I built a tree garden with a new tool.
+
+
+Máguzúrazóronaragoo pálumudóruma vézi kílimiri arúzamuzuzubumu.
+máguzúrazóronara-ko-o pálumudóruma vézi kílimiri a-rúzamu-su-bi-mi
+honoured-leader-DEF-ERG athlete ten kilometer ANIM-run-CAUS-BEN-WIT
+The emperor had the athlete run ten kilometers for the people's benefit.
+
+
+Héré kúrumuvórumanu izhíynimi, éle lúmuralu zárununu inémigeme.
+héré kúrumuvóruma-nu i-shíyni-mi, éle lúmura-lu zárunu-nu i-némi-ge-me
+if morning-INESS INAN-rain-WIT, swan beautiful-ADJ river-INESS INAN-float-FUT-INFER
+If it rains in the morning, the beautiful swan will float on the river.
+
+
+Zúragúragoo dórumadóruma nérili rázumurána uzólumuzuzumu.
+zúragúra-ko-o dóruma~dóruma nérili rázumurána i-zólumu-su-su-mi
+teacher-DEF-ERG student~PL new alphabet INAN-memorize-CAUS-CAUS-WIT
+The teacher made the students memorize a new alphabet.
+
+
+Nie vórulunu lúmuralu túrumu ibárimimi héré mánarumama.
+ni-e vórulu-nu lúmura-lu túrumu i-bárimi-mi héré mánaruma-mi
+1SG-ERG park-INESS beautiful bird INAN-hear-WIT while sing-WIT
+I heard a beautiful bird in the park while it was singing.
+
+
+Héré málalununulu inérimimi, nérili dénili ugóruamugomo.
+héré málalunulu i-nérimi-mi, nérili dénili i-góruamu-ge-me
+if wealth INAN-endure-WIT, new documentation INAN-create-FUT-INFER
+If the funding holds, new documentation will be created.
+
+
+Nie kómurunu stádira téreni igérimimi héré tránzuru izérimimi.
+ni-e kómuru-nu stádira téreni i-kérimi-mi héré tránzuru i-sérimi-mi
+1SG-ERG computer-INESS statistics data INAN-calculate-WIT while transformer INAN-learn-WIT
+I calculated statistics data on the computer while learning about transformers.
+
+
+Dárumodórumagoo kóramudógorughóronunu bóħrunu vúlumu adárumumu.
+dárumodóruma-ko-o kóramudógoru~xóronu-nu bóħrunu vúlumu a-dárumu-mi
+hunter-DEF-ERG forest-INESS black fox ANIM-chase-WIT
+The hunter chased a black fox in the forest.
+
+
+Nie xóronuzámushnu vézi kárunugárunu ivérimami.
+ni-e xóronuzám-nu vézi kárunu-kárunu i-férimi-mi
+1SG-ERG desert-INESS ten rock~PL INAN-see-WIT
+I saw ten rocks in the desert.
+
+
+Lámorudórugoo mánaru unárumumu héré séliru ivérimami.
+lámoru~dóru-ko-o mánaru i-nárumu-mi héré séliru i-férimi-mi
+musician-DEF-ERG song INAN-write-WIT while ocean INAN-see-WIT
+The musician wrote a song while looking at the ocean.
+
+
+Zúragúragoo dórumu kórumunu pálumuma abálumusuzumu.
+zúragúra-ko-o dórumu kórumu-nu pálumuma a-pálumu-su-mi
+teacher-DEF-ERG child classroom-INESS instrument ANIM-play-CAUS-WIT
+The teacher made the child play the instrument in the classroom.
+
+
+Nie sádumu séliminu lúmuralu tóralu uválumumu.
+ni-e sádumu sélimi-nu lúmura-lu tóralu i-fálumu-mi
+1SG-ERG last day-INESS beautiful movie INAN-enjoy-WIT
+I enjoyed a beautiful movie yesterday.
+
+
+Dórumagoo pánurunu móluru nérili ubárumamu.
+dóruma-ko-o pánuru-nu móluru nérili i-páruma-mi
+student-DEF-ERG library-INESS dictionary new INAN-possess-WIT
+The student possesses a new dictionary in the library.
+
+
+Héré zárunubárolunu izhíynimi, ni súmurunu aórumomu.
+héré zárunu~bárolu-nu i-shíyni-mi, ni súmuru-nu a-órumo-mi
+if riverbank-INESS INAN-rain-WIT, 1SG bed-INESS ANIM-sleep-WIT
+If it rains on the riverbank, I sleep in my bed.
+
+
+Tóralunárumagoo xérali tálimidérimi idálimimi.
+tóralu~náruma-ko-o xérali tálimidérimi i-tálimi-mi
+movie-person-DEF-ERG expressive speech INAN-speak-WIT
+The actor spoke an expressive speech.
+
+
+Ħòrogoo mázumu márununu arúzumuzumu.
+ħòro-ko-o mázumu márunu-nu a-rúzamu-su-mi
+crow-DEF-ERG cat market-INESS ANIM-run-CAUS-WIT
+The crow made the cat run in the market.
+
+
+Nie nérili mánaruma unárumu ivézimimi héré kánaralu bóromumu.
+ni-e nérili mánaruma i-nárumu i-vézimi-mi héré kánara-lu bóromu-mi
+1SG-ERG new lyric INAN-write INAN-want-WIT when karaoke-ILL go-WIT
+I want to write new lyrics when I go to karaoke.
+
+
+Dórumago fízanini lúmuralu sánomu azálumumu.
+dóruma-ko fízani-nu lúmura-lu sánomu a-zálumu-mi
+student-DEF kitchen-INESS beautiful-ADJ snack ANIM-bite-WIT
+The student ate a beautiful snack in the kitchen.
+
+
+Nie nérili dézarili pélani zánguru ivérimami.
+ni-e nérili dézari-li pélani zánguru i-férimi-mi
+1SG-ERG new project-ELAT far planet INAN-see-WIT
+I saw a distant planet for the new project.
+
+
+Máguzúrazóronaragoo fálurunadóruma várigádi kéridárimi várigádi igérimizizimi.
+máguzúrazóronara-ko-o fálurunadóruma vári-kádi kéridárimi vári-kádi i-kérimi-su-mi
+honoured-leader-DEF-ERG astronomer four-score star INAN-calculate-CAUS-WIT
+The emperor made the astronomer calculate eighty times eighty.
+
+
+Héré lánumugo glizami, mázumugo kóvununu aórumogomo.
+héré lánumu-ko glizami, mázumu-ko kóvunu-nu a-órumo-ge-me
+if moon-DEF.NEAR glow, cat-DEF garden-INESS ANIM-sleep-FUT-INFER
+If the moon glows, the cat will apparently sleep in the garden.
+
+
+Nie nili lórada géni tézimili vólumudógoru ulóradárumumu.
+ni-e ni-lòra-ta géni tézimili vólumutógoru i-lóradárumu-mi
+1SG-ERG 1SG-hand-INALIEN INSTR silver key INAN-reach-WIT
+I reached for the silver key with my own hand.
+
+
+Dórumadórumagoo dénimini nérili dórava ivérimami há!
+dóruma-dóruma-ko-o dénimi-nu nérili dórava i-férimi-mi há
+student-PL-DEF-ERG school-INESS new system INAN-see-WIT MIR
+The students saw the new system at school, wow!
+
+
+Teli númagoo dómurunu niza nérili súmurumúru idézimimi.
+teli núma-ko-o dómuru-nu niza nérili súmuru~múru i-dézimi-mi
+1PL.POSS family-DEF-ERG house-INESS eight new bed~PL INAN-need-WIT
+Our family needs eight new beds in the house.
+
+
+Nie zángurunu málalu kólo ivérimami héré pélanige ivérimami.
+ni-e zánguru-nu málalu kólo i-férimi-mi héré pélani-ke i-férimi-mi
+1SG-ERG planet-INESS gold circle INAN-see-WIT while telescope-INSTR INAN-see-WIT
+I saw a golden circle on the planet while looking through the telescope.
+
+
+Mógogoo mánaru unárumu dénili igérimimi.
+mógo-ko-o mánaru i-nárumu dénili i-kérimi-mi
+world-DEF-ERG song INAN-write documentation INAN-ensure-WIT
+The world's song ensures the documentation.
+
+
+Máguzúrazóronaragoo dórumadóruma nérili dénili ielirízimizibimi.
+máguzúrazóronara-ko-o dóruma~dóruma nérili dénili i-elirízimi-su-bi-mi
+honoured-leader-DEF-ERG student~PL new documentation INAN-read-CAUS-BEN-WIT
+The emperor had the students read the new documentation for their benefit.
+
+
+Héré fázumugo uvóvumamu, zánguru glízali izamigeme.
+héré fázumu-ko i-vóvuma-mi, zánguru glízali i-sami-ge-me
+if sun-DEF.NEAR INAN-rise-WIT, planet bright INAN-be-FUT-INFER
+If the sun rises, the planet will apparently be shining.
+
+
+Zúragúragoo dóruma pórunu ugázumuzuzumu.
+zúragúra-ko-o dóruma pórunu i-kázumu-su-su-mi
+teacher-DEF-ERG student bicycle INAN-repair-CAUS-CAUS-WIT
+The teacher made the student repair the bicycle.
+
+
+Nie pánurunu lúmuralu móluru igélimimi héré kávuru inizimimi.
+ni-e pánuru-nu lúmura-lu móluru i-kélimi-mi héré kávuru i-nízimi-mi
+1SG-ERG library-INESS beautiful dictionary INAN-find-WIT while coffee INAN-smell-WIT
+I found a beautiful dictionary in the library while smelling coffee.
+
+
+Ħòrogoo dórumu záluma azálumuzuzumu.
+ħòro-ko-o dórumu záluma a-zálumu-su-su-mi
+crow-DEF-ERG child food ANIM-eat-CAUS-CAUS-WIT
+The crow made the child eat the food.
+
+
+Nie vórulunu náni vúlumu avérimami héré pálumumu.
+ni-e vórulu-nu náni vúlumu a-férimi-mi héré pálumu-mi
+1SG-ERG park-INESS five fox ANIM-see-WIT while play-WIT
+I saw five foxes in the park while they played.
+
+
+Dárumodórumagoo xóronunu tézimili tórumodógoru uúrumamu.
+dárumodóruma-ko-o xóronu-nu tézimili tórumodógoru i-púrumu-mi
+hunter-DEF-ERG field-INESS metal weapon INAN-hide-WIT
+The hunter hid the metal weapon in the field.
+
+
+Nie nérili tógoru géni kólo lúmuralu ivírimimi.
+ni-e nérili tógoru géni kólo lúmura-lu i-fírimi-mi
+1SG-ERG new tool INSTR circle beautiful INAN-build-WIT
+I built a beautiful circle with a new tool.

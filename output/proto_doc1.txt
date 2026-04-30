@@ -1,0 +1,175 @@
+======================================================================
+  PROTO-LANGUAGE DOCUMENT 1
+======================================================================
+
+Reconstruction tiers:
+  [1] citation     — token matched a dictionary citation form
+  [2] morphological — token segmented via interlinear corpus
+  [3] fallback     — lang1 form used with *-prefix + á→à correction
+
+Token statistics: 13 citation (23%),
+                  18 morphological (32%),
+                  25 fallback (44%)
+
+----------------------------------------------------------------------
+  PROTO-LANGUAGE TEXT
+----------------------------------------------------------------------
+
+*Vúlunudonu *nideni *tára, *lízirede *vúlunudonu *i-sámi-mi.
+*Zidaba *zólurulu *i-sámi-mi.
+*Màguzúraspàraba *uvóvumagomo.
+*Véramiba *mógodonu *tírimi *vúlunudonu *i-góruamu-mi.
+*hére *sélimi-nu *ni *teni *sélimili *bádu *adórumu.
+*hére *ni *te *véri *ni *teni *mózumamózuma *udólumu.
+*tírimi *ni *te-ke-e *lízirege *ni *te *véri *mózuma *ugóruamu *ni *teni *uvàrudólumu.
+*hére *ni *te *vúruvúrudolu *ubóromuno.
+*Màguzúraspàra, *hére *zérimi, *hére *mulugóramu *niba *i-sámi-mi.
+*Sólunuzàronuruda.
+
+----------------------------------------------------------------------
+  LINE-BY-LINE COMPARISON
+----------------------------------------------------------------------
+
+Line 1:
+  Proto : *Vúlunudonu *nideni *tára, *lízirede *vúlunudonu *i-sámi-mi.
+  Lang1 : Vúlunudonu nideni Tára, lízirede vúlunudonu izamimi.
+  lang2  : Vúúlúnúdùnú nídìní Tàràqngà, lííngírìdì bbúúlúnúdùnú íngàmímí.
+  lang3  : Vúúlúnṹdonṹ nĩ́denĩ́ Tàrãã, líízírede tàbúúlúnṹdonṹ ízàmĩ́mĩ́.
+  lang4  : Vúúlúnṹdùnṹ nĩ́dìnĩ́ Tàràqgà, líízírìdì bvúúlúnṹdùnṹ ízàmĩ́mĩ́.
+  lang5  : Vúlunudonu nideni Tàràqgà, língirede bvúlunudonu ingàmimi.
+  lang6  : Vúlunũdonũ nĩdenĩ Tarã, lízirede tabúlunũdonũ izamĩmĩ.
+  lang7  : Vúúlúnṹdùnṹ nĩ́dìnĩ́ Tèrègè, lííngírìdì vvúúlúnṹdùnṹ íngèmĩ́mĩ́.
+
+Line 2:
+  Proto : *Zidaba *zólurulu *i-sámi-mi.
+  Lang1 : Zidaba zólurulu izamimi.
+  lang2  : Ngídàbàqngà ngólúrúlú íngàmímí.
+  lang3  : Tàzídàbãã tàzólúrúlú ízàmĩ́mĩ́.
+  lang4  : Dzídàbàqgà dzólúrúlú ízàmĩ́mĩ́.
+  lang5  : Dngidàbàqgà dngólurulu ingàmimi.
+  lang6  : Dzidabã dzólurulu izamĩmĩ.
+  lang7  : Ngídèbèngè ngólúrúlú íngèmĩ́mĩ́.
+
+Line 3:
+  Proto : *Màguzúraspàraba *uvóvumagomo.
+  Lang1 : Máguzúraspáraba uvóvumagomo.
+  lang2  : Màgúngúúràhpàràbàgà úvóvúmàgùmù.
+  lang3  : Mã̀gúzúúràspàràbãã úvóvúmã̀gomõ.
+  lang4  : Mã̀gúzúúràspàràbã úvóvúmã̀gùmũ̀.
+  lang5  : Màgungúràhpàràba uvóvumàgomo.
+  lang6  : Mãguzúrasparabã uvóvumãgomõ.
+  lang7  : Mõ̀gúngúúròhpòròbòngò úvóvúmõ̀gùmũ̀.
+
+Line 4:
+  Proto : *Véramiba *mógodonu *tírimi *vúlunudonu *i-góruamu-mi.
+  Lang1 : Véramiba mógodonu tírimi vúlunudonu ugóruamumu.
+  lang2  : ggéràmíbàqngà mógùdùnú tíírímí bbúúlúnúdùnú úgórúàmúmú.
+  lang3  : Tàvéràmĩ́bãã mṍgodonṹ tíírímĩ́ tàbúúlúnṹdonṹ úgórúàmṹmṹ.
+  lang4  : Tàgéràmĩ́bàqgà mṍgùdùnṹ tíírímĩ́ bvúúlúnṹdùnṹ úgórúwàmṹmṹ.
+  lang5  : Tàgéràmibàqgà mógodonu tírimi bvúlunudonu ugóruwàmumu.
+  lang6  : Bvéramĩbã mṍgodonũ tírimĩ tabúlunũdonũ ugóruamũmũ.
+  lang7  : Vvérèmĩ́bèngè mṍgùdùnṹ tíírímĩ́ vvúúlúnṹdùnṹ úgórúòmṹmṹ.
+
+Line 5:
+  Proto : *hére *sélimi-nu *ni *teni *sélimili *bádu *adórumu.
+  Lang1 : Hére sélimini ni teni sélimili bádu adórumu.
+  lang2  : Hérì hélímíní ní tìní hélímílí þàbàdú àdórúmú.
+  lang3  : Hére sélímĩ́nĩ́ nĩ́ tenĩ́ sélímĩ́lí þàbàdú àdrúmṹ.
+  lang4  : Hérì sélímĩ́nĩ́ nĩ́ tìnĩ́ sélímĩ́lí ðbàdú àdórúmṹ.
+  lang5  : Hére hélimini ni teni hélimili ngbàdu àdórumu.
+  lang6  : Hére sélimĩnĩ nĩ tenĩ sélimĩli þabadu adórumũ.
+  lang7  : Hérì hélímĩ́nĩ́ nĩ́ tìnĩ́ hélímĩ́lí ngbòdú òdórúmṹ.
+
+Line 6:
+  Proto : *hére *ni *te *véri *ni *teni *mózumamózuma *udólumu.
+  Lang1 : Hére ni te véri ni teni mózumamózuma udólumu.
+  lang2  : Hérì ní tì ggérí ní tìní móngúmàmóngúmàgà údólúmú.
+  lang3  : Hére nĩ́ te tàvérí nĩ́ tenĩ́ mṍzúmã̀mṍzúmãã údólúmṹ.
+  lang4  : Hérì nĩ́ tì tàgérí nĩ́ tìnĩ́ mṍzúmã̀mṍzúmã̃ údólúmṹ.
+  lang5  : Hére ni te tàgéri ni teni móngumàmónguma udólumu.
+  lang6  : Hére nĩ te bvéri nĩ tenĩ mṍzumãmṍzumã udólumũ.
+  lang7  : Hérì nĩ́ tì vvérí nĩ́ tìnĩ́ mṍngúmõ̀mṍngúmõ̀ngò údólúmṹ.
+
+Line 7:
+  Proto : *tírimi *ni *te-ke-e *lízirege *ni *te *véri *mózuma *ugóruamu *ni *teni *uvàrudólumu.
+  Lang1 : Tírimi ni tegee lízirege ni te véri mózuma ugóruamu ni teni uvárudólumu.
+  lang2  : Tíírímí ní tìqgììd lííngírìqgì ní tì ggérí móngúmàgà úgórúàmú ní tìní úvàrúdólúmú.
+  lang3  : Tíírímĩ́ nĩ́ tegeet líízírege nĩ́ te tàvérí mṍzúmãã úgórúàmṹ nĩ́ tenĩ́ úvàrúdólúmṹ.
+  lang4  : Tíírímĩ́ nĩ́ tìqgììn líízírìqgì nĩ́ tì tàgérí mṍzúmã̃ úgórúwàmṹ nĩ́ tìnĩ́ úvàrúdólúmṹ.
+  lang5  : Tírimi ni teqge língireqge ni te tàgéri mónguma ugóruwàmu ni teni uvàrudólumu.
+  lang6  : Tírimĩ nĩ tege lízirege nĩ te bvéri mṍzumã ugóruamũ nĩ tenĩ uvarudólumũ.
+  lang7  : Tíírímĩ́ nĩ́ tìgèèd lííngírìgì nĩ́ tì vvérí mṍngúmõ̀ngò úgórúòmṹ nĩ́ tìnĩ́ úvòrúdólúmṹ.
+
+Line 8:
+  Proto : *hére *ni *te *vúruvúrudolu *ubóromuno.
+  Lang1 : Hére ni te vúruvúrudolu ubóromuno.
+  lang2  : Hérì ní tì bbúúrúbúúrúdùlú úbórùmúnù.
+  lang3  : Hére nĩ́ te tàbúúrúbúúrúdolú úbóromṹnõ.
+  lang4  : Hérì nĩ́ tì bvúúrúvúúrúdùlú úbórùmṹnũ̀.
+  lang5  : Hére ni te bvúruvúrudolu ubóromuno.
+  lang6  : Hére nĩ te tabúrubúrudolu ubóromũnõ.
+  lang7  : Hérì nĩ́ tì vvúúrúvúúrúdùlú úbórùmṹnũ̀.
+
+Line 9:
+  Proto : *Màguzúraspàra, *hére *zérimi, *hére *mulugóramu *niba *i-sámi-mi.
+  Lang1 : Máguzúraspára, hére zérimi, hére mulugóramu niba izamimi.
+  lang2  : Màgúngúúràhpàràgà, hérì ngérímí, hérì múlúgóràmú níbàqngà íngàmímí.
+  lang3  : Mã̀gúzúúràspàrãã, hére tàzérímĩ́, hére mṹlúgóràmṹ nĩ́bãã ízàmĩ́mĩ́.
+  lang4  : Mã̀gúzúúràspàrã, hérì dzérímĩ́, hérì mṹlúgóràmṹ nĩ́bàqgà ízàmĩ́mĩ́.
+  lang5  : Màgungúràhpàra, hére dngérimi, hére mulugóràmu nibàqgà ingàmimi.
+  lang6  : Mãguzúrasparã, hére dzérimĩ, hére mũlugóramũ nĩbã izamĩmĩ.
+  lang7  : Mõ̀gúngúúròhpòrògò, hérì ngérímĩ́, hérì mṹlúgóròmṹ nĩ́bèngè íngèmĩ́mĩ́.
+
+Line 10:
+  Proto : *Sólunuzàronuruda.
+  Lang1 : Sólunuzáronuruda.
+  lang2  : Sólúnúngàrùnúrúdàgà.
+  lang3  : Sólúnṹzàronṹrúdãã.
+  lang4  : Sólúnṹzàrùnṹrúdã.
+  lang5  : Sólunungàronuruda.
+  lang6  : Sólunũzaronũrudã.
+  lang7  : Sólúnṹngòrùnṹrúdòngò.
+
+----------------------------------------------------------------------
+  TOKEN ANNOTATIONS
+----------------------------------------------------------------------
+
+  Original                  Proto-form                   Tier            English
+  ------------------------ --------------------------- -------------- --------------------
+  Vúlunudonu                *Vúlunudonu                  fallback        
+  nideni                    *nideni                      fallback        
+  Tára,                     *tára                        citation        father
+  lízirede                  *lízirede                    fallback        
+  izamimi.                  *i-sámi-mi                   morphological   
+  Zidaba                    *Zidaba                      fallback        
+  zólurulu                  *zólurulu                    fallback        
+  Máguzúraspáraba           *Màguzúraspàraba             fallback        
+  uvóvumagomo.              *uvóvumagomo                 fallback        
+  Véramiba                  *Véramiba                    fallback        
+  mógodonu                  *mógodonu                    fallback        
+  tírimi                    *tírimi                      citation        like
+  ugóruamumu.               *i-góruamu-mi                morphological   
+  Hére                      *hére                        citation        or
+  sélimini                  *sélimi-nu                   morphological   
+  ni                        *ni                          morphological   
+  teni                      *teni                        fallback        
+  sélimili                  *sélimili                    citation        lucky
+  bádu                      *bádu                        citation        bread
+  adórumu.                  *adórumu                     fallback        
+  te                        *te                          morphological   
+  véri                      *véri                        morphological   
+  mózumamózuma              *mózumamózuma                fallback        
+  udólumu.                  *udólumu                     fallback        
+  tegee                     *te-ke-e                     morphological   
+  lízirege                  *lízirege                    fallback        
+  mózuma                    *mózuma                      citation        coward
+  ugóruamu                  *ugóruamu                    fallback        
+  uvárudólumu.              *uvàrudólumu                 fallback        
+  vúruvúrudolu              *vúruvúrudolu                fallback        
+  ubóromuno.                *ubóromuno                   fallback        
+  Máguzúraspára,            *Màguzúraspàra               fallback        
+  zérimi,                   *zérimi                      citation        energy
+  mulugóramu                *mulugóramu                  citation        glory
+  niba                      *niba                        fallback        
+  Sólunuzáronuruda.         *Sólunuzàronuruda            fallback        
+
